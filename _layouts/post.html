@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<article>
+	<h1 class="title">{{page.title}}</h1>
+	{{ content }}
+	<p class="date">{{page.date | date: "%-d %b %Y"}}</p>
+</article>
+
+<footer>
+	<p class="nav">
+		{% if page.next.url %}
+			<span class="left">
+				<a href="{{page.next.url}}">&laquo;Previous Post</a>
+			</span>
+		{% else %}
+			<span class="left">
+				<a href="/archive.html">Archive</a>
+			</span>
+		{% endif %}
+		{% if page.previous.url %}
+			<span class="right">
+				<a href="{{page.previous.url}}">Next Post&raquo;</a>
+			</span>
+		{% else %}
+			<span class="right">
+				<!--previously, Home button shown here-->
+				<a href="/archive.html">Archive</a>
+			</span>
+		{% endif %}
+	</p>
+</footer>

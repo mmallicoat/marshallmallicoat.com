@@ -1,0 +1,47 @@
+---
+layout: default
+title: Home
+---
+{% for post in paginator.posts %}
+	<article>
+		<h1>
+			<a href="{{ post.url }}">{{post.title}}</a>
+		</h1>
+		{{post.content}}
+		<p class="date">{{post.date | date: "%-d %b %Y"}}</p>
+	</article>
+{% endfor %}
+
+<footer>
+	<p class="nav">
+		{% if paginator.previous_page %}
+			<!--if more than one prev page, can use paginator code -->
+			{% if paginator.previous_page > 1 %}
+				<span class="left">
+					<a href="/page{{paginator.previous_page}}">&laquo;Previous Page</a>
+				</span>
+			<!--otherwise, prev button goes to the home page -->
+			{% else %}
+				<span class="left">
+					<a href="/">&laquo;Previous Page</a>
+				</span>
+			{% endif %}
+		{% else %}
+			<!--if there is no prev page (i.e. on home page), display contact button -->
+			<span class="left">
+				<a href="/contact.html">Contact</a>
+			</span>
+		{% endif %}
+		<!--if there is a next page, add net buttom -->
+		{% if paginator.next_page %}
+			<span class="right">
+				<a href="/page{{paginator.next_page}}">Next Page&raquo;</a>
+			</span>
+		<!--otherwise, show archive button -->
+		{% else %}
+			<span class="right">
+				<a href="/archive.html">Archive</a>
+			</span>
+		{% endif %}
+	</p>
+</footer>
