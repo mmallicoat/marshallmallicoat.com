@@ -6,9 +6,30 @@
     <atom:link href="http://marshallmallicoat.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en</language>
-    <pubDate>Wed, 15 Jul 2015 18:16:14 -0400</pubDate>
-    <lastBuildDate>Wed, 15 Jul 2015 18:16:14 -0400</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2015 20:35:05 -0400</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2015 20:35:05 -0400</lastBuildDate>
 
+    
+    <item>
+      <title>Song Template</title>
+      <link>http://marshallmallicoat.com/2015/07/29/song.html</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 -0400</pubDate>
+      <author>MM</author>
+      <guid>http://marshallmallicoat.com/2015/07/29/song.html</guid>
+      <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+&lt;source src=&quot;/media/Peacock.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+Sorry, your browser failed to load the HTML5 audio player.
+&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Lyrics to Peacock&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Berlin, Berlin&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;He&amp;rsquo;s the only one who knows the words&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/media/Peacock.mp3&quot;&gt;Download song here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Vanitas</title>
