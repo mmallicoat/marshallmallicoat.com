@@ -6,28 +6,37 @@
     <atom:link href="http://marshallmallicoat.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en</language>
-    <pubDate>Tue, 28 Jul 2015 20:35:05 -0400</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2015 20:35:05 -0400</lastBuildDate>
+    <pubDate>Sun, 06 Sep 2015 12:36:18 -0400</pubDate>
+    <lastBuildDate>Sun, 06 Sep 2015 12:36:18 -0400</lastBuildDate>
 
     
     <item>
-      <title>Song Template</title>
-      <link>http://marshallmallicoat.com/2015/07/29/song.html</link>
-      <pubDate>Wed, 29 Jul 2015 00:00:00 -0400</pubDate>
+      <title>Blue Limousine</title>
+      <link>http://marshallmallicoat.com/2015/09/06/blue-limousine.html</link>
+      <pubDate>Sun, 06 Sep 2015 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/07/29/song.html</guid>
+      <guid>http://marshallmallicoat.com/2015/09/06/blue-limousine.html</guid>
       <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
-&lt;source src=&quot;/media/Peacock.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+&lt;source src=&quot;/media/Blue Limousine.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
 Sorry, your browser failed to load the HTML5 audio player.
 &lt;/audio&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Lyrics to Peacock&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/media/Blue Limousine.mp3&quot;&gt;Download here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prelude</title>
+      <link>http://marshallmallicoat.com/2015/08/02/prelude.html</link>
+      <pubDate>Sun, 02 Aug 2015 00:00:00 -0400</pubDate>
+      <author>MM</author>
+      <guid>http://marshallmallicoat.com/2015/08/02/prelude.html</guid>
+      <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+&lt;source src=&quot;/media/Prelude.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+Sorry, your browser failed to load the HTML5 audio player.
+&lt;/audio&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Berlin, Berlin&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;He&amp;rsquo;s the only one who knows the words&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/media/Peacock.mp3&quot;&gt;Download song here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/media/Prelude.mp3&quot;&gt;Download here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
