@@ -6,9 +6,24 @@
     <atom:link href="http://marshallmallicoat.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en</language>
-    <pubDate>Sun, 01 Nov 2015 15:33:45 -0500</pubDate>
-    <lastBuildDate>Sun, 01 Nov 2015 15:33:45 -0500</lastBuildDate>
+    <pubDate>Sat, 05 Dec 2015 14:33:50 -0500</pubDate>
+    <lastBuildDate>Sat, 05 Dec 2015 14:33:50 -0500</lastBuildDate>
 
+    
+    <item>
+      <title>Looking to Get Dead</title>
+      <link>http://marshallmallicoat.com/2015/12/05/looking-to-get-dead.html</link>
+      <pubDate>Sat, 05 Dec 2015 00:00:00 -0500</pubDate>
+      <author>MM</author>
+      <guid>http://marshallmallicoat.com/2015/12/05/looking-to-get-dead.html</guid>
+      <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+&lt;source src=&quot;/media/Looking to Get Dead.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+Sorry, your browser failed to load the HTML5 audio player.
+&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/media/Looking to Get Dead.mp3&quot;&gt;Download here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Carbon</title>
