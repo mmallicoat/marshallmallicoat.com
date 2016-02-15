@@ -5,7 +5,7 @@ title: Archive
 <div class="archive">
 	<h1>Archive</h1>
 	<ul>
-	    {% for post in site.posts %}
+		{% for post in site.posts %}
 			<li>
 				<span>
 					{{post.date | date: "%-d %b %Y"}} &nbsp;
@@ -13,7 +13,7 @@ title: Archive
 				&raquo;
 				<a href="{{ post.url }}">{{post.title}}</a>
 			</li>
-    	{% endfor %}
+		{% endfor %}
    	</ul>
 </div>
 
