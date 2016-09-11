@@ -3,19 +3,194 @@
 <channel>
     <title>Marshall Mallicoat</title>
     <link>http://marshallmallicoat.com/</link>
-    <atom:link href="http://marshallmallicoat.com/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://marshallmallicoat.com/feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en</language>
-    <pubDate>Sun, 07 Feb 2016 11:38:19 -0500</pubDate>
-    <lastBuildDate>Sun, 07 Feb 2016 11:38:19 -0500</lastBuildDate>
+    <pubDate>Sun, 11 Sep 2016 12:34:21 -0400</pubDate>
+    <lastBuildDate>Sun, 11 Sep 2016 12:34:21 -0400</lastBuildDate>
 
     
     <item>
+      <title>BCNU</title>
+      <link>http://marshallmallicoat.com/albums/2016/09/11/BCNU.html</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 -0400</pubDate>
+      <author>MM</author>
+      <guid>http://marshallmallicoat.com/albums/2016/09/11/BCNU.html</guid>
+      <description>&lt;p&gt; &lt;script type=&quot;text/javascript&quot; src=&quot;/js/audio.js&quot;&gt;&lt;/script&gt; &lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; 
+    &lt;p&gt;Barcelona&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;1&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/Barcelona.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt; 
+    &lt;p&gt;Prelude&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;2&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/Prelude.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+    &lt;p&gt;Loser&amp;rsquo;s Zodiac&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;3&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/Loser&#39;s Zodiac.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt; 
+    &lt;p&gt;Kansas City Star&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;4&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/Kansas City Star.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt; 
+    &lt;p&gt;Looking to Get Dead&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;5&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/Looking to Get Dead.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt; 
+    &lt;p&gt;Carbon&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;6&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/Carbon.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+
+&lt;li&gt; 
+    &lt;p&gt;The Coming Insurrection&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;7&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/The Coming Insurrection.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt; 
+    &lt;p&gt;Golden Age of the Negro Leagues&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;8&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/Golden Age of the Negro Leagues.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt; 
+    &lt;p&gt;My Good Friend&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;9&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/My Good Friend.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt; 
+    &lt;p&gt;Lucky Stars&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;10&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/Lucky Stars.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt; 
+    &lt;p&gt;Blue Limousine&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;11&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/Blue Limousine.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt; 
+    &lt;p&gt;Moving Sidewalks&lt;/p&gt;
+    &lt;p&gt;&lt;audio id=&quot;12&quot; class=&quot;song&quot; controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+        &lt;source src=&quot;/media/Moving Sidewalks.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+        Sorry, your browser failed to load the HTML5 audio player.
+    &lt;/audio&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;/media/Marshall Mallicoat - BCNU.zip&quot;&gt;Download the album here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Barcelona</title>
+      <link>http://marshallmallicoat.com/songs/2016/07/04/barcelona.html</link>
+      <pubDate>Mon, 04 Jul 2016 00:00:00 -0400</pubDate>
+      <author>MM</author>
+      <guid>http://marshallmallicoat.com/songs/2016/07/04/barcelona.html</guid>
+      <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+&lt;source src=&quot;/media/Barcelona.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+Sorry, your browser failed to load the HTML5 audio player.
+&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/media/Barcelona.mp3&quot;&gt;Download here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Golden Age of the Negro Leagues</title>
+      <link>http://marshallmallicoat.com/songs/2016/06/19/golden-age-of-the-negro-leagues.html</link>
+      <pubDate>Sun, 19 Jun 2016 00:00:00 -0400</pubDate>
+      <author>MM</author>
+      <guid>http://marshallmallicoat.com/songs/2016/06/19/golden-age-of-the-negro-leagues.html</guid>
+      <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+&lt;source src=&quot;/media/Golden Age of the Negro Leagues.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+Sorry, your browser failed to load the HTML5 audio player.
+&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/media/Golden Age of the Negro Leagues.mp3&quot;&gt;Download here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Loser&#39;s Zodiac</title>
+      <link>http://marshallmallicoat.com/songs/2016/05/15/losers-zodiac.html</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 -0400</pubDate>
+      <author>MM</author>
+      <guid>http://marshallmallicoat.com/songs/2016/05/15/losers-zodiac.html</guid>
+      <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+&lt;source src=&quot;/media/Loser&#39;s Zodiac.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+Sorry, your browser failed to load the HTML5 audio player.
+&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/media/Loser&#39;s Zodiac.mp3&quot;&gt;Download here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Good Friend</title>
+      <link>http://marshallmallicoat.com/songs/2016/04/03/my-good-friend.html</link>
+      <pubDate>Sun, 03 Apr 2016 00:00:00 -0400</pubDate>
+      <author>MM</author>
+      <guid>http://marshallmallicoat.com/songs/2016/04/03/my-good-friend.html</guid>
+      <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+&lt;source src=&quot;/media/My Good Friend.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+Sorry, your browser failed to load the HTML5 audio player.
+&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/media/My Good Friend.mp3&quot;&gt;Download here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kansas City Star</title>
+      <link>http://marshallmallicoat.com/songs/2016/03/06/kansas-city-star.html</link>
+      <pubDate>Sun, 06 Mar 2016 00:00:00 -0500</pubDate>
+      <author>MM</author>
+      <guid>http://marshallmallicoat.com/songs/2016/03/06/kansas-city-star.html</guid>
+      <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
+&lt;source src=&quot;/media/Kansas City Star.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+Sorry, your browser failed to load the HTML5 audio player.
+&lt;/audio&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/media/Kansas City Star.mp3&quot;&gt;Download here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The Coming Insurrection</title>
-      <link>http://marshallmallicoat.com/2016/02/07/coming-insurrection.html</link>
+      <link>http://marshallmallicoat.com/songs/2016/02/07/coming-insurrection.html</link>
       <pubDate>Sun, 07 Feb 2016 00:00:00 -0500</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2016/02/07/coming-insurrection.html</guid>
+      <guid>http://marshallmallicoat.com/songs/2016/02/07/coming-insurrection.html</guid>
       <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
 &lt;source src=&quot;/media/The Coming Insurrection.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
 Sorry, your browser failed to load the HTML5 audio player.
@@ -27,10 +202,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Lucky Stars</title>
-      <link>http://marshallmallicoat.com/2016/01/10/lucky-stars.html</link>
+      <link>http://marshallmallicoat.com/songs/2016/01/10/lucky-stars.html</link>
       <pubDate>Sun, 10 Jan 2016 00:00:00 -0500</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2016/01/10/lucky-stars.html</guid>
+      <guid>http://marshallmallicoat.com/songs/2016/01/10/lucky-stars.html</guid>
       <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
 &lt;source src=&quot;/media/Lucky Stars.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
 Sorry, your browser failed to load the HTML5 audio player.
@@ -42,10 +217,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Looking to Get Dead</title>
-      <link>http://marshallmallicoat.com/2015/12/05/looking-to-get-dead.html</link>
+      <link>http://marshallmallicoat.com/songs/2015/12/05/looking-to-get-dead.html</link>
       <pubDate>Sat, 05 Dec 2015 00:00:00 -0500</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/12/05/looking-to-get-dead.html</guid>
+      <guid>http://marshallmallicoat.com/songs/2015/12/05/looking-to-get-dead.html</guid>
       <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
 &lt;source src=&quot;/media/Looking to Get Dead.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
 Sorry, your browser failed to load the HTML5 audio player.
@@ -57,10 +232,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Carbon</title>
-      <link>http://marshallmallicoat.com/2015/11/01/carbon.html</link>
+      <link>http://marshallmallicoat.com/songs/2015/11/01/carbon.html</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/11/01/carbon.html</guid>
+      <guid>http://marshallmallicoat.com/songs/2015/11/01/carbon.html</guid>
       <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
 &lt;source src=&quot;/media/Carbon.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
 Sorry, your browser failed to load the HTML5 audio player.
@@ -72,10 +247,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Moving Sidewalks</title>
-      <link>http://marshallmallicoat.com/2015/10/04/moving-sidewalks.html</link>
+      <link>http://marshallmallicoat.com/songs/2015/10/04/moving-sidewalks.html</link>
       <pubDate>Sun, 04 Oct 2015 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/10/04/moving-sidewalks.html</guid>
+      <guid>http://marshallmallicoat.com/songs/2015/10/04/moving-sidewalks.html</guid>
       <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
 &lt;source src=&quot;/media/Moving Sidewalks.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
 Sorry, your browser failed to load the HTML5 audio player.
@@ -87,10 +262,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Blue Limousine</title>
-      <link>http://marshallmallicoat.com/2015/09/06/blue-limousine.html</link>
+      <link>http://marshallmallicoat.com/songs/2015/09/06/blue-limousine.html</link>
       <pubDate>Sun, 06 Sep 2015 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/09/06/blue-limousine.html</guid>
+      <guid>http://marshallmallicoat.com/songs/2015/09/06/blue-limousine.html</guid>
       <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
 &lt;source src=&quot;/media/Blue Limousine.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
 Sorry, your browser failed to load the HTML5 audio player.
@@ -102,10 +277,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Prelude</title>
-      <link>http://marshallmallicoat.com/2015/08/02/prelude.html</link>
+      <link>http://marshallmallicoat.com/songs/2015/08/02/prelude.html</link>
       <pubDate>Sun, 02 Aug 2015 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/08/02/prelude.html</guid>
+      <guid>http://marshallmallicoat.com/songs/2015/08/02/prelude.html</guid>
       <description>&lt;p&gt;&lt;audio controls=&quot;controls&quot; preload=&quot;metadata&quot;&gt;
 &lt;source src=&quot;/media/Prelude.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
 Sorry, your browser failed to load the HTML5 audio player.
@@ -117,17 +292,17 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Vanitas</title>
-      <link>http://marshallmallicoat.com/2015/07/15/vanitas.html</link>
+      <link>http://marshallmallicoat.com/essays/2015/07/15/vanitas.html</link>
       <pubDate>Wed, 15 Jul 2015 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/07/15/vanitas.html</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Grave Plots&lt;/strong&gt;&lt;/p&gt;
+      <guid>http://marshallmallicoat.com/essays/2015/07/15/vanitas.html</guid>
+      <description>&lt;h2&gt;Grave Plots&lt;/h2&gt;
 
 &lt;p&gt;My parents came into a couple grave plots. (I don&amp;rsquo;t know how.) They&amp;rsquo;re trying to flip them, since they already have spots reserved. They say that the cemetery in question isn&amp;rsquo;t as desirable as it used to be, so they want to unload them fast. Especially since cremation is getting more popular.&lt;/p&gt;
 
 &lt;p&gt;My mom on cremation: &lt;em&gt;You don&amp;rsquo;t amount to much.&lt;/em&gt; Just a two-pint Ziploc. She dumped her mother&amp;rsquo;s ashes illegally off the Pacific coast, by where the &lt;em&gt;Twilight&lt;/em&gt; movies were shot. The remainder was pressed into a bead that she keeps on her Pandora bracelet. (This one aside, she has about $1300 in charms on it.)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Notice&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Notice&lt;/h2&gt;
 
 &lt;p&gt;I&amp;rsquo;ve come to understand the things I&amp;rsquo;ve left at my parents&amp;rsquo; house, since moving out, as &lt;em&gt;horcruxes.&lt;/em&gt; I&amp;rsquo;ll keep them there safe&amp;mdash;my old t-shirts and books&amp;mdash;in case I&amp;rsquo;m cut down in the street. (Tho if I was hit by a car tomorrow, this and everything else on my computer would be lost forever.)&lt;/p&gt;
 
@@ -135,7 +310,7 @@ Sorry, your browser failed to load the HTML5 audio player.
 
 &lt;p&gt;I received a Google Alert when my grandfather&amp;rsquo;s Obits4Life page went live, since I was listed among the bereft. My inheritance remains obscure. It&amp;rsquo;s like I was left a set of shoe trees, but threw them out, not knowing what they were for.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Old Man Mallicoat&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Old Man Mallicoat&lt;/h2&gt;
 
 &lt;p&gt;I plan to bald gracefully. I&amp;rsquo;ll keep it real short and see if I can slide by for a couple decades. If it gets too bad, I&amp;rsquo;ll shave it all off and be done with it.&lt;/p&gt;
 
@@ -147,7 +322,7 @@ Sorry, your browser failed to load the HTML5 audio player.
 
 &lt;p&gt;For my wake, lay me out on a California king. Run my obituary in the &lt;em&gt;Kansas City Star&lt;/em&gt;, my preferred newspaper of record.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Vanity&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Vanity&lt;/h2&gt;
 
 &lt;p&gt;My desk dictionary memorializes Christopher Columbus as thus: &lt;em&gt;1451-1506 Ital. navigator; disc. Am.&lt;/em&gt; I doubt my legacy will be abbreviated so succinctly.&lt;/p&gt;
 
@@ -161,10 +336,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>John Henry</title>
-      <link>http://marshallmallicoat.com/2015/06/21/john-henry.html</link>
+      <link>http://marshallmallicoat.com/essays/2015/06/21/john-henry.html</link>
       <pubDate>Sun, 21 Jun 2015 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/06/21/john-henry.html</guid>
+      <guid>http://marshallmallicoat.com/essays/2015/06/21/john-henry.html</guid>
       <description>&lt;p&gt;&lt;strong&gt;Emails from your boss, written in the form of a question, with a period at the end&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Smart people are house slaves to the rich. Even among the aliens, the Nordic whites rule over the little greens and grays. To my landlord, I am an encumbrance on the property. To my employer, a capital outlay. I find it hard to believe that, in three million years of fossil record, there is not a single lizard man.&lt;/p&gt;
@@ -199,10 +374,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Junkie, don&#39;t talk to me</title>
-      <link>http://marshallmallicoat.com/2015/05/09/junkie.html</link>
+      <link>http://marshallmallicoat.com/essays/2015/05/09/junkie.html</link>
       <pubDate>Sat, 09 May 2015 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/05/09/junkie.html</guid>
+      <guid>http://marshallmallicoat.com/essays/2015/05/09/junkie.html</guid>
       <description>&lt;p&gt;&lt;strong&gt;Cold water after black coffee is like tempering steel&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ve come to a calm in the midst of my mid-morning coffee&amp;mdash;my first and only coffee of the day. The fog in my head burns off. The wool-legged spiders who cobweb my attic disperse.&lt;/p&gt;
@@ -245,10 +420,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Dolphins in the Black Sea</title>
-      <link>http://marshallmallicoat.com/2015/04/07/dolphins-in-the-black-sea.html</link>
+      <link>http://marshallmallicoat.com/essays/2015/04/07/dolphins-in-the-black-sea.html</link>
       <pubDate>Tue, 07 Apr 2015 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/04/07/dolphins-in-the-black-sea.html</guid>
+      <guid>http://marshallmallicoat.com/essays/2015/04/07/dolphins-in-the-black-sea.html</guid>
       <description>&lt;p&gt;&lt;strong&gt;Istanbul&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;This last month I went to Istanbul to visit my friend. He&amp;rsquo;s been living there since October. The flight took 10 hours by Turkish Airlines. (They served two meals, which were surprisingly good. They also allow up to two free checked bags. It was not half the sweaty, claustrophobic nightmare ride that it could have been. I would recommend this airline.)&lt;/p&gt;
@@ -281,10 +456,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Thoughts on sports</title>
-      <link>http://marshallmallicoat.com/2015/03/02/thoughts-on-sports.html</link>
+      <link>http://marshallmallicoat.com/essays/2015/03/02/thoughts-on-sports.html</link>
       <pubDate>Mon, 02 Mar 2015 00:00:00 -0500</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/03/02/thoughts-on-sports.html</guid>
+      <guid>http://marshallmallicoat.com/essays/2015/03/02/thoughts-on-sports.html</guid>
       <description>&lt;p&gt;&lt;strong&gt;Golf&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The inner workings of a miniature golf course amount to a secret gospel.&lt;/p&gt;
@@ -325,10 +500,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>In the twilight of GMT+1</title>
-      <link>http://marshallmallicoat.com/2015/02/02/in-the-twilight.html</link>
+      <link>http://marshallmallicoat.com/essays/2015/02/02/in-the-twilight.html</link>
       <pubDate>Mon, 02 Feb 2015 00:00:00 -0500</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/02/02/in-the-twilight.html</guid>
+      <guid>http://marshallmallicoat.com/essays/2015/02/02/in-the-twilight.html</guid>
       <description>&lt;p&gt;The telegraph was an early internet, with its own lolcats and leetspeak. To people in the future, we probly seem like steampunks: one foot in the last century, carrying our brains around in our pockets like Tamagotchis.&lt;/p&gt;
 
 &lt;p&gt;To open a file on your computer, you touch an arrowhead to a tiny picture of a manila folder. When you want to save, an artist&amp;rsquo;s rendering of a 3.5” floppy disk. Clicking on a trashcan will de-index a block of memory. If the world was Tetris, we&amp;rsquo;d all have roofs with holes in them (or no roofs at all). &lt;/p&gt;
@@ -349,10 +524,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>My brief roommate</title>
-      <link>http://marshallmallicoat.com/2015/01/05/lorraine.html</link>
+      <link>http://marshallmallicoat.com/essays/2015/01/05/lorraine.html</link>
       <pubDate>Mon, 05 Jan 2015 00:00:00 -0500</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2015/01/05/lorraine.html</guid>
+      <guid>http://marshallmallicoat.com/essays/2015/01/05/lorraine.html</guid>
       <description>&lt;p&gt;Her name is Lorraine, like the motel where Martin Luther King was shot.&lt;/p&gt;
 
 &lt;p&gt;Long tangled hair, grey-brown. Bad teeth. 52 and haggard.&lt;/p&gt;
@@ -406,10 +581,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Currency</title>
-      <link>http://marshallmallicoat.com/2014/12/01/currency.html</link>
+      <link>http://marshallmallicoat.com/essays/2014/12/01/currency.html</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 -0500</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2014/12/01/currency.html</guid>
+      <guid>http://marshallmallicoat.com/essays/2014/12/01/currency.html</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;People make light of the weird pyramid on the back of the one dollar bill (and the floating Eye above it)&amp;mdash;but they never mention the blighted little shrubs at its foot, or the miasmas rising from the cracked landscape behind.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;You can fold the twenty dollar bill in such a way that the low barberry hedges behind the White House transform into smoke billowing from the World Trade. And a quarter has 119 ridges on the edge [called &lt;em&gt;reeds&lt;/em&gt;], which we all know is 9/11 backwards.&lt;/p&gt;&lt;/li&gt;
@@ -425,10 +600,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>The ten Crack Commandments with taglines from the X-Files</title>
-      <link>http://marshallmallicoat.com/2014/11/03/crack-commandments.html</link>
+      <link>http://marshallmallicoat.com/essays/2014/11/03/crack-commandments.html</link>
       <pubDate>Mon, 03 Nov 2014 00:00:00 -0500</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2014/11/03/crack-commandments.html</guid>
+      <guid>http://marshallmallicoat.com/essays/2014/11/03/crack-commandments.html</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Never let no one know how much dough you hold&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;em&gt;The truth is out there&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
@@ -456,10 +631,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>If you buy the car, you get to kick the tires</title>
-      <link>http://marshallmallicoat.com/2014/10/13/kick-the-tires.html</link>
+      <link>http://marshallmallicoat.com/essays/2014/10/13/kick-the-tires.html</link>
       <pubDate>Mon, 13 Oct 2014 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2014/10/13/kick-the-tires.html</guid>
+      <guid>http://marshallmallicoat.com/essays/2014/10/13/kick-the-tires.html</guid>
       <description>&lt;p&gt;&lt;strong&gt;Long Vacation&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;I quit my insurance job for another insurance job in Hartford, Conn. I packed everything I own into the Buick that my grampa left me&amp;mdash;my beautiful big body Buick&amp;mdash;and drove 100 miles deeper into New England.&lt;/p&gt;
@@ -516,10 +691,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>His friends called him Jay</title>
-      <link>http://marshallmallicoat.com/2014/09/01/called-him-jay.html</link>
+      <link>http://marshallmallicoat.com/essays/2014/09/01/called-him-jay.html</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2014/09/01/called-him-jay.html</guid>
+      <guid>http://marshallmallicoat.com/essays/2014/09/01/called-him-jay.html</guid>
       <description>&lt;p&gt;A mover&amp;rsquo;s joke:&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Mover: Where&amp;rsquo;s the apartment?&lt;br&gt;
 &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Man: It&amp;rsquo;s up on the second floor.&lt;br&gt;
@@ -567,10 +742,10 @@ Sorry, your browser failed to load the HTML5 audio player.
     
     <item>
       <title>Greetings from the Golden Corral</title>
-      <link>http://marshallmallicoat.com/2014/08/03/greetings-from.html</link>
+      <link>http://marshallmallicoat.com/essays/2014/08/03/greetings-from.html</link>
       <pubDate>Sun, 03 Aug 2014 00:00:00 -0400</pubDate>
       <author>MM</author>
-      <guid>http://marshallmallicoat.com/2014/08/03/greetings-from.html</guid>
+      <guid>http://marshallmallicoat.com/essays/2014/08/03/greetings-from.html</guid>
       <description>&lt;p&gt;I have certain information to share with you. I recently moved into a room separated from a smaller room by drywall. Where I can hear someone shifting around inside, listening to the BBC World Service.&lt;/p&gt;
 
 &lt;p&gt;I can tell you that horses are measured in &lt;em&gt;hands&lt;/em&gt;. The tallest being over 20 hands high. Also: the nub on a horse&amp;rsquo;s leg&amp;mdash;a vestigial thumb&amp;mdash;is called the &lt;em&gt;chestnut&lt;/em&gt;. And the bottom of a horse&amp;rsquo;s hoof is called the &lt;em&gt;frog&lt;/em&gt;. (Truly.)&lt;/p&gt;

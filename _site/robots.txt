@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
-
-Sitemap: http://www.marshallmallicoat.com/sitemap.xml
+Sitemap: https://www.marshallmallicoat.com/sitemap.xml
