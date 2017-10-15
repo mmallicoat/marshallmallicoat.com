@@ -15,3 +15,6 @@ Maybe will move dates to *top* of posts.
 "Feed" is sometimes on left and sometimes on right, but should maybe be consistent.
 Is the Archive page used anymore, given that the home page is arranged basically like an archive?
 Could maybe remove Archive page, then.
+
+# Gitignore
+Add .gitignore file for .DS_Store and any stray files.
