@@ -115,10 +115,11 @@ footer {
   border-top: 1px solid #ccc;
 }
 
-/*bottom naviagation buttons*/
-footer .nav        {display: table; width: 100%;}
-footer .nav .left  {display: table-cell; text-align: left;}
-footer .nav .right {display: table-cell; text-align: right;}
+/**********Navigation Links*************/
+/* margin for nav set to be same as p */
+nav        {display: table; width: 100%; margin: 0.5em 0;}
+nav .left  {display: table-cell; text-align: left;}
+nav .right {display: table-cell; text-align: right;}
 
 
 /***************Media Queries*****************/

@@ -14,7 +14,4 @@ Maybe will move dates to *top* of posts.
 # Nav Bar
 "Feed" is sometimes on left and sometimes on right, but should maybe be consistent.
 Is the Archive page used anymore, given that the home page is arranged basically like an archive?
-
-# Contact
-Maybe change contact page to an "About" page.
-Add short bio, something about website, and contact info.
+Could maybe remove Archive page, then.

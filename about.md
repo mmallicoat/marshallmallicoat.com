@@ -13,12 +13,12 @@ title: About
 </article>
 
 <footer>
-  <p class="nav">
+  <nav>
     <span class="left">
       <a href="/index.html">Home</a>
     </span>
     <span class="right">
       <a href="/feed.xml">Feed</a>
     </span>
-  </p>
+  </nav>
 </footer>

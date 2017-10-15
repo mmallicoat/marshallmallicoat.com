@@ -18,12 +18,12 @@ title: Archive
 </div>
 
 <footer>
-  <p class="nav">
+  <nav>
     <span class="left">
       <a href="/about.html">About</a>
     </span>
     <span class="right">
       <a href="/feed.xml">Feed</a>
     </span>
-  </p>
+  </nav>
 </footer>

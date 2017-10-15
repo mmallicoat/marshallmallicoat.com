@@ -3,7 +3,7 @@ markdown: redcarpet
 redcarpet:
   extensions: ['smart']		#smartypants extension (--- for em dash, etc.)
 highlighter: 'pygments'		#was "pygments: 'true'" but Jekyll changed name
-source: /Users/user/Documents/Blog/Current
+source: ~/Documents/Blog/Source
 # paginate: 3
-# destination: ./_site		#unnecessary, since this is by default
+destination: ~/Documents/Blog/Site		# default is ./_site
 # future: false			#will build all posts, not just future-dated ones
