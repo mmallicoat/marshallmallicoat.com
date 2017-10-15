@@ -3,9 +3,11 @@ layout: default
 title: About
 ---
 <article>
-  <h1>About</h1>
-  <p>My name is Marshall Mallicoat. I was born in 1988 in the USA. I grew up in the suburbs of Kansas City, MO and currently live in Hartford, CT. I work in insurance.</p>
-  <p>This site is home for my writing and music.</p>
+  <h1>About Me</h1>
+  <p>My name is Marshall Mallicoat. I was born in 1988 in the USA. I grew up in the suburbs of Kansas City, MO and currently live in Hartford, CT. I work in insurance. This site is home to my writing and music.</p>
+
+  <h1>About Site</h1>
+  <p>The site is written in Markdown and compiled with the Jekyll static site generator. The source files are available on <a href="https://github.com/mmallicoat/marshallmallicoat.com">Github</a>. The TLS certificate is provided by <a href="https://letsencrypt.org">Let's Encrypt</a>.</p>
 
   <h1>Contact</h1>
   <p>Email: marshall@marshallmallicoat.com</p>
