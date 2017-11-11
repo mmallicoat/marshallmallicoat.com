@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article>
+  <header><h1>{{ page.title }}</h1></header>
+  <footer>
+    {% if page.modified %}
+        <time class="modified" datetime="{{ page.modified.isoformat() }}">
+        {{ page.modified|strftime('%d %b %Y') }}</time>
+    {% endif %}
+  </footer>
+
+  {{ page.content }}
+
+</article>
+{% endblock content %}

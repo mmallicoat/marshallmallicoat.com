@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+    {% block head %}
+    <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" />
+    {% endblock head %}
+</head>
+
+<body>
+  <header>
+  {% block header %}
+      <h1><a href="{{ SITEURL }}/" title="Home">{{ SITENAME }}</a></h1>
+  {% endblock header %}
+  </header>
+
+  <main>
+  {% block content %}
+  {% endblock content %}
+  </main>
+
+  <hr>
+  <footer>
+  {% block footer %}
+  <nav>
+    <h3>Navigation</h3>
+    <ul>
+      <li><a href="{{ SITEURL }}/">Home</a></li>
+      <li><a href="{{ SITEURL }}/about.html">About</a></li>
+      <li><a href="{{ SITEURL }}/feed.xml">Feed</a></li>
+    </ul>
+  {% endblock footer %}
+  </nav>
+  </footer>
+</body>
+</html>

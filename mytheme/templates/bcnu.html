@@ -1,0 +1,109 @@
+{% extends "base.html" %}
+
+{% block head %}
+    {{ super() }}
+   <script type="text/javascript" src="{{ SITEURL }}{{ SITEURL }}/theme/js/audio.js"></script>
+{% endblock head %}
+
+{% block content %}
+<article>
+  <header><h1>{{ page.title }}</h1></header>
+  <footer>
+    {% if page.date %}
+        <time class="published" datetime="{{ page.date.isoformat() }}">
+        {{ page.date|strftime('%d %b %Y') }}</time>
+    {% endif %}
+  </footer>
+
+<ol>
+<li> 
+    <p>Barcelona</p>
+    <p><audio id="1" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/Barcelona.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+<li> 
+    <p>Prelude</p>
+    <p><audio id="2" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/Prelude.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+<li>
+    <p>Loser's Zodiac</p>
+    <p><audio id="3" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/Loser's Zodiac.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+<li> 
+    <p>Kansas City Star</p>
+    <p><audio id="4" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/Kansas City Star.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+<li> 
+    <p>Looking to Get Dead</p>
+    <p><audio id="5" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/Looking to Get Dead.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+<li> 
+    <p>Carbon</p>
+    <p><audio id="6" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/Carbon.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+
+<li> 
+    <p>The Coming Insurrection</p>
+    <p><audio id="7" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/The Coming Insurrection.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+<li> 
+    <p>Golden Age of the Negro Leagues</p>
+    <p><audio id="8" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/Golden Age of the Negro Leagues.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+<li> 
+    <p>My Good Friend</p>
+    <p><audio id="9" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/My Good Friend.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+<li> 
+    <p>Lucky Stars</p>
+    <p><audio id="10" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/Lucky Stars.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+<li> 
+    <p>Blue Limousine</p>
+    <p><audio id="11" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/Blue Limousine.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+<li> 
+    <p>Moving Sidewalks</p>
+    <p><audio id="12" class="song" controls="controls" preload="metadata">
+        <source src="{{ SITEURL }}/media/Moving Sidewalks.mp3" type="audio/mpeg">
+        Sorry, your browser failed to load the HTML5 audio player.
+    </audio></p>
+</li>
+</ol>
+
+{{ page.content }}
+
+</article>
+{% endblock content %}
