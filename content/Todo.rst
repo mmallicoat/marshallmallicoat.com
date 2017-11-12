@@ -18,6 +18,13 @@ Todo
 * Do I really need a sitemap? Some `tips <https://github.com/getpelican/pelican/wiki/Tips-n-Tricks>`_ to implement this.
 * How to do em-dashes in rST?
 
+Git
+---
+* I have created a local branch called ``pelican`` of the git repo.
+* When I push to the master branch, I need to do it correctly.
+  This `Stackoverflow question <https://stackoverflow.com/questions/4752387/pushing-a-local-branch-up-to-github>`_ has some info that might
+  be helpful.
+
 Design Notes
 ------------
 * Maybe redesign the view, e.g. maybe a white background. `This site`_ has nice text.
