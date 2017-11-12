@@ -1,10 +1,10 @@
-:title:  Thoughts on sport
+:title:  Thoughts on sports
 :date:   2015-03-02
 :category: Essays
 :slug: thoughts-on-sports
 
-
-**Golf**
+Golf
+====
 
 The inner workings of a miniature golf course amount to a secret gospel.
 
@@ -22,7 +22,8 @@ Temple, called the LBJ.
 
 Guessing a woman's age is a kind of golf.
 
-**Other Sports**
+Other Sports
+============
 
 Baseball is basically unwatchable, but it works on the radio.
 
@@ -42,7 +43,8 @@ The highest compliment you can pay a man is to call him a machine. Men
 strive to make themselves into weapons. This is done thru emotional
 distance, rituals of control, and repetition.
 
-**On Sportsmanship**
+On Sportsmanship
+================
 
 I was a high school wrestler for one day. I was on the swimming team but
 quit. After failing to induce vomiting in the bathroom, I lied about
@@ -53,7 +55,7 @@ In job interviews, I extemporize on my temperament as if I were a race
 horse. As long as they let me down easy, I don't care if I don't get a
 call back. To be listed among the also-rans is enough for me. I'm like a
 retired greyhound who's too skinny to lie down on hardwood floors. I
-understand back pain--what I lack is *context* for my back pain.
+understand back pain—what I lack is *context* for my back pain.
 
 I saw a picture of the man with the biggest hands in the world, posing
 with a basketball. But he doesn't even play basketball. He just holds it

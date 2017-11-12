@@ -3,8 +3,8 @@
 :category: Essays
 :slug: john-henry
 
-**Emails from your boss, written in the form of a question, with a
-period at the end**
+Emails from your boss, written in the form of a question, with a period at the end
+==================================================================================
 
 Smart people are house slaves to the rich. Even among the aliens, the
 Nordic whites rule over the little greens and grays. To my landlord, I
@@ -23,7 +23,8 @@ face forward, they can only see the top of your head.
 I found a spot behind the security desk at the mall where I can watch
 the guards idly browse the internet.
 
-**John Henry**
+John Henry
+==========
 
 To survive in white collar labor, you must cultivate a certain
 lassitude, and wear it as a suit of armor. If the work load is heavy,
@@ -36,12 +37,12 @@ When the railroads were built, work songs were sung to set the pace of
 labor. It kept everyone working at a level of exertion that could be
 kept up all day in the hot sun without risking death. It also kept every
 working at the same rate, so no one could foolishly work harder to win
-the graces of the foreman---which would force everyone else to work
+the graces of the foreman—which would force everyone else to work
 harder, and thereby endanger both their welfare and their lives.
 
 In the office, there's no sound other than the dull hum of the air
 conditioner and the cricketsong of computers. And your coworkers are all
-blood doping---cranking on the commute, then drinking themselves to
+blood doping—cranking on the commute, then drinking themselves to
 sleep at night. How can you keep up without joining in?
 
 John Henry was able to beat the steel-driving machine thru sheer effort.
@@ -49,7 +50,8 @@ But afterward, his heart gave out and he soon died. The "Ballad of John
 Henry" says “That old hammer killed John Henry / but that old hammer
 won't kill me”. I'm saying, that old hammer won't kill me.
 
-**Not an apartment, but a dark hole I lived in for 3 years**
+Not an apartment, but a dark hole I lived in for 3 years
+========================================================
 
 To vacate an apartment without incident feels like getting away with a
 crime. You drag your mattress down the stairwell and leave it in a

@@ -4,7 +4,7 @@
 :category: Essays
 
 -  People make light of the weird pyramid on the back of the one dollar
-   bill (and the floating Eye above it)---but they never mention the
+   bill (and the floating Eye above it)—but they never mention the
    blighted little shrubs at its foot, or the miasmas rising from the
    cracked landscape behind.
 

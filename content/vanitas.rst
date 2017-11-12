@@ -22,8 +22,8 @@ Notice
 ------
 
 I've come to understand the things I've left at my parents' house, since
-moving out, as *horcruxes.* I'll keep them there safe---my old t-shirts
-and books---in case I'm cut down in the street. (Tho if I was hit by a
+moving out, as *horcruxes.* I'll keep them there safe—my old t-shirts
+and books—in case I'm cut down in the street. (Tho if I was hit by a
 car tomorrow, this and everything else on my computer would be lost
 forever.)
 

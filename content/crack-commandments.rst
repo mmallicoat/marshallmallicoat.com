@@ -3,33 +3,43 @@
 :slug: crack-commandments
 :category: Essays
 
-1.  | Never let no one know how much dough you hold
-    |       *The truth is out there*
+1. Never let no one know how much dough you hold
 
-2.  | Never let them know your next move
-    |       *Deny everything*
+   *The truth is out there*
 
-3.  | Never trust nobody
-    |       *Trust no one*
+2. Never let them know your next move
 
-4.  | Never get high on your own supply
-    |       *I want to believe*
+   *Deny everything*
 
-5.  | Never sell no crack where you rest at
-    |       *Apology is policy*
+3. Never trust nobody
 
-6.  | That goddamn credit, dead it
-    |       *Resist or serve*
+   *Trust no one*
 
-7.  | Keep your family and business completely separated
-    |       *Everything dies*
+4. Never get high on your own supply
 
-8.  | Never keep no weight on you
-    |       *They're watching*
+   *I want to believe*
 
-9.  | If you ain't getting bags, stay the fuck from police
-    |       *Believe to understand*
+5. Never sell no crack where you rest at
 
-10. | A strong word called consignment: strictly for live men, not
-      freshmen
-    |       *Nothing important happened today*
+   *Apology is policy*
+
+6. That goddamn credit, dead it
+
+   *Resist or serve*
+
+7. Keep your family and business completely separated
+
+   *Everything dies*
+
+8. Never keep no weight on you
+
+   *They're watching*
+
+9. If you ain't getting bags, stay the fuck from police
+
+   *Believe to understand*
+
+10. A strong word called consignment: strictly for live men, not
+    freshmen
+
+    *Nothing important happened today*

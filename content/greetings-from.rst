@@ -8,8 +8,8 @@ room separated from a smaller room by drywall. Where I can hear someone
 shifting around inside, listening to the BBC World Service.
 
 I can tell you that horses are measured in *hands*. The tallest being
-over 20 hands high. Also: the nub on a horse's leg---a vestigial
-thumb---is called the *chestnut*. And the bottom of a horse's hoof is
+over 20 hands high. Also: the nub on a horse's leg—a vestigial
+thumb—is called the *chestnut*. And the bottom of a horse's hoof is
 called the *frog*. (Truly.)
 
 I submit that the horse is the only animal that wears shoes, tho not by

@@ -1,13 +1,15 @@
 :title:  If you buy the car, you get to kick the tires
 :date:   2014-10-13
+:modifed: 2017-11-12
 :slug: kick-the-tires
 :category: Essays
 
-**Long Vacation**
+Long Vacation
+=============
 
 I quit my insurance job for another insurance job in Hartford, Conn. I
-packed everything I own into the Buick that my grampa left me---my
-beautiful big body Buick---and drove 100 miles deeper into New England.
+packed everything I own into the Buick that my grampa left me—my
+beautiful big body Buick—and drove 100 miles deeper into New England.
 
 My stock farewell for exes and departing friends has been, *see you
 later*. I like to imagine we will meet again, if the world requires it,
@@ -15,7 +17,8 @@ if only at the resurrection of the dead. My last day at work didn't feel
 like anything more than the last day before a long vacation, from which
 I would inevitably return.
 
-**Quebec via Blandford**
+Quebec via Blandford
+====================
 
 Between jobs, I went on a road trip to Quebec. I figured Quebec was the
 closest thing to a foreign country that I could get to for $100. Passing
@@ -26,7 +29,8 @@ If you found yourself naked on the side of a highway in, say, the
 Adirondacks, what one item would you want with you? Your cell phone?
 Your wallet? A gun? Shoes?
 
-**Hostel**
+Hostel
+======
 
 In French Canada, Starbucks is called Café Starbucks. The detour sign
 says *Détour*. The deer sign is the same.
@@ -39,13 +43,14 @@ at our respective smartphones.
 Having quit drinking, there is an empty space in my life, and it's
 shaped like a pub crawl.
 
-**Montreal**
+Montreal
+========
 
 I spent the morning at the university library. I walked in the front
 door and found a seat in the study area. I was questioned by a security
 guard, but I just pretended to have forgotten my student ID and he
 relented. There was only one other person there, on a whole floor of
-long tables and dim cubicles---and he had probly just come in off the
+long tables and dim cubicles—and he had probly just come in off the
 street too.
 
 At a fancy vegan restaurant, I was given a ginger-root beet-juice drink
@@ -56,7 +61,8 @@ discovered their error and suggested I pay for the drink, which I had by
 then drank. I complied, thinking it couldn't cost that much, and ended
 up spending 8,95 CAD on some thin red wet.
 
-**Montreal 2**
+Montreal II
+===========
 
 Downtown Montreal feels like a clean, depopulated Manhattan.
 
@@ -64,7 +70,8 @@ I stepped into a biblioteque anarchiste just to browse.
 
 This city, like all cities, has been weaponized against transients.
 
-**Quebec City**
+Quebec City
+===========
 
 I drove thru a brown landscape that reminded me more of Iowa than
 France. I was doing 120 in the 100km/h.
@@ -75,8 +82,8 @@ were, but inside there are T-shirt shops. It's like Colonial
 Williamsburg without the pre-diabetic wheelwright going on about the
 Stamp Act.
 
-I walked in from the rain to a cathedral---the oldest in America north
-of Mexico---and I took off my hat in a gesture of reverence. But it felt
+I walked in from the rain to a cathedral—the oldest in America north
+of Mexico—and I took off my hat in a gesture of reverence. But it felt
 ridiculous. Why this reverence? For this so-called House-o-God, built by
 forced labor, on stolen land, with stone tore up out the ground, and
 gold leaf by way of Senegal, etc., etc.
@@ -84,7 +91,8 @@ gold leaf by way of Senegal, etc., etc.
 In making monuments of the oldest settlements, we venerate scar tissue,
 while the new wounds still bleed.
 
-**Border Crossing**
+Border Crossing
+===============
 
 At the border, I propped my door open to talk, since my window won't go
 down. The guy took the opportunity to shake it back and forth, I suppose

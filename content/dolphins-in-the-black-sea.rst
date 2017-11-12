@@ -3,7 +3,8 @@
 :category: Essays
 :slug: dolphins-in-the-black-sea
 
-**Istanbul**
+Istanbul
+========
 
 This last month I went to Istanbul to visit my friend. He's been living
 there since October. The flight took 10 hours by Turkish Airlines. (They
@@ -23,14 +24,15 @@ of life is HIGH, if not the standard of living. People eat lots of
 yogurt and drink lots of tea (with sugar cubes). There is a ferry to
 ride on. Good jackets and dark hair.
 
-**More Istanbul**
+More Istanbul
+=============
 
 In some places there are so many stray cats that it becomes
-*comical*---like a soft PUNK'ing. The stray dogs are tagged and lie
+*comical*\ —like a soft PUNK'ing. The stray dogs are tagged and lie
 around on the sidewalk.
 
-There are men who pick thru the trash for useful things---purses, shoes,
-books, appliances---and take them around on carts for people to buy,
+There are men who pick thru the trash for useful things—purses, shoes,
+books, appliances—and take them around on carts for people to buy,
 like a moving thrift shop.
 
 They have pay bathrooms in public places. I stole a shit (which would
@@ -45,7 +47,8 @@ In public, I like to pretend I'm an ethnic white person, Ukrainian or
 maybe Moldovan, who comes from a hard life of cell phone sales. I don't
 really act any different. It's mostly how I hold my jaw.
 
-**A thinky thing I thot**
+A thinky thing I thot
+=====================
 
 Everyone was well dressed, tourists from every country on Earth: good
 leather shoes or sneakers, well fitting pants, nice jackets, smart

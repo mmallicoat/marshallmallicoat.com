@@ -16,6 +16,7 @@ Todo
   maybe in the vCard (?) microformat.
 * Add a favicon?
 * Do I really need a sitemap? Some `tips <https://github.com/getpelican/pelican/wiki/Tips-n-Tricks>`_ to implement this.
+* How to do em-dashes in rST?
 
 Design Notes
 ------------

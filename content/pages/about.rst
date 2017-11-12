@@ -1,5 +1,5 @@
 :date: 2015-01-01
-:modified: 2017-11-11
+:modified: 2017-11-12
 :slug: about
 :title: About
 :category: Meta
@@ -8,11 +8,13 @@
 About Me
 ========
 My name is Marshall Mallicoat.
-I was born in 1988 in the USA.
-I grew up in the suburbs of Kansas City, MO
-and currently live in Hartford, CT.
+I was born in 1988 in the U.S.
+I grew up in the suburbs of Kansas City, Mo.
+and currently live in Hartford, Conn.
 I work in insurance.
 This site is home to my writing and music.
+
+.. Associated Press Stylebook abbreviations for state and country
 
 About Site
 ==========
@@ -26,6 +28,7 @@ The `TLS`_ certificate is provided by `Let's Encrypt`_.
 .. _`Pelican`: https://getpelican.com
 .. _`reStructuredText`: http://docutils.sourceforge.net/rst.html
 .. _`TLS`: https://en.wikipedia.org/wiki/Transport_Layer_Security
+
 
 Contact
 =======

@@ -3,13 +3,15 @@
 :category: Essays
 :slug: junkie
 
-**Cold water after black coffee is like tempering steel**
+Cold water after black coffee is like tempering steel
+=====================================================
 
-I've come to a calm in the midst of my mid-morning coffee---my first and
+
+I've come to a calm in the midst of my mid-morning coffee—my first and
 only coffee of the day. The fog in my head burns off. The wool-legged
 spiders who cobweb my attic disperse.
 
-Caffeine doesn't bring euphoria---more like an elasticity to your limbs
+Caffeine doesn't bring euphoria—more like an elasticity to your limbs
 and a humming in your head, from the amplified sound of your blood. And
 a feeling like being wrapped in warm, clean towels.
 
@@ -23,14 +25,15 @@ dry, but watching paint that had recently dried. The grass growing in
 the lawn has stalled out, and I'm languishing in a terminal middle-class
 lifestyle.
 
-**Taking dexedrine at 2am in NYC to hold you thru till 5am when Grand
-Central re-opens and you can get a train back to Connecticut**
+Taking dexedrine at 2am in NYC to hold you thru till 5am when Grand Central re-opens and you can get a train back to Connecticut
+================================================================================================================================
 
 I'd say, if caffeine was a taxi conducting your body thru the human
 traffic, that dexedrine is a black sedan speeding thru a tunnel at
 night.
 
-**Junkie**
+Junkie
+======
 
 I can tell when my mom has been drinking coffee. She is jubilant. She is
 effervescent. She *bubbles*. I tell her, "Don't talk to me, junkie."
@@ -44,7 +47,8 @@ I read an insightful observation somewhere, maybe in a Gawker comment,
 that Lindsay Lohan wasn't a cokehead, just an alcoholic who took cocaine
 to be able to drink more.
 
-**Coffee as ideology**
+Coffee as ideology
+==================
 
 1. You're in the city and there's coffee to buy. Either with brunch or
    after when you walk around the shops. Later there's beer. Someone's
@@ -60,7 +64,8 @@ to be able to drink more.
 3. I prefer the discretion of pill poppers and day drunks to the
    perverts who go to cafes after dark.
 
-**Hairy Man**
+Hairy Man
+=========
 
 In the March 2014 issue of *The Red Bulletin*, an interview with Nicolas
 Cage (“Being Nicolas Cage”) opens with “Do you think about death?” (He
@@ -69,7 +74,7 @@ does.)
 At the grocery store by the energy drinks, there is a sign that says
 "This area is monitored by Closed Circuit Television." In the aisle by
 the safety razors, the same sign, plus a sliding plastic shield across
-the shelf---presumably to slow you down when scooping them into your
+the shelf—presumably to slow you down when scooping them into your
 trash bag.
 
 The implication is that there exists a cohort of congenitally hairy men

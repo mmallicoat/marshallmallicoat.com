@@ -1,5 +1,6 @@
 :title:  My brief roommate
 :date:   2015-01-05
+:modified: 2017-11-11
 :category: Essays
 :slug: lorraine
 
@@ -15,6 +16,7 @@ hotdogs, hamburger buns, instant decaf coffee.
 Calls me Marshall or Matthew or Michael and, only once, Raymond.
 
 Frequently offers me food, which I decline.
+
 * Fruit snacks (“They got Vitamin C.”)
 * Coca-Cola (“It's fresh!”)
 * Crackers (“Whole wheat.”)
@@ -45,8 +47,9 @@ lets her wash her pissy clothes at his place.
 Asked me to buy cocaine for her once, but I said no.
 
 Some things she says:
+
 * “Oh, yeeaahh?” (face scrunches up like a chipmunk)
-* “Wooow” (breathless awe; can be said after any statement, e.g. *L: “Do you have a car?” M: "Yeah.” L: “Wooow. What color is it?” M: “Green.” L: “Wooow.”*)
+* “Wooow” (breathless awe; can be said after any statement [1]_)
 * “Can I borrow fifty cents, baby?”
 
 Is somewhat pleasant to talk to, considering.
@@ -64,3 +67,13 @@ I don't know if she has the cat hidden away somewhere or if she is
 keeping an imaginary cat.
 
 I have since moved out.
+
+.. [1] *L: “Do you have a car?”*
+
+       *M: "Yeah.”*
+
+       *L: “Wooow. What color is it?”*
+
+       *M: “Green.”*
+
+       *L: “Wooow.”*

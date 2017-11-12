@@ -119,6 +119,28 @@ section>ol, section>ul { width: 45%;
                          -webkit-padding-start: 5%;
                          -webkit-padding-end: 5%; }
 
+/* MJM revisions */
+
+/* Duplicate above for article and div.section elements */
+/* div.section is used by docutils at headings, I think */
+div.section>ol, div.section>ul { width: 45%;
+                                -webkit-padding-start: 5%;
+                                -webkit-padding-end: 5%; }
+
+article>ol, article>ul { width: 45%;
+                         -webkit-padding-start: 5%;
+                         -webkit-padding-end: 5%; }
+
+/* Override the 55% width applied to the p element when inside list */
+/* This is so the reduced width for a list doesn't stack with p */
+ol p, ul p { width: 100% }
+
+/* Harmonize heading width with other elements */
+/* To avoid very long titles from not wrapping around. */
+h1, h2, h3, h4, h5, h6 { width: 55% }
+
+/* MJM revisions end */
+
 li { padding: 0.5rem 0; }
 
 figure { padding: 0;
