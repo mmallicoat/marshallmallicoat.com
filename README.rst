@@ -1,7 +1,3 @@
-:title: marshallmallicoat.com
-:date: 2017-11-13
-:status: draft
-
 marshallmallicoat.com
 =====================
 
