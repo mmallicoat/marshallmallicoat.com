@@ -2,6 +2,7 @@
 :date: 2017-10-21
 :category: Meta
 :slug: running-pelican
+:status: draft
 
 Installing
 ----------

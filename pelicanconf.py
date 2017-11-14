@@ -19,8 +19,8 @@ EXTRA_PATH_METADATA = {
 }
 
 # Wait to set until uploading site
-# SITEURL = 'https://marshallmallicoat.com'
-SITEURL = ''
+SITEURL = 'https://marshallmallicoat.com'
+# SITEURL = ''
 
 # Try this later if you don't want to organize into subfolders
 # USE_FOLDER_AS_CATEGORY = False
