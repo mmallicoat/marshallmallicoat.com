@@ -4,5 +4,8 @@ marshallmallicoat.com
 These are the source files for my website at
 `marshallmallicoat.com <https://marshallmallicoat.com>`__.
 
-The pages are written in reStructuredText
-and compiled using the Pelican static site generator.
+The site is written in `reStructuredText`_ markup
+and compiled with the `Pelican`_ static site generator.
+
+.. _`Pelican`: https://getpelican.com
+.. _`reStructuredText`: http://docutils.sourceforge.net/rst.html
