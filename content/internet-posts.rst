@@ -1,5 +1,6 @@
 :title: Selected Internet Posts
 :date: 2017-03-19
+:category: Miscellany
 :slug: internet-posts
 :status: draft
 

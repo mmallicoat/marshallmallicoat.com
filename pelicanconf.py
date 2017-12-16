@@ -18,12 +18,9 @@ EXTRA_PATH_METADATA = {
     'extra/sitemap.xml': {'path': 'sitemap.xml'},
 }
 
-# Wait to set until uploading site
+# Set to mm.com before uploading
 SITEURL = 'https://marshallmallicoat.com'
 # SITEURL = ''
-
-# Try this later if you don't want to organize into subfolders
-# USE_FOLDER_AS_CATEGORY = False
 
 # Change location of pages to root directory, along with articles
 PAGE_SAVE_AS = '{slug}.html'

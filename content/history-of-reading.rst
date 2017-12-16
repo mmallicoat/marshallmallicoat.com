@@ -1,5 +1,6 @@
-:title History of Reading
+:title: History of Reading
 :date: 2017-02-24
+:category: Miscellany
 :status: draft
 :slug: history-of-reading
 
