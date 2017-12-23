@@ -94,4 +94,5 @@ Some Websites
 
 `michaelbluejay.com <https://michaelbluejay.com/>`__: Back-of-envelope stuff.
 
-
+`veganhealth.org on B12 <http://veganhealth.org/articles/vitaminb12>`__:
+In-depth meta-anlysis of plant-based sources of B12, bioavailability, absorption etc.
