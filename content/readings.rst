@@ -1,53 +1,52 @@
 :title: Past Readings
 :date: 2017-12-23
-:status: draft
+:modified: 2018-01-02
+:category: Miscellany
 
 Past Readings
 =============
 
+What follows is a catalogue of almost every poetry reading I've given.
+
 2017-11-05
 ----------
 
-Where: The bar Little River Restoratives in Hartford, CT
-Why: Syllable reading series monthly reading
-Other readers: Sonya Huber, Kem Joy Ukwu, Lauren Bolstridge
+Where: Little River Restoratives bar in Hartford, CT
+Why: `Syllable reading series <https://syllableseries.wordpress.com/>`__
+Other readers: Sonya Huber, Kem Joy Ukwu, songs by Lauren Bolstridge
 
-The Syllable series is organized by Julia Pistell and Brett.
-The reading was at Little River Restoratives in Hartford, CT.
+The Syllable reading series is organized by Julia Pistell and Brett Maddux.
+I had emailed Julia some poems and asked if I could participate.
+This installment was held at a bar in Frog Hollow, Hartford.
 
-Sonya Huber:
-Suffers from rheumatoid arthritis, although only in her 40s.
-Read an essay about chronic pain.
-Also another essay about how her condition makes her
-skin/body *permeable* to the environment.
-The polluted environment--due to smoke/exhaust and chemicals--
-lead to pain.
+Sonya Huber teaches as Fairfield University.
+She read some essays from a collection focusing on the subject
+of chronic pain. She suffers from rheumatoid arthritis.
 
-Kem Joy Ukwu:
-Read two short stories. From New Jersey.
+I one of here essays, she talks about how her condition makes her
+skin permeable to the environment.
+Pollution, such as smoke/exhaust or chemicals, can actually cause her pain.
+What struck me is that, although this sort of damage to the environment
+is invisible to most people, she literally *feels* it in her body.
+There are real victims of pollution, which I didn't appreciate.
+Also, it ocurred to me that, if we all were similarly sensitive
+to the environment, maybe we would work harder to keep it clean.
+(We surround ourselves with poisons of our own making, such as
+`xenoestrogens <https://en.wikipedia.org/wiki/Xenoestrogen>`__.)
 
-Lauren Bolstridge:
-Played some acoustic/folk songs.
-From West Hartford and lives in the area, I think.
+Kem Joy Ukwu read two short stories. She is from New Jersey.
 
-I talked to Susan Dunne, the Arts Writer from the Hartford Courant
-(``sdunne@courant.com``).
-I sent her the text of the poems I read.
+Lauren Bolstridge played some songs on acoustic guitar.
+She is from West Hartford, CT and lives in the area, I think.
 
-I hung out and talked to some people in the art scene who are
-friends with Brett.
+I talked to Susan Dunne, the Arts Writer from the Hartford Courant.
+She wrote an `article`_ about the reading, featuring one of the poems I read.
 
-Namulen works at Real Art Ways (RAW). I'm not sure if she is an artist.
-She suggested going to the Creative Cocktail Hour event at RAW,
-in paricular the 15th anniversary on November 16.
+At the reading I met some artists and curators who are, perhaps, friends with Brett.
+I had a good time talking to them.
 
-Alexis is some kind of artist, who is having a show at Artspace Hartford.
-She has a nosering.
+.. _article: http://www.courant.com/entertainment/arts-theater/hc-syllable-poetry-series-little-river-restorative-20171119-story.html
 
-Adrian is a photographer (specializing in black and white, darkroom photos).
-He had an accident so has been living with his parents in Enfield, CT.
-Namulen is subletting his place in the West End of Hartford.
-He says that the Hartford arts scene is really supportive.
 
 2013-09-27
 ----------
@@ -57,39 +56,43 @@ Why: ?
 Other readers: Sarah Jean Alexander, Jonathan Aprea, Connor Messinger,
 others who I forgot
 
-I smoked a little weed before at Sarah Jean Alexander/Stephen Tully
-Dierks/Andrew Worthington/Maggie Lee's apartment in Bed Stuy. Me and
-Sarah took the bus to Molasses Books in Bushwick. It was a single room
-bookstore/coffeeshop/bar. The readers were Jonathan Aprea, Connor
-Messinger, SJA, me, and others.
+Molasses Books is a single-room bookstore/cafe/bar in Bushwick, Brooklyn.
 
-People read sort of quietly and I tried to read loudly. I think I read
-alright. I was sort of nervous.
+I felt like people were reading sort of quietly, so I tried to read real loud.
+(I'm not sure if I accomplished this.)
+I think I read alright. I was sort of nervous.
 
-Jonathan Aprea had a line about how at the (magnetic) north pole, there
+Jonathan Aprea had a line about how at the north pole, there
 is no north, and every direction is south. Then he had a line about how
-at the center of a condominium, there is no condominium. I told him I
-liked that line. He said he liked my reading.
+at the center of a condominium, there is no condominium.
+I really liked this idea and told him so.
 
-We went to a bar (Tutu's) near Mellow Pages after. We ate and people
-drank then everyone left. Back at the apartment in SJ's bed, me and her
-stopped seeing each other.
+Afterward we went to a bar (Tutu's) near the `Mellow Pages Library`_.
+We ate and people drank then everyone left.
 
-2013-02-02 (?)
---------------
+.. _`Mellow Pages Library`: https://mellowpageslibrary.tumblr.com/
+
+
+2013-01-31
+----------
 
 Where: Housing Works in Manhattan, NY
 Why: Release of Mira Gonzalez's book
 *i will never be beautiful enough to make us beautiful together*
-Other readers: Mira Gonzalez, Spencer Madesen, Giancarlo DiTrapano,
-Kool AD (Victor Vazquez)
+Other readers: Mira Gonzalez, Spencer Madsen, Giancarlo DiTrapano,
+Kool A.D. (Victor Vazquez), Melissa Broder, Willis Plummer
 
-I read these at Mira Gonzalez's book release party at Housing Works in
-Manhattan. Mira, Spencer Madsen, Giancarlo DiTrapano, and Kool AD read.
-I work a polo shirt and a hoodie. I took Xanax and a couple codeine
-seltzer pills (from Europe), but I didn't drink. I was kind of spaced
-out and didn't talk much to people. I took the train home and worked the
-next afternoon.
+This was the biggest reading I've ever done.
+Spencer invited me. His press Sorry House was publishing
+Mira's book.
+
+I wore a polo shirt and a hoodie. The reading went fairly well.
+I read a thing about the Gatorade "G-series" which people seem
+to think was funny.
+
+There was an after-party at a bar.
+I was in a weird mood and didn't talk much to people.
+I took the train home to Connecticut afterward.
 
 
 2012-10-26
@@ -100,66 +103,121 @@ Why: *Keep This Bag Away from Children* release
 Other readers: Jordan Castro, David Fishkind, Mallory Whittan,
 Andrew Worthington
 
-I read these at a Keep This Bag Away From Children reading in October
-2012. Jordan Casto read and played a few songs. David Fishkind and
-Mallory Whittan read. I think Andrew Worthington read. Megan Boyle, Tao
-Lin, and Brandon Scott Gorrell were there. BSG told me I did good. I
-didn't take any drugs. I think I went home on the train.
+This reading was for the release of an issue of
+*Keep This Bag Away from Children*, edited by Andrew Worthington and others.
+I was invited to read, although I wasn't published there.
+Jordan Casto played a few songs in addition to reading.
+I think the reading was possibly at Ed Halladay's apartment.
 
-[We went to an after party at Tao's friend's place. Tao, Mallory, Megan,
-Jordan, David, BSG all went into a room at the place and hung out by
-themselves. They kept the door closed. Ed Halladay was pissed because he
-set up the reading. In Portland, "everyone hangs out with everyone"
-after the show.
+Megan Boyle, Tao Lin, and Brandon Scott Gorrell were there.
+There was an after-party at Tao's friend's place. It was a pretty nice
+apartment. There was a big, open living room where people stood around and talked.
+There was maybe a record player set up.
 
-I had made plans to split a cab with David. I had to knock on the VIP
-door and ask to talk to David. David said he was gonna stay for a while
-and I should just go by myself.]
+I took the train home to Connecticut afterward.
 
 
 2012-01-28
 ----------
 
-Where: Coffee shop called Linger in Brooklyn, NY.
+Where: Linger cafe in Brooklyn, NY.
 Why: ?
 Other readers: Spencer Madsen, Maggie Lee, Elaine Sun,
 Steve Roggenbuck, Poncho Peligroso
 
-[This was my first reading in New York City.]
+This was my first reading in New York City, which was exciting.
+I wore a button-up shirt, tucked in, and nice black pants.
+I read poems from (my book) *Santo Del Supermercado*.
+I was nervous but did alright.
 
-I read these at a reading in the Linger coffee shop in Brooklyn with
-Spencer Madsen, Maggie Lee, Elaine Sun, Steve Roggenbuck, Poncho
-Peligroso. I wore a button up shirt, tucked in, and nice black pants. I
-took Xanax in the bathroom and drank a couple beers before the reading.
-I read poems from [my book] *Santo Del Supermercado*. I was nervous but did alright.
+Poncho read tweets from the recently passed `@tree_bro`_.
 
-[Poncho read tweets from the recently passed Tree\_bro.]
+Megan Boyle and Melissa Broder were there.
+I arm wrestled with Spencer.
+I met his brother Tyler for the first time.
 
-Megan Boyle was there. I don't remember if she read. I arm wrestled
-Spencer. I met his brother Tyler for the first time.
+We went to someone's apartment afterward.
+I think I got a little too rowdy.
+I remember throwing my shoe across the room.
+That night I slept on a rug on the floor of Sepncer's tiny room.
 
-I drank more after and blacked out eventually. We went to someone's
-apartment. I slept on Spencer's rug on the floor of his tiny apartment
-room (in Boerem Hill?). Spencer and Maggie slept in his twin bed. That
-was the first time they had sort of got together.
+.. _`@tree_bro`: https://twitter.com/tree_bro
 
-Melissa Broder was there. She emailed me after and asked for me to send
-her some poems I had read. She gave me a critique.
 
-2007-XX-XX
+2008, December?
+---------------
+
+Where: Henry's bar/cafe in Lawrence, KS
+Why: poetry class semester-end showcase
+Other readers: Robert Knapp, Joseph Harrington, unknown others
+
+[I am writing my recollections of this reading in 2018.]
+
+I took a poetry class taught by Prof. Joseph Harrington
+at the University of Kansas. At the end of the semester, all of the students
+read together at a local venue. I remember few of their names.
+
+I read some `ecstatic`_, `Ginsberg-inspired`_ stuff.
+This is the first time I read with a microphone,
+and I didn't really know how to use it.
+
+.. _`ecstatic`: http://locustfarm.blogspot.com/2009/01/celebration-of-heady-afterbirth.html
+.. _`Ginsberg-inspired`: http://locustfarm.blogspot.com/2009/01/bob-dylan-king-of-jews.html
+
+
+2008-04-27
 ----------
 
 Where: the RowHouse Restaurant in Topeka, KS
-Why: Release of issue of *seveneightfive* magazine?
-Other readers: Mickey Caeser, ?
+Why: the "RowHouse Poetry Revue"
+Other readers: Amy Fleury, Mickey Cesar, Dennis Etzel Jr., Kevin Rabas,
+songs by Greg Fox
 
-This was the first proper reading I did. I read under the psuedonym
-Zeke Collyer.
+.. Readers from April 28th event: Mike Johnson, Brian Daldorph, Leah Sewell,
+   d. douglas, Gary Lechliter
 
-I was invited by the editor of the local *seveneightfive* magazine, after he had
-published some of my poems. He was a former student of Brian Daldorph,
-I believe, who was a poetry professor at the University of Kansas.
-I had taken a class taught by Prof. Daldorph and he had invited the class
-to submit to the magazine.
+[I am writing my recollections of this reading in 2018.
+I'm aided by a flyer from the event that my parents had framed.]
 
-My parents attended. I read poems about masturbation, etc.
+The reading was sponsored by the Topeka magazine *seveneightfive*.
+It was hosted by Matt Porubsky,
+who I think was an editor or contributor to magazine.
+He invited me to read after some of my poems were published there.
+I think he may have been a former student of Brian Daldorph,
+who was a poetry professor at the University of Kansas.
+It was Prof. Daldorph who had suggested I submit to the magazine.
+
+The restaurant itself was located in an actual row house, I think.
+I remember the green room being a small kitchen. (I don't know where
+the actual cooking was done.)
+
+This was the first proper reading I did. I was using the psuedonym
+*Zeke Collyer* at the time, inspired by the
+`Collyer brothers <https://en.wikipedia.org/wiki/Collyer_brothers>`__.
+I was very young, and the other poets were much more accomplished.
+
+The readers rotated through the rooms of the restaurant, reading
+to the diners throughout the meal. My parents were in attendance.
+I read poems about `masturbation`_, `self-mutilation`_, etc.
+
+.. _`masturbation`: http://locustfarm.blogspot.com/2008/01/on-nights-that-i-have-house-to-myself.html
+.. _`self-mutilation`: http://locustfarm.blogspot.com/2008/02/give-me-one-reason.html
+
+
+2007, spring?
+-------------
+
+Where: University of Kansas student union
+Why: open mic
+Other readers: Mickey Cesar, Nick Sprague, Ryan Keast, Devin Lowell, others?
+
+[I am writing my recollections of this reading in 2018.]
+
+This was the first reading I did, I think.
+It was an open mic event, possibly with some kind of competition element.
+It might even have been billed as a "poetry slam".
+
+Mickey Caesar won, I think.
+He may have got a gift certificate or some other picayune as a prize.
+
+My friends Nick, Ryan, and Devin also read poems.
