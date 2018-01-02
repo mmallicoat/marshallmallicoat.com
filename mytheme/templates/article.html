@@ -14,7 +14,7 @@
     {% if article.modified and article.modified != article.date %}
         Published
         <time class="published" datetime="{{ article.date.isoformat() }}">
-        {{ article.date|strftime('%d %b %Y') }}</time>
+        {{ article.date|strftime('%d %b %Y') }}</time></br>
         Revised
         <time class="modified" datetime="{{ article.modified.isoformat() }}">
         {{ article.modified|strftime('%d %b %Y') }}</time>

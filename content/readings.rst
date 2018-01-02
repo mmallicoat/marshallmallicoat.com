@@ -1,6 +1,5 @@
 :title: Past Readings
-:date: 2017-12-23
-:modified: 2018-01-02
+:date: 2018-01-02
 :category: Miscellany
 
 Past Readings
@@ -12,7 +11,9 @@ What follows is a catalogue of almost every poetry reading I've given.
 ----------
 
 Where: Little River Restoratives bar in Hartford, CT
+
 Why: `Syllable reading series <https://syllableseries.wordpress.com/>`__
+
 Other readers: Sonya Huber, Kem Joy Ukwu, songs by Lauren Bolstridge
 
 The Syllable reading series is organized by Julia Pistell and Brett Maddux.
@@ -52,7 +53,9 @@ I had a good time talking to them.
 ----------
 
 Where: Molasses Books in Brooklyn, NY
+
 Why: ?
+
 Other readers: Sarah Jean Alexander, Jonathan Aprea, Connor Messinger,
 others who I forgot
 
@@ -77,8 +80,10 @@ We ate and people drank then everyone left.
 ----------
 
 Where: Housing Works in Manhattan, NY
+
 Why: Release of Mira Gonzalez's book
 *i will never be beautiful enough to make us beautiful together*
+
 Other readers: Mira Gonzalez, Spencer Madsen, Giancarlo DiTrapano,
 Kool A.D. (Victor Vazquez), Melissa Broder, Willis Plummer
 
@@ -99,12 +104,14 @@ I took the train home to Connecticut afterward.
 ----------
 
 Where: apartment in Brooklyn, NY
-Why: *Keep This Bag Away from Children* release
+
+Why: *Keep This Bag Away From Children* release
+
 Other readers: Jordan Castro, David Fishkind, Mallory Whittan,
 Andrew Worthington
 
 This reading was for the release of an issue of
-*Keep This Bag Away from Children*, edited by Andrew Worthington and others.
+*Keep This Bag Away From Children*, edited by Andrew Worthington and others.
 I was invited to read, although I wasn't published there.
 Jordan Casto played a few songs in addition to reading.
 I think the reading was possibly at Ed Halladay's apartment.
@@ -121,7 +128,9 @@ I took the train home to Connecticut afterward.
 ----------
 
 Where: Linger cafe in Brooklyn, NY.
+
 Why: ?
+
 Other readers: Spencer Madsen, Maggie Lee, Elaine Sun,
 Steve Roggenbuck, Poncho Peligroso
 
@@ -148,7 +157,9 @@ That night I slept on a rug on the floor of Sepncer's tiny room.
 ---------------
 
 Where: Henry's bar/cafe in Lawrence, KS
+
 Why: poetry class semester-end showcase
+
 Other readers: Robert Knapp, Joseph Harrington, unknown others
 
 [I am writing my recollections of this reading in 2018.]
@@ -169,7 +180,9 @@ and I didn't really know how to use it.
 ----------
 
 Where: the RowHouse Restaurant in Topeka, KS
+
 Why: the "RowHouse Poetry Revue"
+
 Other readers: Amy Fleury, Mickey Cesar, Dennis Etzel Jr., Kevin Rabas,
 songs by Greg Fox
 
@@ -208,7 +221,9 @@ I read poems about `masturbation`_, `self-mutilation`_, etc.
 -------------
 
 Where: University of Kansas student union
+
 Why: open mic
+
 Other readers: Mickey Cesar, Nick Sprague, Ryan Keast, Devin Lowell, others?
 
 [I am writing my recollections of this reading in 2018.]
