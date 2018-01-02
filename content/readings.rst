@@ -30,7 +30,7 @@ Pollution, such as smoke/exhaust or chemicals, can actually cause her pain.
 What struck me is that, although this sort of damage to the environment
 is invisible to most people, she literally *feels* it in her body.
 There are real victims of pollution, which I didn't appreciate.
-Also, it ocurred to me that, if we all were similarly sensitive
+Also, it occurred to me that, if we all were similarly sensitive
 to the environment, maybe we would work harder to keep it clean.
 (We surround ourselves with poisons of our own making, such as
 `xenoestrogens <https://en.wikipedia.org/wiki/Xenoestrogen>`__.)
@@ -148,7 +148,7 @@ I met his brother Tyler for the first time.
 We went to someone's apartment afterward.
 I think I got a little too rowdy.
 I remember throwing my shoe across the room.
-That night I slept on a rug on the floor of Sepncer's tiny room.
+That night I slept on a rug on the floor of Spencer's tiny room.
 
 .. _`@tree_bro`: https://twitter.com/tree_bro
 
@@ -204,7 +204,7 @@ The restaurant itself was located in an actual row house, I think.
 I remember the green room being a small kitchen. (I don't know where
 the actual cooking was done.)
 
-This was the first proper reading I did. I was using the psuedonym
+This was the first proper reading I did. I was using the pseudonym
 *Zeke Collyer* at the time, inspired by the
 `Collyer brothers <https://en.wikipedia.org/wiki/Collyer_brothers>`__.
 I was very young, and the other poets were much more accomplished.
