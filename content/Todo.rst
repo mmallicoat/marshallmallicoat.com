@@ -7,6 +7,7 @@
 
 Todo
 ----
+* Use ALA state abbreviations in Readings? What is NY?
 * Need a directive to indicate emphasis in a semantic way?
 * How to indicate citation of other works, like book in footnote? Or Twilight movie?
   There exists an HTML tag ``<cite>`` which is maybe the one to use.
@@ -17,7 +18,6 @@ Todo
   maybe in the vCard (?) microformat.
 * Add a favicon?
 * Do I really need a sitemap? Some `tips <https://github.com/getpelican/pelican/wiki/Tips-n-Tricks>`_ to implement this.
-* How to do em-dashes in rST?
 
 Git
 ---
@@ -52,3 +52,4 @@ Done
   classes and ids. Focus on the *structure*, guiding by the HTML specification.
   Try to make the tree structure clear and correct.
   Don't worry about the presentation at all for now. Just use the Tufte CSS unaltered.
+* How to do em-dashes in rST? Can't. Have to use ``^V`` thing in vim.

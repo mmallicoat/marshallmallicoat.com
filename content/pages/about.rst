@@ -38,33 +38,10 @@ Email: ``marshall@marshallmallicoat.com``
 *(Please look for me in your spam folder!)*
 
 
-Published Elsewhere
-===================
-
-* Poem featured in an article in the `Hartford Courant`_ (2017)
-* Co-wrote the songs `Cellophane`_ and `Fountain`_ with my
-  friend's band `Pageant Boys`_ (2015)
-* 6 poems in `Western Beefs of North America`_ (2014)
-* 3 poems in `Pop Serial 5`_ (2014)
-* Weird spoken poem in Keep This Bag Away From Children's
-  `Ho Hum Vol. 1`_ (2013)
-* 3 poems at `Everyday Genius`_ (2013)
-* 4 poems, co-written with Alex Sheppard of `Pageant Boys`_,
-  at `elimae`_ (2012)
-
-.. _`Cellophane`: https://www.youtube.com/watch?v=oS6594V1w-0
-.. _`Fountain`: https://www.youtube.com/watch?v=5Z8Pz39pP3Y
-.. _`Everyday Genius`: http://www.everyday-genius.com/2013/02/marshall-mallicoat.html
-.. _`Pop Serial 5`: https://newhive.com/popserial/marshall-mallicoat-3-poems
-.. _`Western Beefs of North America`: http://westernbeefs.com/mallicoat
-.. _`elimae`: http://cooprenner.com/2012/02/Red.html
-.. _`Ho Hum Vol. 1`: https://keepthisbagawayfromchildren.bandcamp.com
-
-
 Press
 =====
 
-* Coverage of a reading in the `Hartford Courant`_ (2017-11-28)
+* Coverage of a `reading`_ in the `Hartford Courant`_ (2017-11-28)
 * Mentioned as an anonymous poet in a `Pittsburg Appeal`_ review
   of my friend's band `Pageant Boys`_ (2016-04-14)
 * One of my tweets (from the defunct ``@marshallmallico``) made the list of
@@ -76,3 +53,4 @@ Press
 .. _`Beach Sloth`: http://www.beachsloth.com/marshall-mallicoat-man-myth-legend.html
 .. _`Pageant Boys`: http://www.pageantboys.com/
 .. _`Thought Catalog`: https://thoughtcatalog.com/stephen-tully-dierks/2013/04/the-50-greatest-tweets-of-all-time/
+.. _`reading`: /readings.html

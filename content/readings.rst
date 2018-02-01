@@ -1,6 +1,7 @@
 :title: Past Readings
 :date: 2018-01-02
 :category: Miscellany
+:slug: readings
 
 Past Readings
 =============
@@ -220,7 +221,7 @@ I read poems about `masturbation`_, `self-mutilation`_, etc.
 2007, spring?
 -------------
 
-Where: University of Kansas student union
+Where: University of Kansas student union in Lawrence, KS
 
 Why: open mic
 
