@@ -46,6 +46,8 @@ Published Elsewhere
   friend's band `Pageant Boys`_ (2015)
 * 6 poems in `Western Beefs of North America`_ (2014)
 * 3 poems in `Pop Serial 5`_ (2014)
+* Weird spoken poem in Keep This Bag Away From Children's
+  `Ho Hum Vol. 1`_ (2013)
 * 3 poems at `Everyday Genius`_ (2013)
 * 4 poems, co-written with Alex Sheppard of `Pageant Boys`_,
   at `elimae`_ (2012)
@@ -56,6 +58,7 @@ Published Elsewhere
 .. _`Pop Serial 5`: https://newhive.com/popserial/marshall-mallicoat-3-poems
 .. _`Western Beefs of North America`: http://westernbeefs.com/mallicoat
 .. _`elimae`: http://cooprenner.com/2012/02/Red.html
+.. _`Ho Hum Vol. 1`: https://keepthisbagawayfromchildren.bandcamp.com
 
 
 Press
