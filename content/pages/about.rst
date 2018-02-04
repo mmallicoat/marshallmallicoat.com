@@ -22,20 +22,16 @@ About Site
 The site is written in `reStructuredText`_ markup
 and compiled with the `Pelican`_ static site generator.
 The source files are available on `Github`_.
-The `TLS`_ certificate is provided by `Let's Encrypt`_.
 
 .. _`Github`: https://github.com/mmallicoat/marshallmallicoat.com
 .. _`Let's Encrypt`: https://letsencrypt.org/
 .. _`Pelican`: https://getpelican.com
 .. _`reStructuredText`: http://docutils.sourceforge.net/rst.html
-.. _`TLS`: https://en.wikipedia.org/wiki/Transport_Layer_Security
 
 
 Contact
 =======
-Email: ``marshall@marshallmallicoat.com``
-
-*(Please look for me in your spam folder!)*
+Email: ``mm@marshallmallicoat.com``
 
 
 Press
