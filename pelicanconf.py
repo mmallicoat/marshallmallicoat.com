@@ -19,7 +19,7 @@ EXTRA_PATH_METADATA = {
 }
 
 # Set to mm.com before uploading
-SITEURL = 'https://marshallmallicoat.com'
+SITEURL = 'http://marshallmallicoat.com'
 # SITEURL = ''
 
 # Change location of pages to root directory, along with articles
