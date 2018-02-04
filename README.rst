@@ -2,7 +2,7 @@ marshallmallicoat.com
 =====================
 
 These are the source files for my website at
-`marshallmallicoat.com <https://marshallmallicoat.com>`__.
+`marshallmallicoat.com <http://marshallmallicoat.com>`__.
 
 The site is written in `reStructuredText`_ markup
 and compiled with the `Pelican`_ static site generator.
