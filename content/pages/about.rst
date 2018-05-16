@@ -1,5 +1,5 @@
 :date: 2015-01-01
-:modified: 2017-11-12
+:modified: 2018-05-16
 :slug: about
 :title: About
 :category: Meta
@@ -10,8 +10,7 @@ About Me
 My name is Marshall Mallicoat.
 I was born in 1988 in the U.S.
 I grew up in the suburbs of Kansas City, Mo.
-and currently live in Hartford, Conn.
-I work in insurance.
+and currently live in Urbana, Ill.
 This site is home to my writing and music.
 
 .. Associated Press Stylebook abbreviations for state and country

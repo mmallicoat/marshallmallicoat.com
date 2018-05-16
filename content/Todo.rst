@@ -18,6 +18,8 @@ Todo
   maybe in the vCard (?) microformat.
 * Add a favicon?
 * Do I really need a sitemap? Some `tips <https://github.com/getpelican/pelican/wiki/Tips-n-Tricks>`_ to implement this.
+* Add a *blogroll*: "A blogroll is a list of links on a blog, usually on the 
+  sidebar for easy access, that the blog writer likes and wants to share."
 
 Git
 ---

@@ -2,7 +2,7 @@ AUTHOR = 'Marshall Mallicoat'
 DEFAULT_LANG = 'en'
 SITENAME = u'\u25B2' + u'HEAP'
 PATH = 'content/'  # markup documents
-TIMEZONE = 'America/New_York'
+TIMEZONE = 'America/Chicago'
 
 OUTPUT_PATH = 'output/'
 # Maybe need to be careful with this
