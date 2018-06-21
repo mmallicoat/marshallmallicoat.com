@@ -1,5 +1,6 @@
 :title:  Junkie, don't talk to me
 :date:   2015-05-09
+:modified: 2018-06-21
 :category: Essays
 :slug: junkie
 
@@ -57,7 +58,7 @@ Coffee as ideology
    have the best espresso.
 
 2. The pass code for the bathroom at the Union Square Starbucks on July
-   4, 2014 was 8282. And I gave it away to the first person I saw: a
+   4, 2014, was 8282. And I gave it away to the first person I saw: a
    Russian tourist standing in line. In turn, she gave it to the people
    behind her. In this way, she was my first apostle.
 

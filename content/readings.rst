@@ -1,5 +1,6 @@
 :title: Past Readings
 :date: 2018-01-02
+:modified: 2018-06-06
 :category: Miscellany
 :slug: readings
 
@@ -137,8 +138,9 @@ Steve Roggenbuck, Poncho Peligroso
 
 This was my first reading in New York City, which was exciting.
 I wore a button-up shirt, tucked in, and nice black pants.
-I read poems from (my book) *Santo Del Supermercado*.
-I was nervous but did alright.
+I read poems from my (now unavailable) book *Santo Del Supermercado*,
+which was written during a month-long stay at the Hilton Hotel in Stamford, CT.
+I was nervous but read alright.
 
 Poncho read tweets from the recently passed `@tree_bro`_.
 
@@ -195,7 +197,7 @@ I'm aided by a flyer from the event that my parents had framed.]
 
 The reading was sponsored by the Topeka magazine *seveneightfive*.
 It was hosted by Matt Porubsky,
-who I think was an editor or contributor to magazine.
+who I think was an editor or contributor to the magazine.
 He invited me to read after some of my poems were published there.
 I think he may have been a former student of Brian Daldorph,
 who was a poetry professor at the University of Kansas.
