@@ -115,7 +115,7 @@ Andrew Worthington
 This reading was for the release of an issue of
 *Keep This Bag Away From Children*, edited by Andrew Worthington and others.
 I was invited to read, although I wasn't published there.
-Jordan Casto played a few songs in addition to reading.
+Jordan Castro played a few songs in addition to reading.
 I think the reading was possibly at Ed Halladay's apartment.
 
 Megan Boyle, Tao Lin, and Brandon Scott Gorrell were there.
@@ -124,6 +124,27 @@ apartment. There was a big, open living room where people stood around and talke
 There was maybe a record player set up.
 
 I took the train home to Connecticut afterward.
+
+2012-07-04
+----------
+
+Where: Mike Bushnell's apartment in Brooklyn, NY
+
+Why: ?
+
+Other readers: Ana Carrete, Mike Bushnell, Maggie Lee, Caro DeCarlo, 
+Stephen Michael McDowell (Buttercup McGillicuddy), Mario Ariza, Jackson Nieuwland,
+and others
+
+This took place at a Fourth of July party on the roof of Mike Bushnell's 
+apartment in (I believe) Bed—Stuy, Brooklyn.
+The reading got started in the evening. It was still hot after the sun went down.
+
+I remember the reading being pretty raucous.
+There is some coverage of it at `this old blog`_.
+
+.. _`this old blog`: http://internetpeopleinreallife.tumblr.com/post/26469951978/mikes-reading-party-in-brooklyn-with-internet
+
 
 
 2012-01-28
