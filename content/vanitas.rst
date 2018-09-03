@@ -46,7 +46,7 @@ and be done with it.
 My eye doctor says that, if I keep using computers, my eyes will slowly
 get worse and worse forever.
 
-My dentist says that I grind my teeth in my sleep, probly due to my
+My dentist says that I grind my teeth in my sleep, probably due to
 stress. So now I go to sleep in shorts and a mouthguard like a boxer.
 
 After a weekend in the city, I'll have black snot and my fingers will be

@@ -50,7 +50,7 @@ I spent the morning at the university library. I walked in the front
 door and found a seat in the study area. I was questioned by a security
 guard, but I just pretended to have forgotten my student ID and he
 relented. There was only one other person there, on a whole floor of
-long tables and dim cubicles—and he had probly just come in off the
+long tables and dim cubicles—and he had probably just come in off the
 street too.
 
 At a fancy vegan restaurant, I was given a ginger-root beet-juice drink

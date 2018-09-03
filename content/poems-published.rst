@@ -21,7 +21,7 @@ Poems Published Elsewhere
 .. _`Cellophane`: https://www.youtube.com/watch?v=oS6594V1w-0
 .. _`Fountain`: https://www.youtube.com/watch?v=5Z8Pz39pP3Y
 .. _`Everyday Genius`: http://www.everyday-genius.com/2013/02/marshall-mallicoat.html
-.. _`Pop Serial 5`: https://newhive.com/popserial/marshall-mallicoat-3-poems
+.. _`Pop Serial 5`: http://newhive.com/popserial/marshall-mallicoat-3-poems
 .. _`Western Beefs of North America`: http://westernbeefs.com/mallicoat
 .. _`elimae`: http://cooprenner.com/2012/02/Red.html
 .. _`Ho Hum Vol. 1`: https://keepthisbagawayfromchildren.bandcamp.com

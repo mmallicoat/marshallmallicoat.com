@@ -254,7 +254,7 @@ Other readers: Mickey Cesar, Nick Sprague, Ryan Keast, Devin Lowell, others?
 
 This was the first reading I did, I think.
 It was an open mic event, possibly with some kind of competition element.
-It might even have been billed as a "poetry slam".
+It might even have been billed as a "poetry slam."
 
 Mickey Caesar won, I think.
 He may have got a gift certificate or some other picayune as a prize.

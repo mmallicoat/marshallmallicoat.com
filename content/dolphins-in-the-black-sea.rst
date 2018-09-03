@@ -47,8 +47,8 @@ In public, I like to pretend I'm an ethnic white person, Ukrainian or
 maybe Moldovan, who comes from a hard life of cell phone sales. I don't
 really act any different. It's mostly how I hold my jaw.
 
-A thinky thing I thot
-=====================
+A thinky thing I thought
+========================
 
 Everyone was well dressed, tourists from every country on Earth: good
 leather shoes or sneakers, well fitting pants, nice jackets, smart

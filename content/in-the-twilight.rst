@@ -4,7 +4,7 @@
 :category: Essays
 
 The telegraph was an early internet, with its own lolcats and leetspeak.
-To people in the future, we probly seem like steampunks: one foot in the
+To people in the future, we probably seem like steampunks: one foot in the
 last century, carrying our brains around in our pockets like
 Tamagotchis.
 
@@ -23,7 +23,7 @@ of compassion in all directions.
 The Malaysian space agency recommends that Muslim astronauts, if they
 cannot determine the direction of Mecca, pray in the direction of the
 Earth. Failing that, any direction is acceptable. Additionally they
-advise you to "observe peace with other beings".
+advise you to "observe peace with other beings."
 
 In Tibet and Nepal, they still practice sky burials, where bodies are
 stripped and laid out for the vultures to eat. But the bodies that have
