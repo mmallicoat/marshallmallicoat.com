@@ -20,7 +20,7 @@ for walking. I would describe it as European, but again I'd never been
 in Europe.
 
 The food is cheap and the rent is moderate in Usonian terms. The quality
-of life is HIGH, if not the standard of living. People eat lots of
+of life is **high**, if not the standard of living. People eat lots of
 yogurt and drink lots of tea (with sugar cubes). There is a ferry to
 ride on. Good jackets and dark hair.
 
