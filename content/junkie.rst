@@ -1,6 +1,5 @@
 :title:  Junkie, don't talk to me
 :date:   2015-05-09
-:modified: 2018-06-21
 :category: Essays
 :slug: junkie
 

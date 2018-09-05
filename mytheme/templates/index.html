@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-{% for category in ['Poetry', 'Songs', 'Essays', 'Miscellany'] %}
+{% for category in ['Poems', 'Essays', 'Notes'] %}
     <h2>{{ category }}</h2>
     <ul> 
     {% for article in articles if article.category.name == category %}

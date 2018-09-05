@@ -1,13 +1,12 @@
-:title: Blog Redesign
+:title: Blog Design
 :date: 2017-10-22
-:modified: 2017-11-09
+:modified: 2018-09-05
 :category: Meta
 :slug: todo
 :status: draft
 
 Todo
 ----
-* Use ALA state abbreviations in Readings? What is NY?
 * Need a directive to indicate emphasis in a semantic way?
 * How to indicate citation of other works, like book in footnote? Or Twilight movie?
   There exists an HTML tag ``<cite>`` which is maybe the one to use.
@@ -25,6 +24,7 @@ Won't Do
 
 Done
 ````
+* Use ALA state abbreviations in Readings? What is NY?
 * Maybe add a symbol on the title banner by *HEAP*, e.g. a triangle (like a pile of
   sand in an hourglass). This would be like Winston's "Five-Star" method, i.e.
   adding a *symbol*.

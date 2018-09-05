@@ -7,7 +7,11 @@
     {% if page.modified %}
         Revised
         <time class="modified" datetime="{{ page.modified.isoformat() }}">
-        {{ page.modified|strftime('%d %b %Y') }}</time>
+        {{ page.modified|strftime('%-d %b %Y') }}</time>
+    {% else %}
+        Revised
+        <time class="published" datetime="{{ page.date.isoformat() }}">
+        {{ page.date|strftime('%-d %b %Y') }}</time>
     {% endif %}
   </footer>
 

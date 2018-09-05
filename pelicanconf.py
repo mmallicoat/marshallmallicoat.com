@@ -1,14 +1,14 @@
 AUTHOR = 'Marshall Mallicoat'
 DEFAULT_LANG = 'en'
-SITENAME = u'\u25B2' + u'HEAP'
+SITENAME = u'\u25B2' + u'HEAP'  # code point for triangle
 PATH = 'content/'  # markup documents
 TIMEZONE = 'America/Chicago'
 
 OUTPUT_PATH = 'output/'
-# Maybe need to be careful with this
+# May need to be careful with this option
 DELETE_OUTPUT_DIRECTORY = True
 
-# https://github.com/getpelican/pelican/wiki/Tips-n-Tricks
+# See: https://github.com/getpelican/pelican/wiki/Tips-n-Tricks
 STATIC_PATHS = ['pages', 'media',
                 'extra/robots.txt',
                 'extra/sitemap.xml']
@@ -18,9 +18,9 @@ EXTRA_PATH_METADATA = {
     'extra/sitemap.xml': {'path': 'sitemap.xml'},
 }
 
-# Set to mm.com before uploading
-SITEURL = 'http://marshallmallicoat.com'
-# SITEURL = ''
+# Set to 'mm.com' before uploading; use '' when testing.
+# SITEURL = 'http://marshallmallicoat.com'
+SITEURL = ''
 
 # Change location of pages to root directory, along with articles
 PAGE_SAVE_AS = '{slug}.html'

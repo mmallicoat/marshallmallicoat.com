@@ -1,6 +1,5 @@
 :title:  If you buy the car, you get to kick the tires
 :date:   2014-10-13
-:modified: 2017-11-12
 :slug: kick-the-tires
 :category: Essays
 

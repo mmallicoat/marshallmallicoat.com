@@ -1,11 +1,11 @@
 marshallmallicoat.com
 =====================
 
-These are the source files for my website at
-`marshallmallicoat.com <http://marshallmallicoat.com>`__.
+These are the source files for my website at marshallmallicoat.com_.
 
-The site is written in `reStructuredText`_ markup
-and compiled with the `Pelican`_ static site generator.
+The site is written in reStructuredText_ markup
+and compiled with the Pelican_ static site generator.
 
-.. _`Pelican`: https://getpelican.com
-.. _`reStructuredText`: http://docutils.sourceforge.net/rst.html
+.. _marshallmallicoat.com: http://marshallmallicoat.com
+.. _Pelican: https://getpelican.com
+.. _reStructuredText: http://docutils.sourceforge.net/rst.html

@@ -1,6 +1,5 @@
 :title:  My brief roommate
 :date:   2015-01-05
-:modified: 2017-11-11
 :category: Essays
 :slug: lorraine
 

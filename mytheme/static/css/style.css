@@ -40,11 +40,15 @@ body { width: 87.5%;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
+/* MJM revisions: reduce top padding from 4rem*/
+
 h1 { font-weight: 400;
-     margin-top: 4rem;
+     margin-top: 2rem;
      margin-bottom: 1.5rem;
      font-size: 3.2rem;
      line-height: 1; }
+
+/* MJM revisions end */
 
 h2 { font-style: italic;
      font-weight: 400;
@@ -79,8 +83,12 @@ p.subtitle { font-style: italic;
 
 .danger { color: red; }
 
+/* MJM revisions: reduce article top-bottom padding from 5rem */
+
 article { position: relative;
-          padding: 5rem 0rem; }
+          padding: 1rem 0rem; }
+
+/* MJM revisions end */
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }

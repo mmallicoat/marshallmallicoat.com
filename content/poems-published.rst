@@ -1,11 +1,8 @@
 :title: Poems Published Elsewhere
 :date: 2018-01-31
 :modified: 2018-06-06
-:category: Poetry
+:category: Poems
 :slug: poems-published
-
-Poems Published Elsewhere
-=========================
 
 * Poem featured in an article in the `Hartford Courant`_ (2017)
 * Co-wrote the songs `Cellophane`_ and `Fountain`_ with my

@@ -1,22 +1,22 @@
 :title: Past Readings
 :date: 2018-01-02
-:modified: 2018-06-06
-:category: Miscellany
+:modified: 2018-09-05
+:category: Notes
 :slug: readings
 
 Past Readings
 =============
 
-What follows is a catalogue of almost every poetry reading I've given.
+What follows is a catalog of most of the poetry readings I've given.
 
-2017-11-05
-----------
+.. Associated Press Stylebook abbreviations for state and country
 
-Where: Little River Restoratives bar in Hartford, CT
+2017-11-05 in Hartford, Conn.
+-----------------------------
 
-Why: `Syllable reading series <https://syllableseries.wordpress.com/>`__
-
-Other readers: Sonya Huber, Kem Joy Ukwu, songs by Lauren Bolstridge
+- Where: Little River Restoratives bar
+- Why: `Syllable reading series <https://syllableseries.wordpress.com/>`__
+- Other readers: Sonya Huber, Kem Joy Ukwu, songs by Lauren Bolstridge
 
 The Syllable reading series is organized by Julia Pistell and Brett Maddux.
 I had emailed Julia some poems and asked if I could participate.
@@ -26,16 +26,15 @@ Sonya Huber teaches as Fairfield University.
 She read some essays from a collection focusing on the subject
 of chronic pain. She suffers from rheumatoid arthritis.
 
-I one of here essays, she talks about how her condition makes her
-skin permeable to the environment.
-Pollution, such as smoke/exhaust or chemicals, can actually cause her pain.
-What struck me is that, although this sort of damage to the environment
-is invisible to most people, she literally *feels* it in her body.
-There are real victims of pollution, which I didn't appreciate.
-Also, it occurred to me that, if we all were similarly sensitive
-to the environment, maybe we would work harder to keep it clean.
-(We surround ourselves with poisons of our own making, such as
-`xenoestrogens <https://en.wikipedia.org/wiki/Xenoestrogen>`__.)
+I one of here essays, she talks about how her condition makes her skin permeable
+to the environment.  Pollution, such as smoke/exhaust or chemicals, can actually
+cause her pain.  What struck me is that, although this sort of damage to the
+environment is invisible to most people, she literally *feels* it in her body.
+There are real victims of pollution, which I didn't appreciate.  Also, it
+occurred to me that, if we all were similarly sensitive to the environment,
+maybe we would work harder to keep it clean.  (We surround ourselves with
+poisons of our own making, such as `xenoestrogens
+<https://en.wikipedia.org/wiki/Xenoestrogen>`__.)
 
 Kem Joy Ukwu read two short stories. She is from New Jersey.
 
@@ -51,15 +50,13 @@ I had a good time talking to them.
 .. _article: http://www.courant.com/entertainment/arts-theater/hc-syllable-poetry-series-little-river-restorative-20171119-story.html
 
 
-2013-09-27
-----------
+2013-09-27 in New York, N.Y.
+----------------------------
 
-Where: Molasses Books in Brooklyn, NY
-
-Why: ?
-
-Other readers: Sarah Jean Alexander, Jonathan Aprea, Connor Messinger,
-others who I forgot
+- Where: Molasses Books in Brooklyn
+- Why: ?
+- Other readers: Sarah Jean Alexander, Jonathan Aprea, Connor Messinger,
+  unknown others
 
 Molasses Books is a single-room bookstore/cafe/bar in Bushwick, Brooklyn.
 
@@ -78,16 +75,14 @@ We ate and people drank then everyone left.
 .. _`Mellow Pages Library`: https://mellowpageslibrary.tumblr.com/
 
 
-2013-01-31
-----------
+2013-01-31 in New York, N.Y.
+----------------------------
 
-Where: Housing Works in Manhattan, NY
-
-Why: Release of Mira Gonzalez's book
-*i will never be beautiful enough to make us beautiful together*
-
-Other readers: Mira Gonzalez, Spencer Madsen, Giancarlo DiTrapano,
-Kool A.D. (Victor Vazquez), Melissa Broder, Willis Plummer
+- Where: Housing Works in Manhattan
+- Why: Release of Mira Gonzalez's book
+  *i will never be beautiful enough to make us beautiful together*
+- Other readers: Mira Gonzalez, Spencer Madsen, Giancarlo DiTrapano,
+  Kool A.D. (Victor Vazquez), Melissa Broder, Willis Plummer
 
 This was the biggest reading I've ever done.
 Spencer invited me. His press Sorry House was publishing
@@ -102,15 +97,13 @@ I was in a weird mood and didn't talk much to people.
 I took the train home to Connecticut afterward.
 
 
-2012-10-26
-----------
+2012-10-26 in New York, N.Y.
+----------------------------
 
-Where: apartment in Brooklyn, NY
-
-Why: *Keep This Bag Away From Children* release
-
-Other readers: Jordan Castro, David Fishkind, Mallory Whittan,
-Andrew Worthington
+- Where: apartment in Brooklyn
+- Why: *Keep This Bag Away From Children* release
+- Other readers: Jordan Castro, David Fishkind, Mallory Whittan,
+  Andrew Worthington
 
 This reading was for the release of an issue of
 *Keep This Bag Away From Children*, edited by Andrew Worthington and others.
@@ -125,16 +118,14 @@ There was maybe a record player set up.
 
 I took the train home to Connecticut afterward.
 
-2012-07-04
-----------
+2012-07-04 in New York, N.Y.
+----------------------------
 
-Where: Mike Bushnell's apartment in Brooklyn, NY
-
-Why: ?
-
-Other readers: Ana Carrete, Mike Bushnell, Maggie Lee, Caro DeCarlo, 
-Stephen Michael McDowell (Buttercup McGillicuddy), Mario Ariza, Jackson Nieuwland,
-and others
+- Where: Mike Bushnell's apartment in Brooklyn
+- Why: Fourth of July party
+- Other readers: Ana Carrete, Mike Bushnell, Maggie Lee, Caro DeCarlo, 
+  Stephen Michael McDowell (Buttercup McGillicuddy), Mario Ariza, Jackson Nieuwland,
+  others
 
 This took place at a Fourth of July party on the roof of Mike Bushnell's 
 apartment in (I believe) Bed—Stuy, Brooklyn.
@@ -147,15 +138,13 @@ There is some coverage of it at `this old blog`_.
 
 
 
-2012-01-28
-----------
+2012-01-28 in New York, N.Y.
+----------------------------
 
-Where: Linger cafe in Brooklyn, NY.
-
-Why: ?
-
-Other readers: Spencer Madsen, Maggie Lee, Elaine Sun,
-Steve Roggenbuck, Poncho Peligroso
+- Where: Linger café in Brooklyn
+- Why: ?
+- Other readers: Spencer Madsen, Maggie Lee, Elaine Sun,
+  Steve Roggenbuck, Poncho Peligroso
 
 This was my first reading in New York City, which was exciting.
 I wore a button-up shirt, tucked in, and nice black pants.
@@ -177,16 +166,12 @@ That night I slept on a rug on the floor of Spencer's tiny room.
 .. _`@tree_bro`: https://twitter.com/tree_bro
 
 
-2008, December?
----------------
+Late 2008 in Lawrence, Kan.
+---------------------------
 
-Where: Henry's bar/cafe in Lawrence, KS
-
-Why: poetry class semester-end showcase
-
-Other readers: Robert Knapp, Joseph Harrington, unknown others
-
-[I am writing my recollections of this reading in 2018.]
+- Where: Henry's bar/café
+- Why: poetry class
+- Other readers: Robert Knapp, Joseph Harrington, unknown others
 
 I took a poetry class taught by Prof. Joseph Harrington
 at the University of Kansas. At the end of the semester, all of the students
@@ -200,22 +185,18 @@ and I didn't really know how to use it.
 .. _`Ginsberg-inspired`: http://locustfarm.blogspot.com/2009/01/bob-dylan-king-of-jews.html
 
 
-2008-04-27
-----------
+2008-04-27 in Topeka, Kan.
+--------------------------
 
-Where: the RowHouse Restaurant in Topeka, KS
-
-Why: the "RowHouse Poetry Revue"
-
-Other readers: Amy Fleury, Mickey Cesar, Dennis Etzel Jr., Kevin Rabas,
-songs by Greg Fox
+- Where: the RowHouse Restaurant
+- Why: the "RowHouse Poetry Revue"
+- Other readers: Amy Fleury, Mickey Cesar, Dennis Etzel Jr., Kevin Rabas,
+  songs by Greg Fox
 
 .. Readers from April 28th event: Mike Johnson, Brian Daldorph, Leah Sewell,
    d. douglas, Gary Lechliter
 
-[I am writing my recollections of this reading in 2018.
-I'm aided by a flyer from the event that my parents had framed.]
-
+My recollections are aided by a flyer from the event that my parents had framed.
 The reading was sponsored by the Topeka magazine *seveneightfive*.
 It was hosted by Matt Porubsky, an editor of the magazine.
 He invited me to read after some of my poems were published there.
@@ -240,16 +221,12 @@ I read poems about `masturbation`_, `self-mutilation`_, etc.
 .. _`self-mutilation`: http://locustfarm.blogspot.com/2008/02/give-me-one-reason.html
 
 
-2007, spring?
--------------
+Early 2007 in Lawrence, Kan.
+----------------------------
 
-Where: University of Kansas student union in Lawrence, KS
-
-Why: open mic
-
-Other readers: Mickey Cesar, Nick Sprague, Ryan Keast, Devin Lowell, others?
-
-[I am writing my recollections of this reading in 2018.]
+- Where: University of Kansas student union
+- Why: open mic
+- Other readers: Mickey Cesar, Nick Sprague, Ryan Keast, Devin Lowell, others
 
 This was the first reading I did, I think.
 It was an open mic event, possibly with some kind of competition element.
