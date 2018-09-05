@@ -60,4 +60,4 @@ childhood home.
 What's more: Parking garages are laid out like a double helix, with
 pathways in the middle of each level to cross to the other branch.
 
-Neither here nor there: Water tastes better thru a black straw.
+Neither here nor there: Water tastes better through a black straw.

@@ -26,11 +26,11 @@ dry, but watching paint that had recently dried. The grass growing in
 the lawn has stalled out, and I'm languishing in a terminal middle-class
 lifestyle.
 
-Taking dexedrine at 2am in NYC to hold you thru till 5am when Grand Central re-opens and you can get a train back to Connecticut
-================================================================================================================================
+Taking Dexedrine at 2am in NYC to hold you through till 5am when Grand Central re-opens and you can get a train back to Connecticut
+===================================================================================================================================
 
-I'd say, if caffeine was a taxi conducting your body thru the human
-traffic, that dexedrine is a black sedan speeding thru a tunnel at
+I'd say, if caffeine was a taxi conducting your body through the human
+traffic, that Dexedrine is a black sedan speeding through a tunnel at
 night.
 
 Junkie

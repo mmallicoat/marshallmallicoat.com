@@ -31,16 +31,16 @@ The counter-insurgency is Whac-a-Mole, the drug war Three-card Monte.
 
 Capitalism has wrought the moneyballing of everything. The Dutch work 6
 hours a day, then ride bikes home. Americans work for 6 hours, spend 2
-hours on Facebook, then crawl thru traffic for 45 minutes.
+hours on Facebook, then crawl through traffic for 45 minutes.
 
 Someone who sits very still at a desk all day, looking at small numbers
 on a screen, is a kind of athlete. It takes endurance. You need training
 and preparation to do it without hurting yourself. These are grown men
-with all the hair rubbed off their ankles by socks and prostates the
+with all the hair rubbed off their ankles by socks, and prostates the
 size of clenched fists. They will show you their game face.
 
 The highest compliment you can pay a man is to call him a machine. Men
-strive to make themselves into weapons. This is done thru emotional
+strive to make themselves into weapons. This is done through emotional
 distance, rituals of control, and repetition.
 
 On Sportsmanship
@@ -49,7 +49,7 @@ On Sportsmanship
 I was a high school wrestler for one day. I was on the swimming team but
 quit. After failing to induce vomiting in the bathroom, I lied about
 having vomited to get out of practice. At a strip mall dojo, I put my
-fist thru the drywall.
+fist through the drywall.
 
 In job interviews, I extemporize on my temperament as if I were a race
 horse. As long as they let me down easy, I don't care if I don't get a

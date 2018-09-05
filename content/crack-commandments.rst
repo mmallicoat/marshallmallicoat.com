@@ -1,4 +1,4 @@
-:title:  The ten Crack Commandments with taglines from the X-Files
+:title:  The ten Crack Commandments beside taglines from the X-Files
 :date:   2014-11-03
 :slug: crack-commandments
 :category: Essays

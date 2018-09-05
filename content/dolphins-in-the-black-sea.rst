@@ -31,7 +31,7 @@ In some places there are so many stray cats that it becomes
 *comical*\ —like a soft PUNK'ing. The stray dogs are tagged and lie
 around on the sidewalk.
 
-There are men who pick thru the trash for useful things—purses, shoes,
+There are men who pick through the trash for useful things—purses, shoes,
 books, appliances—and take them around on carts for people to buy,
 like a moving thrift shop.
 
@@ -58,7 +58,7 @@ etc. All wealthy, self-loving consumerists, as vulgar as any American.
 No one really gives a shit. Not the European or the Arab or the Asian.
 Definitely not the Turk selling “selfie sticks” for 300% markup, or the
 one with blister packs of Viagra outside the Grand Bazaar. You can see
-foreign men strolling around with blood coming thru the bandages on
+foreign men strolling around with blood coming through the bandages on
 their scalp, pleased as hell with their new hair plugs.
 
 Travel is a luxury psychedelic, a chance to practice the word for

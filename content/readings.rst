@@ -217,10 +217,9 @@ songs by Greg Fox
 I'm aided by a flyer from the event that my parents had framed.]
 
 The reading was sponsored by the Topeka magazine *seveneightfive*.
-It was hosted by Matt Porubsky,
-who I think was an editor or contributor to the magazine.
+It was hosted by Matt Porubsky, an editor of the magazine.
 He invited me to read after some of my poems were published there.
-I think he may have been a former student of Brian Daldorph,
+He was a former student of Brian Daldorph,
 who was a poetry professor at the University of Kansas.
 It was Prof. Daldorph who had suggested I submit to the magazine.
 

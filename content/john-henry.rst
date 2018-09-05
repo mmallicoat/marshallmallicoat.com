@@ -45,7 +45,7 @@ conditioner and the cricketsong of computers. And your coworkers are all
 blood doping—cranking on the commute, then drinking themselves to
 sleep at night. How can you keep up without joining in?
 
-John Henry was able to beat the steel-driving machine thru sheer effort.
+John Henry was able to beat the steel-driving machine through sheer effort.
 But afterward, his heart gave out and he soon died. The "Ballad of John
 Henry" says “That old hammer killed John Henry / but that old hammer
 won't kill me”. I'm saying, that old hammer won't kill me.

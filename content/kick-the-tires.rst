@@ -1,6 +1,6 @@
 :title:  If you buy the car, you get to kick the tires
 :date:   2014-10-13
-:modifed: 2017-11-12
+:modified: 2017-11-12
 :slug: kick-the-tires
 :category: Essays
 
@@ -22,7 +22,7 @@ Quebec via Blandford
 
 Between jobs, I went on a road trip to Quebec. I figured Quebec was the
 closest thing to a foreign country that I could get to for $100. Passing
-thru Blandford, Mass., I saw a foreboding sign warning of “Low Flying
+through Blandford, Mass., I saw a foreboding sign warning of “Low Flying
 Planes”.
 
 If you found yourself naked on the side of a highway in, say, the
@@ -66,17 +66,17 @@ Montreal II
 
 Downtown Montreal feels like a clean, depopulated Manhattan.
 
-I stepped into a biblioteque anarchiste just to browse.
+I stepped into a *biblioteque anarchiste* just to browse.
 
 This city, like all cities, has been weaponized against transients.
 
 Quebec City
 ===========
 
-I drove thru a brown landscape that reminded me more of Iowa than
+I drove through a brown landscape that reminded me more of Iowa than
 France. I was doing 120 in the 100km/h.
 
-The old part of Quebec looks like Europe for someone who has never been
+The old part of Quebec looks like Europe to someone who has never been
 to Europe, which I haven't. The facade of the buildings are kept as they
 were, but inside there are T-shirt shops. It's like Colonial
 Williamsburg without the pre-diabetic wheelwright going on about the
