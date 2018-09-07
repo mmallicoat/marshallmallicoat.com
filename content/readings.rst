@@ -87,7 +87,7 @@ This was the biggest reading I had ever done. Spencer invited me. His press
 I wore a polo shirt and a hoodie. The reading went fairly well. I read a thing
 about the Gatorade "G-series" which people seemed to think was funny. A video
 was recorded by Sam Cooke, but it now seems to be lost. The webpage archived by
-`archive.org`_ shows where it once hosted.
+`archive.org`_ shows where it was once hosted.
 
 There was an after-party at a bar.
 I was in a weird mood and didn't talk much to people.

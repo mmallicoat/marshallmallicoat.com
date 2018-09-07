@@ -1,5 +1,5 @@
 :date: 2015-01-01
-:modified: 2018-09-05
+:modified: 2018-09-07
 :slug: about
 :title: About
 :category: Meta
@@ -8,7 +8,8 @@
 About Me
 ========
 
-My name is Marshall Mallicoat. I was born in Fairfax, Virginia, in 1988.
+My name is Marshall Mallicoat. I was born in Fairfax, Virginia, in 1988. I
+earned a bachelor's degree in mathematics from the University of Kansas in 2010.
 I live in Urbana, Illinois.
 
 Email: mm@marshallmallicoat.com
@@ -20,9 +21,8 @@ Twitter: `@marshallmallico`_
 About Site
 ==========
 
-The site is written in `reStructuredText`_ markup
-and compiled with the `Pelican`_ static site generator.
-The source files are available on `Github`_.
+The site is written in `reStructuredText`_ markup and compiled with the
+`Pelican`_ static site generator. The source files are available on `Github`_.
 
 .. _`Github`: https://github.com/mmallicoat/marshallmallicoat.com
 .. _`Let's Encrypt`: https://letsencrypt.org/

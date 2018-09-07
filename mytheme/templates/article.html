@@ -12,13 +12,11 @@
   <header><h1>{{ article.title }}</h1></header>
   <footer>
     {% if article.modified and article.modified != article.date %}
-        Published
-        <time class="published" datetime="{{ article.date.isoformat() }}">
-        {{ article.date|strftime('%-d %b %Y') }}</time></br>
         Revised
         <time class="modified" datetime="{{ article.modified.isoformat() }}">
         {{ article.modified|strftime('%-d %b %Y') }}</time>
     {% else %}
+        Published
         <time class="published" datetime="{{ article.date.isoformat() }}">
         {{ article.date|strftime('%-d %b %Y') }}</time>
     {% endif %}

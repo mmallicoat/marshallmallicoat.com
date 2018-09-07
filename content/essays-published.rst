@@ -4,7 +4,7 @@
 :category: Essays
 :slug: Essays-published
 
-* Essay in `detailed accounts of february 15, 2013`_, edited by Mathew
-  Donahoo (*horse ghost*, 2013).
+* Essay_ in the "detailed accounts of february 15, 2013" issue of *horse ghost*,
+  edited by Mathew Donahoo (Late 2013).
 
-.. _`detailed accounts of february 15, 2013`: https://web.archive.org/web/20160530031314/http://www.horseghost.info/p/marshall-mallicoat_8.html
+.. _Essay: https://web.archive.org/web/20160530031314/http://www.horseghost.info/p/marshall-mallicoat_8.html
