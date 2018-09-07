@@ -1,18 +1,15 @@
 :title: Past Readings
 :date: 2018-01-02
-:modified: 2018-09-05
+:modified: 2018-09-07
 :category: Notes
 :slug: readings
-
-Past Readings
-=============
 
 What follows is a catalog of most of the poetry readings I've given.
 
 .. Associated Press Stylebook abbreviations for state and country
 
-2017-11-05 in Hartford, Conn.
------------------------------
+5 Nov. 2017 in Hartford, Conn.
+------------------------------
 
 - Where: Little River Restoratives bar
 - Why: `Syllable reading series <https://syllableseries.wordpress.com/>`__
@@ -50,8 +47,8 @@ I had a good time talking to them.
 .. _article: http://www.courant.com/entertainment/arts-theater/hc-syllable-poetry-series-little-river-restorative-20171119-story.html
 
 
-2013-09-27 in New York, N.Y.
-----------------------------
+27 Sept. 2013 in New York, N.Y.
+-------------------------------
 
 - Where: Molasses Books in Brooklyn
 - Why: ?
@@ -75,8 +72,8 @@ We ate and people drank then everyone left.
 .. _`Mellow Pages Library`: https://mellowpageslibrary.tumblr.com/
 
 
-2013-01-31 in New York, N.Y.
-----------------------------
+31 Jan. 2013 in New York, N.Y.
+------------------------------
 
 - Where: Housing Works in Manhattan
 - Why: Release of Mira Gonzalez's book
@@ -84,21 +81,22 @@ We ate and people drank then everyone left.
 - Other readers: Mira Gonzalez, Spencer Madsen, Giancarlo DiTrapano,
   Kool A.D. (Victor Vazquez), Melissa Broder, Willis Plummer
 
-This was the biggest reading I've ever done.
-Spencer invited me. His press Sorry House was publishing
-Mira's book.
+This was the biggest reading I had ever done. Spencer invited me. His press
+*Sorry House* was publishing Mira's book.
 
-I wore a polo shirt and a hoodie. The reading went fairly well.
-I read a thing about the Gatorade "G-series" which people seem
-to think was funny.
+I wore a polo shirt and a hoodie. The reading went fairly well. I read a thing
+about the Gatorade "G-series" which people seemed to think was funny. A video
+was recorded by Sam Cooke, but it now seems to be lost. The webpage archived by
+`archive.org`_ shows where it once hosted.
 
 There was an after-party at a bar.
 I was in a weird mood and didn't talk much to people.
 I took the train home to Connecticut afterward.
 
+.. _`archive.org`: https://web.archive.org/web/20131020095052/http://vimeo.com/user11004662
 
-2012-10-26 in New York, N.Y.
-----------------------------
+26 Oct. 2012 in New York, N.Y.
+------------------------------
 
 - Where: apartment in Brooklyn
 - Why: *Keep This Bag Away From Children* release
@@ -118,8 +116,8 @@ There was maybe a record player set up.
 
 I took the train home to Connecticut afterward.
 
-2012-07-04 in New York, N.Y.
-----------------------------
+4 July 2012 in New York, N.Y.
+-----------------------------
 
 - Where: Mike Bushnell's apartment in Brooklyn
 - Why: Fourth of July party
@@ -131,15 +129,14 @@ This took place at a Fourth of July party on the roof of Mike Bushnell's
 apartment in (I believe) Bed—Stuy, Brooklyn.
 The reading got started in the evening. It was still hot after the sun went down.
 
-I remember the reading being pretty raucous.
+I remember the reading being pretty rowdy.
 There is some coverage of it at `this old blog`_.
 
 .. _`this old blog`: http://internetpeopleinreallife.tumblr.com/post/26469951978/mikes-reading-party-in-brooklyn-with-internet
 
 
-
-2012-01-28 in New York, N.Y.
-----------------------------
+28 Jan. 2012 in New York, N.Y.
+------------------------------
 
 - Where: Linger café in Brooklyn
 - Why: ?
@@ -185,8 +182,8 @@ and I didn't really know how to use it.
 .. _`Ginsberg-inspired`: http://locustfarm.blogspot.com/2009/01/bob-dylan-king-of-jews.html
 
 
-2008-04-27 in Topeka, Kan.
---------------------------
+27 Apr. 2008 in Topeka, Kan.
+----------------------------
 
 - Where: the RowHouse Restaurant
 - Why: the "RowHouse Poetry Revue"

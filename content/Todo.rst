@@ -7,6 +7,9 @@
 
 Todo
 ----
+* Move 'poems published elsewhere' to the main list?
+* Move hyperlink in works published elsewhere to the title, away from the
+  publication?
 * Need a directive to indicate emphasis in a semantic way?
 * How to indicate citation of other works, like book in footnote? Or Twilight movie?
   There exists an HTML tag ``<cite>`` which is maybe the one to use.
