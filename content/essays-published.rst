@@ -2,7 +2,7 @@
 :date: 2018-09-07
 :modified: 2018-09-07
 :category: Essays
-:slug: Essays-published
+:slug: essays-published
 
 * Essay_ in the "detailed accounts of february 15, 2013" issue of *horse ghost*,
   edited by Mathew Donahoo (Late 2013).
