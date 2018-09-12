@@ -4,7 +4,7 @@
 :category: Notes
 :slug: links
 
-Here are a collection of links to personal websites, either those
+Here is a collection of links to personal websites, either those
 I've stumbled upon or those run by people I know.
 
 Arts and Letters
