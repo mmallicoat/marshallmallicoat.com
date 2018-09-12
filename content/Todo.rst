@@ -1,6 +1,6 @@
 :title: Blog Design
 :date: 2017-10-22
-:modified: 2018-09-05
+:modified: 2018-09-12
 :category: Meta
 :slug: todo
 :status: draft
@@ -10,10 +10,16 @@ Todo
 * Move 'poems published elsewhere' to the main list?
 * Move hyperlink in works published elsewhere to the title, away from the
   publication?
+* Maybe created a single post which links to the 12 lyric essays
+* In index page, use ``<section>>`` as the sectioning element.
+  Currently, I don't think I have one.
+* Remove the ``<hr>``: my use of it is not semantic, does not
+  follow the HTML5 spec.
 * Need a directive to indicate emphasis in a semantic way?
 * How to indicate citation of other works, like book in footnote? Or Twilight movie?
   There exists an HTML tag ``<cite>`` which is maybe the one to use.
-  How to code this in RST?
+  This can maybe be implemented using RST's ``:role:cite``.
+  Browsers will automatically put the text enclosed in italics.
 * Do I really need a sitemap? Some `tips <https://github.com/getpelican/pelican/wiki/Tips-n-Tricks>`_ to implement this.
 * Add a *blogroll*: "A blogroll is a list of links on a blog, usually on the 
   sidebar for easy access, that the blog writer likes and wants to share."

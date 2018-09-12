@@ -1,5 +1,5 @@
 :date: 2015-01-01
-:modified: 2018-09-07
+:modified: 2018-09-12
 :slug: about
 :title: About
 :category: Meta
@@ -10,7 +10,7 @@ About Me
 
 My name is Marshall Mallicoat. I was born in Fairfax, Virginia, in 1988. I
 earned a bachelor's degree in mathematics from the University of Kansas in 2010.
-I live in Urbana, Illinois.
+I live in Urbana, Illinois. I write and fiddle with computers.
 
 Email: mm@marshallmallicoat.com
 
@@ -21,10 +21,12 @@ Twitter: `@marshallmallico`_
 About Site
 ==========
 
-The site is written in `reStructuredText`_ markup and compiled with the
-`Pelican`_ static site generator. The source files are available on `Github`_.
+The site is written in reStructuredText_
+markup and compiled with the Pelican_ static site generator.
+The style sheet is based on the `Tufte CSS`_ library.
+The source files are available on Github_.
 
-.. _`Github`: https://github.com/mmallicoat/marshallmallicoat.com
-.. _`Let's Encrypt`: https://letsencrypt.org/
-.. _`Pelican`: https://getpelican.com
-.. _`reStructuredText`: http://docutils.sourceforge.net/rst.html
+.. _Github: https://github.com/mmallicoat/marshallmallicoat.com
+.. _Pelican: https://getpelican.com
+.. _reStructuredText: http://docutils.sourceforge.net/rst.html
+.. _`Tufte CSS`: https://edwardtufte.github.io/tufte-css/
