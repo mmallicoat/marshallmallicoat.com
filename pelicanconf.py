@@ -19,8 +19,8 @@ EXTRA_PATH_METADATA = {
 }
 
 # Set to 'mm.com' before uploading; use '' when testing.
-SITEURL = 'http://marshallmallicoat.com'
-# SITEURL = ''
+# SITEURL = 'http://marshallmallicoat.com'
+SITEURL = ''
 
 # Change location of pages to root directory, along with articles
 PAGE_SAVE_AS = '{slug}.html'

@@ -1,4 +1,4 @@
-:title: Links
+:title: Links to People
 :date: 2018-09-12
 :modified: 2018-09-12
 :category: Notes

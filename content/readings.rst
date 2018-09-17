@@ -212,10 +212,7 @@ I was very young, and the other poets were much more accomplished.
 
 The readers rotated through the rooms of the restaurant, reading
 to the diners throughout the meal. My parents were in attendance.
-I read poems about `masturbation`_, `self-mutilation`_, etc.
-
-.. _`masturbation`: http://locustfarm.blogspot.com/2008/01/on-nights-that-i-have-house-to-myself.html
-.. _`self-mutilation`: http://locustfarm.blogspot.com/2008/02/give-me-one-reason.html
+I read poems about masturbation, self-mutilation, etc.
 
 
 Early 2007 in Lawrence, Kan.
