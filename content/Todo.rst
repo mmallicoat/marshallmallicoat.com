@@ -1,6 +1,6 @@
 :title: Blog Design
 :date: 2017-10-22
-:modified: 2018-09-12
+:modified: 2018-09-22
 :category: Meta
 :slug: todo
 :status: draft
@@ -8,22 +8,12 @@
 Todo
 ----
 
-* Init a git repo in the 'output' folder and push to Github pages
-  repo for hosting.
 * Move 'poems published elsewhere' to the main list?
 * Move hyperlink in 'works published elsewhere' to the title, away from the publication?
-* Maybe created a single post which links to the 12 lyric essays;
-  or could put in a single big page and add a TOC at the top with
-  ``.. contents:: My Table of Contents``.
 * In index page, use ``<section>>`` as the sectioning element.
   Currently, I don't think I have one.
 * Remove the ``<hr>``: my use of it is not semantic, does not
   follow the HTML5 spec.
-* How to indicate citation of other works, like book in footnote? Or Twilight movie in one essay?
-  There exists an HTML tag ``<cite>`` which is maybe the one to use.
-  This can maybe be implemented using RST's ``:role:cite``.
-  Browsers will automatically put the text enclosed in italics.
-  I think it can also be done with ``:title:`text``` or simply ``:t:`text```
 * Do I really need a sitemap? Some `tips <https://github.com/getpelican/pelican/wiki/Tips-n-Tricks>`_ to implement this.
 
 Won't Do
@@ -35,6 +25,16 @@ Won't Do
 
 Done
 ````
+* How to indicate citation of other works, like book in footnote? Or Twilight movie in one essay?
+  There exists an HTML tag ``<cite>`` which is maybe the one to use.
+  This can maybe be implemented using RST's ``:role:cite``.
+  Browsers will automatically put the text enclosed in italics.
+  I think it can also be done with ``:title:`text``` or simply ``:t:`text```
+* Maybe created a single post which links to the 12 lyric essays;
+  or could put in a single big page and add a TOC at the top with
+  ``.. contents:: My Table of Contents``.
+* Init a git repo in the 'output' folder and push to Github pages
+  repo for hosting.
 * Add a *blogroll*: "A blogroll is a list of links on a blog, usually on the 
   sidebar for easy access, that the blog writer likes and wants to share."
 * Use ALA state abbreviations in Readings? What is NY?

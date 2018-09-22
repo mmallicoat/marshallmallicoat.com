@@ -61,4 +61,3 @@ Miscellaneous
 
 - `Jae Kaplan <https://crime.team/~jkap/>`__, founder of shared hosting site `crime.team <https://crime.team/>`__
 - `Nathaniel Smith <https://tilde.town/~vilmibm/>`__, founder of shared hosting site `tilde.town <https://tilde.town>`__
-

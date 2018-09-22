@@ -4,7 +4,8 @@
 :slug: all-along-the-livery-line
 :category: Poems
 
-*All Along the Livery Line* is a collection of my poems published from
-2012 to 2014. It is available in PDF `here`_.
+:t:`All Along the Livery Line` is a collection of poems published from
+2012 to 2014. It is available in PDF here_.
 
-.. _`here`: {filename}/media/All\ Along\ the\ Livery\ Line.pdf
+.. _here: ../media/All\ Along\ the\ Livery\ Line.pdf
+.. .. _here: {filename}/media/All\ Along\ the\ Livery\ Line.pdf
