@@ -8,7 +8,16 @@
 Todo
 ----
 
-* Move 'poems published elsewhere' to the main list?
+
+* Should probably add my technical portfolio to the main page,
+  maybe under the heading 'Analysis and Code'. If so, maybe I will
+  combined 'Essays' and 'Poems' into a single category 'Writing.'
+  If the items listed on the front page become too long, maybe I
+  would need to add a link to 'More Writing' at the bottom of
+  'Writing,' and a similiar overflow link in other sections.
+  The website would be a portfolio for both my writing and other
+  work.
+* Move poems listed in 'poems published elsewhere' to the main list?
 * Move hyperlink in 'works published elsewhere' to the title, away from the publication?
 * In index page, use ``<section>>`` as the sectioning element.
   Currently, I don't think I have one.
