@@ -1,8 +1,8 @@
-:title: Poems Published Elsewhere
+:title: Writing Published Elsewhere
 :date: 2018-01-31
-:modified: 2018-09-07
-:category: Poems
-:slug: poems-published
+:modified: 2018-11-01
+:category: Writing
+:slug: writing-published
 
 * "Siste Viator" featured in Susan Dunne's `"Syllable: A Monthly Night Of Words
   And Music At Little River Restoratives"`_ (:t:`Hartford Courant`, 28 Nov. 2017).
@@ -12,6 +12,8 @@
   edited by Willis Plummer (Mid 2014).
 * `3 poems <http://newhive.com/popserial/marshall-mallicoat-3-poems>`__ in :t:`Pop Serial`,
   issue 5, edited by Stephen Tully Dierks (Early 2014).
+* Essay_ in the "detailed accounts of february 15, 2013" issue of :t:`horse ghost`,
+  edited by Mathew Donahoo (Late 2013).
 * Spoken poem "where my baby at in seattle" in `Ho Hum Vol. 1`_
   (:t:`Keep This Bag Away From Children`, 3 Apr. 2013).
 * `"Poem" <http://www.everyday-genius.com/2013/02/marshall-mallicoat.html>`__ in
@@ -30,3 +32,4 @@
 .. _`Shadowboxing`: https://therecordmachine.bandcamp.com/album/shadowboxing
 .. _`Ho Hum Vol. 1`: https://keepthisbagawayfromchildren.bandcamp.com
 .. _`Shitty Youth`: https://www.youtube.com/watch?v=Ppm8__FxZ4o
+.. _Essay: https://web.archive.org/web/20160530031314/http://www.horseghost.info/p/marshall-mallicoat_8.html

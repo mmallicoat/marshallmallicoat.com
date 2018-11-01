@@ -2,7 +2,7 @@
 :date: 2016-11-25
 :modified: 2018-09-07
 :slug: all-along-the-livery-line
-:category: Poems
+:category: Writing
 
 :t:`All Along the Livery Line` is a collection of poems published from
 2012 to 2014. It is available in PDF here_.

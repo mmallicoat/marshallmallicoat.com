@@ -1,6 +1,6 @@
 :title: Lyric Essays
 :date: 2018-09-22
-:category: Essays
+:category: Writing
 :slug: lyric-essays
 
 Here are a few lyric essays written in 2015:
