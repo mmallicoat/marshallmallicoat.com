@@ -4,7 +4,7 @@
 :category: Notes
 :slug: readings
 
-This is a catalog of almost all of the poetry readings I've given.
+.. contents:: This is a catalog of almost all of the poetry readings I've given.
 
 .. Associated Press Stylebook abbreviations for state and country
 
