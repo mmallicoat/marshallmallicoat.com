@@ -7,7 +7,7 @@ TIMEZONE = 'America/Chicago'
 OUTPUT_PATH = 'output/'
 # Delete files on rebuild except for selected ones
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_RETENTION = [".git", "README.rst"]
+OUTPUT_RETENTION = [".git", "README.rst", "CNAME"]
 
 # Use extra/ paths for copying over robots.txt and sitemap.xml
 # See: https://github.com/getpelican/pelican/wiki/Tips-n-Tricks
