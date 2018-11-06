@@ -1,4 +1,5 @@
 :date: 2018-11-02
+:modified: 2018-11-06
 :title: Analyzing Subreddit Networks
 :category: Projects
 :slug: subreddit-networks
@@ -11,11 +12,15 @@ The popular website reddit.com contains numerous messageboards
 such as a hobby or topic of interest. Often the users of these
 subreddits will place links to related subreddits on the sidebar
 of the webpage. In this way, these linked subreddits form a
-network of closely related online communities.  Because these
+network of closely related online communities. Because these
 lists of links are human-curated, they give high-quality
-indicators of related topics and communities.  By following these
+indicators of related topics and communities. By following these
 links programmatically, we can collect the data needed to to
 visualize and analyze these networks.
+
+All of the code for this project can be found on Github_.
+
+.. _Github: https://github.com/mmallicoat/subreddit-graphs
 
 Scrape the Data
 ---------------
@@ -93,11 +98,8 @@ After collecting the network data, we can use the library
 made a couple plots using ``matplotlib`` to visualize the graphs.
 
 .. figure:: ./media/prog-graph.png
-   :scale: 75 %
    :alt: network centered as /r/programming
    :align: center
-
-   Plot of the network centered at the subreddit /r/programming
 
 Unfortunately, these were difficult to read and not very useful
 for exploring the networks. To remedy this, I decided to use the
@@ -108,10 +110,19 @@ HTML file containing JavaScript visualizations.
 
 Click on the images below to view the interactive plots.
 
-.. Insert here images linking to the interactive plots
+.. figure:: ./media/fin-force-label.jpg
+   :alt: network centered as /r/financialindependence
+   :align: center
+   :target: html/fin-force.html
 
-[`Finance graph <./html/fin-force.html>`__]
-[`Programming graph <./html/prog-force.html>`__]
+   Plot of the network centered at the subreddit /r/financialindependence
+
+.. figure:: ./media/prog-force-label.jpg
+   :alt: network centered as /r/programming
+   :align: center
+   :target: html/prog-force.html
+
+   Plot of the network centered at the subreddit /r/programming
 
 In these charts, the relative number of subscribers to each
 subreddit is represented by the radius of the node (using a

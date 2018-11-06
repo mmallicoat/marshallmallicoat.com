@@ -40,15 +40,13 @@ body { width: 87.5%;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
-/* MJM revisions: reduce top padding from 4rem*/
+/* MJM: reduce top padding from 4rem*/
 
 h1 { font-weight: 400;
      margin-top: 2rem;
      margin-bottom: 1.5rem;
      font-size: 3.2rem;
      line-height: 1; }
-
-/* MJM revisions end */
 
 h2 { font-style: italic;
      font-weight: 400;
@@ -83,12 +81,10 @@ p.subtitle { font-style: italic;
 
 .danger { color: red; }
 
-/* MJM revisions: reduce article top-bottom padding from 5rem */
+/* MJM: reduce article top-bottom padding from 5rem */
 
 article { position: relative;
           padding: 1rem 0rem; }
-
-/* MJM revisions end */
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
@@ -127,9 +123,7 @@ section>ol, section>ul { width: 45%;
                          -webkit-padding-start: 5%;
                          -webkit-padding-end: 5%; }
 
-/* MJM revisions */
-
-/* Duplicate above for article and div.section elements */
+/* MJM: Duplicate above for article and div.section elements */
 /* div.section is used by docutils at headings, I think */
 div.section>ol, div.section>ul { width: 45%;
                                 -webkit-padding-start: 5%;
@@ -139,37 +133,37 @@ article>ol, article>ul { width: 45%;
                          -webkit-padding-start: 5%;
                          -webkit-padding-end: 5%; }
 
-/* Override the 55% width applied to the p element when inside list */
+/* MJM: Override the 55% width applied to the p element when inside list */
 /* This is so the reduced width for a list doesn't stack with p */
 ol p, ul p { width: 100% }
 
-/* Harmonize heading width with other elements */
+/* MJM: Harmonize heading width with other elements */
 /* To avoid very long titles from not wrapping around. */
 h1, h2, h3, h4, h5, h6 { width: 55% }
 
-/* MJM revisions end */
-
 li { padding: 0.5rem 0; }
 
-figure { padding: 0;
-         border: 0;
-         font-size: 100%;
-         font: inherit;
-         vertical-align: baseline;
-         max-width: 55%;
-         -webkit-margin-start: 0;
-         -webkit-margin-end: 0;
-         margin: 0 0 3em 0; }
+/* MJM: Add div.figure to this styling. Used by reST/Pelican. */
+figure, div.figure { padding: 0;
+                     border: 0;
+                     font-size: 100%;
+                     font: inherit;
+                     vertical-align: baseline;
+                     max-width: 55%;
+                     -webkit-margin-start: 0;
+                     -webkit-margin-end: 0;
+                     margin: 0 0 3em 0; }
 
-figcaption { float: right;
-             clear: right;
-             margin-top: 0;
-             margin-bottom: 0;
-             font-size: 1.1rem;
-             line-height: 1.6;
-             vertical-align: baseline;
-             position: relative;
-             max-width: 40%; }
+/* MJM: Add p.caption to this styling. Used by reST/Pelican. */
+figcaption, p.caption { float: right;
+                        clear: right;
+                        margin-top: 0;
+                        margin-bottom: 0;
+                        font-size: 1.1rem;
+                        line-height: 1.6;
+                        vertical-align: baseline;
+                        position: relative;
+                        max-width: 40%; }
 
 figure.fullwidth figcaption { margin-right: 24%; }
 
