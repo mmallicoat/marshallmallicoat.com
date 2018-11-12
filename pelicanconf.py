@@ -12,15 +12,15 @@ OUTPUT_RETENTION = [".git", "README.rst", "CNAME"]
 # Use extra/ paths for copying over robots.txt and sitemap.xml
 # See: https://github.com/getpelican/pelican/wiki/Tips-n-Tricks
 STATIC_PATHS = ['pages', 'media',
-                'html', 'data',
+                'html', 'data', 'figures',
                 'extra/robots.txt',
                 'extra/sitemap.xml'
                 ]
+# These paths will not be parsed as markup into HTML
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/sitemap.xml': {'path': 'sitemap.xml'},
-    'html': {'path': 'html'},
-    'data': {'path': 'data'}
+    'html': {'path': 'html'}
     }
 # Do not process these folders as articles
 ARTICLE_EXCLUDES = ['html']

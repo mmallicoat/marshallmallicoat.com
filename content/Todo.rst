@@ -9,21 +9,14 @@ Todo
 ----
 
 
-* Should probably add my technical portfolio to the main page,
-  maybe under the heading 'Analysis and Code'. If so, maybe I will
-  combined 'Essays' and 'Poems' into a single category 'Writing.'
-  If the items listed on the front page become too long, maybe I
-  would need to add a link to 'More Writing' at the bottom of
-  'Writing,' and a similiar overflow link in other sections.
-  The website would be a portfolio for both my writing and other
-  work.
 * Move poems listed in 'poems published elsewhere' to the main list?
 * Move hyperlink in 'works published elsewhere' to the title, away from the publication?
 * In index page, use ``<section>>`` as the sectioning element.
   Currently, I don't think I have one.
 * Remove the ``<hr>``: my use of it is not semantic, does not
   follow the HTML5 spec.
-* Do I really need a sitemap? Some `tips <https://github.com/getpelican/pelican/wiki/Tips-n-Tricks>`_ to implement this.
+* Do I really need a sitemap?
+  Some `tips <https://github.com/getpelican/pelican/wiki/Tips-n-Tricks>`_ to implement this.
 
 Won't Do
 ````````
@@ -34,6 +27,14 @@ Won't Do
 
 Done
 ````
+* Should probably add my technical portfolio to the main page,
+  maybe under the heading 'Analysis and Code'. If so, maybe I will
+  combined 'Essays' and 'Poems' into a single category 'Writing.'
+  If the items listed on the front page become too long, maybe I
+  would need to add a link to 'More Writing' at the bottom of
+  'Writing,' and a similiar overflow link in other sections.
+  The website would be a portfolio for both my writing and other
+  work.
 * How to indicate citation of other works, like book in footnote? Or Twilight movie in one essay?
   There exists an HTML tag ``<cite>`` which is maybe the one to use.
   This can maybe be implemented using RST's ``:role:cite``.
