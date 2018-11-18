@@ -8,22 +8,24 @@
 Todo
 ----
 
-
 * Move poems listed in 'poems published elsewhere' to the main list?
+  That is, listed individually under 'Writing' instead of grouped
+  and kept one directory down.
 * Move hyperlink in 'works published elsewhere' to the title, away from the publication?
+  This is a style issue. Can take advantage of ``:t:`` directive and hardcoded HTML.
 * In index page, use ``<section>>`` as the sectioning element.
-  Currently, I don't think I have one.
-* Remove the ``<hr>``: my use of it is not semantic, does not
-  follow the HTML5 spec.
+  Currently, I don't think I have one. Look at the 'outline' of the page.
+* Remove the ``<hr>``? My use of it is not semantic, does not follow the HTML5 spec.
 * Do I really need a sitemap?
   Some `tips <https://github.com/getpelican/pelican/wiki/Tips-n-Tricks>`_ to implement this.
+  I think I have one, but I'm not sure what it does.
 
 Won't Do
 ````````
 * In ``base.html`` template, add metadata like author to head?
 * In ``about.html`` page, use ``address`` element,
   maybe in the vCard (?) microformat.
-* Add a favicon?
+* Add a favicon? No need. Also see criticisms on Wikipedia page.
 
 Done
 ````
