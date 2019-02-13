@@ -147,6 +147,11 @@ figure, div.figure { padding: 0;
                      -webkit-margin-end: 0;
                      margin: 0 0 3em 0; }
 
+/* MJM: Add border around images in figures */
+div.figure img { border-width: 1px;
+                 border-style: solid;
+                 border-color: gray; }
+
 /* MJM: Add p.caption to this styling. Used by reST/Pelican. */
 figcaption, p.caption { float: right;
                         clear: right;
@@ -159,6 +164,8 @@ figcaption, p.caption { float: right;
                         max-width: 40%; }
 
 figure.fullwidth figcaption { margin-right: 24%; }
+
+
 
 /* Links: replicate underline that clears descenders */
 a:link, a:visited { color: inherit; }
@@ -180,6 +187,9 @@ a:link::selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #
 
 a:link::-moz-selection { text-shadow: 0.03em 0 #b4d5fe, -0.03em 0 #b4d5fe, 0 0.03em #b4d5fe, 0 -0.03em #b4d5fe, 0.06em 0 #b4d5fe, -0.06em 0 #b4d5fe, 0.09em 0 #b4d5fe, -0.09em 0 #b4d5fe, 0.12em 0 #b4d5fe, -0.12em 0 #b4d5fe, 0.15em 0 #b4d5fe, -0.15em 0 #b4d5fe;
                          background: #b4d5fe; }
+
+/* MJM: Add color when hovering over links */
+a:hover { color: red; }
 
 /* Sidenotes, margin notes, figures, captions */
 img { max-width: 100%; }
