@@ -1,6 +1,6 @@
 :date: 2018-11-02
-:modified: 2019-02-07
-:title: Analyzing Subreddit Networks
+:modified: 2019-02-19
+:title: Exploring Subreddit Networks
 :category: Projects
 :slug: subreddit-networks
 
@@ -18,9 +18,9 @@ indicators of related topics and communities. By following these
 links programmatically, we can collect the data needed to to
 visualize and analyze these networks.
 
-The code for this project can be found on Github_.
+The code for this project can be found on GitHub_.
 
-.. _Github: https://github.com/mmallicoat/subreddit-graphs
+.. _GitHub: https://github.com/mmallicoat/subreddit-graphs
 
 Scrape the Data
 ---------------

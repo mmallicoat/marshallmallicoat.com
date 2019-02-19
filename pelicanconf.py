@@ -1,6 +1,6 @@
 AUTHOR = 'Marshall Mallicoat'
 DEFAULT_LANG = 'en'
-SITENAME = u'\u25B2' + u'HEAP'  # code point for triangle
+SITENAME = u'Marshall Mallicoat'
 PATH = 'content/'  # markup documents
 TIMEZONE = 'America/Chicago'
 
@@ -26,8 +26,8 @@ EXTRA_PATH_METADATA = {
 ARTICLE_EXCLUDES = ['html']
 
 # Set to 'mm.com' before uploading; use '' when testing.
-# SITEURL = 'http://marshallmallicoat.com'
-SITEURL = ''
+SITEURL = 'http://marshallmallicoat.com'
+# SITEURL = ''
 
 # Change location of pages to root directory, along with articles
 PAGE_SAVE_AS = '{slug}.html'

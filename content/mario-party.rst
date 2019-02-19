@@ -15,9 +15,9 @@ perhaps they were given an advantage somehow. I manually recorded
 a sample of the dice rolls from the game in order to test this
 possibility.
 
-The data and code for this project can be found on Github_.
+The data and code for this project can be found on GitHub_.
 
-.. _Github: https://github.com/mmallicoat/mario-party
+.. _GitHub: https://github.com/mmallicoat/mario-party
 
 .. Style: Student's *t*-test; Mann–Whitney *U* test; Wilcoxon rank-sum test; (Pearson's) chi-squared test; Smirnov–Kolmogorov test; *p*-value
 
