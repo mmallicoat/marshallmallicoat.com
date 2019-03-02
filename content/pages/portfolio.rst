@@ -26,6 +26,8 @@ Selected Projects
    :align: center
    :target: ../dental-demographics.html
    :alt: Dental Demographic
+   :height: 540px
+   :width: 720px
 
    Mapping demographic and competitor data to find profitable locations for a
    dental practice
@@ -40,6 +42,8 @@ Selected Projects
    :align: center
    :target: ../kaggle-house-prices.html
    :alt: Predicting House Prices
+   :height: 540px
+   :width: 720px
 
    Predicting the sale price of houses given their dimensions,
    year of construction, and other characteristics
@@ -54,8 +58,25 @@ Selected Projects
    :align: center
    :target: ../subreddit-networks.html
    :alt: Exploring Subreddit Networks
+   :height: 540px
+   :width: 720px
 
    Visualizing and analyzing networks of topic-related messageboards
    on reddit.com
 
 .. _`Exploring Subreddit Networks`: ../subreddit-networks.html
+
+`Student Satisfaction Regression`_
+----------------------------------
+
+.. figure:: ./figures/residual-homoscedasticity.png
+   :align: center
+   :target: ../student-satisfaction.html
+   :alt: Student Satisfaction Regression
+   :height: 540px
+   :width: 720px
+
+   Multiple linear regression of factors leading to students' satisfaction
+   with their psychology degree
+
+.. _`Student Satisfaction Regression`: ../student-satisfaction.html
