@@ -65,18 +65,3 @@ Selected Projects
    on reddit.com
 
 .. _`Exploring Subreddit Networks`: ../subreddit-networks.html
-
-`Student Satisfaction Regression`_
-----------------------------------
-
-.. figure:: ./figures/residual-homoscedasticity.png
-   :align: center
-   :target: ../student-satisfaction.html
-   :alt: Student Satisfaction Regression
-   :height: 540px
-   :width: 720px
-
-   Multiple linear regression of factors leading to students' satisfaction
-   with their psychology degree
-
-.. _`Student Satisfaction Regression`: ../student-satisfaction.html
