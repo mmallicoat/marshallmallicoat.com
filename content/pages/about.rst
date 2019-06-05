@@ -1,5 +1,5 @@
 :date: 2015-01-01
-:modified: 2019-02-18
+:modified: 2019-06-05
 :slug: about
 :title: About
 :category: Meta
@@ -10,7 +10,7 @@ About Me
 
 My name is Marshall Mallicoat. I was born in Fairfax, Virginia, in 1988. I
 earned a bachelor's degree in mathematics from the University of Kansas in
-2010. I live in Urbana, Illinois. I write and fiddle with computers.
+2010. I live in Chicago, Illinois. I write and fiddle with computers.
 
 *   Email: mm@marshallmallicoat.com
 *   GitHub: `github.com/mmallicoat <https://github.com/mmallicoat>`_
