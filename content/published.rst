@@ -1,9 +1,11 @@
 :title: Writing Published Elsewhere
 :date: 2018-01-31
-:modified: 2019-03-27
+:modified: 2019-06-20
 :category: Writing
 :slug: writing-published
 
+* `Poems <http://magazine.nytyrant.com/poems-marshall-mallicoat/>`__
+  in :t:`New York Tyrant` (17 June 2019).
 * `3 poems <https://electricliterature.com/i-remember-you-were-made-of-dark-warm-wood/>`__
   in Electric Literature's :t:`Commuter`, issue 57 (25 March 2019).
 * "Siste Viator" featured in Susan Dunne's article `"Syllable: A Monthly Night Of Words
