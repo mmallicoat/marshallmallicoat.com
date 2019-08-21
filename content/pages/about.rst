@@ -1,5 +1,5 @@
 :date: 2015-01-01
-:modified: 2019-06-05
+:modified: 2019-08-21
 :slug: about
 :title: About
 :category: Meta
@@ -13,12 +13,11 @@ earned a bachelor's degree in mathematics from the University of Kansas in
 2010. I live in Chicago, Illinois. I write and fiddle with computers.
 
 *   Email: mm@marshallmallicoat.com
-*   GitHub: `github.com/mmallicoat <https://github.com/mmallicoat>`_
 *   Twitter: `@marshallmallico`_
-*   `Résumé`_
+*   GitHub: `github.com/mmallicoat`_
 
 .. _`@marshallmallico`: https://twitter.com/marshallmallico
-.. _Résumé: https://github.com/mmallicoat/resume/raw/master/build/marshall-mallicoat-resume.pdf
+.. _`github.com/mmallicoat`: https://github.com/mmallicoat
 
 About Site
 ==========

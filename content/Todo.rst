@@ -1,6 +1,6 @@
 :title: Blog Design
 :date: 2017-10-22
-:modified: 2018-09-22
+:modified: 2019-08-02
 :category: Meta
 :slug: todo
 :status: draft
@@ -8,6 +8,8 @@
 Todo
 ----
 
+* Add names of editors to more recent poems published.
+* Learn APIs for new version of Pelican
 * Move poems listed in 'poems published elsewhere' to the main list?
   That is, listed individually under 'Writing' instead of grouped
   and kept one directory down.
