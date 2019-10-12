@@ -18,6 +18,7 @@ Webster's.
 *   cabriolet
 *   chaise
 *   coach-and-four [#Stephenson]_
+*   dearborn
 *   droshkey
 *   four-in-hand
 *   gig
@@ -29,7 +30,7 @@ Webster's.
 *   prairie schooner
 *   rickshaw
 *   sleigh
-*   stagecoach (or simply coach)
+*   stagecoach (or simply *coach*)
 *   surrey
 *   telega
 *   tuk-tuk

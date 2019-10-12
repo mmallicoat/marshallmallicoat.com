@@ -21,6 +21,7 @@ Arts and Letters
 - `Kwak, Stephanie <https://www.stephaniekwak.com/>`__: computery poet
 - `Tao Lin <http://www.taolin.info/>`__: novelist and poet
 - `Mortensen, Audun <http://www.audunmortensen.com/>`__: artist and poet
+- `Nieuwland, Jackson <http://www.jacksonnieuwland.com>`__: poet
 - `Pageant Boys <http://www.pageantboys.com/>`__: my friend Alexander Sheppard's band
 - `Predko, Hillary <http://hillarypredko.com/>`__: writer and designer
 - `Shaw, Lucy K. <https://lkshow.biz/>`__: writer
