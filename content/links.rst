@@ -27,6 +27,7 @@ Arts and Letters
 - `Predko, Hillary <http://hillarypredko.com/>`__: writer and designer
 - `Shaw, Lucy K. <https://lkshow.biz/>`__: writer
 - `Stinson, Erik <http://erikstinson.com/>`__: "writer and commercial creative"
+- `Vandy, Michelle <http://www.looknohands.me/>`__: designer
 - `Wagenknecht, Addie <http://www.placesiveneverbeen.com/>`__: artist and designer
 - `Welsch, J.T. <https://jtwelsch.com/>`__: "writer and academic"
 - `Wilks, Leah <https://www.leahwilks.com/>`__: dancer
