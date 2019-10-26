@@ -1,6 +1,6 @@
 :title: Blog Design
 :date: 2017-10-22
-:modified: 2019-08-02
+:modified: 2019-10-19
 :category: Meta
 :slug: todo
 :status: draft
@@ -8,6 +8,9 @@
 Todo
 ----
 
+* Upgrade to latest Python 3 version of Pelican.
+  Figure out how to get static directory ``content/html``
+  to build correctly.
 * Add names of editors to more recent poems published.
 * Learn APIs for new version of Pelican
 * Move poems listed in 'poems published elsewhere' to the main list?

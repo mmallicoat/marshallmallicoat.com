@@ -9,34 +9,34 @@ My surname is *Mallicoat*, pronounced like the first two syllables of
 The *Dictionary of American Family Names* [#DAFM]_ has these two
 relevant entries:
 
-    Mallicoat (240) English: unexplained. Compare MALICOAT.
-    
     Malicoat (250) English: unexplained. Compare MALLICOAT.
 
-It is an uncommon name. The numbers given (240 and 250) are the
+    Mallicoat (240) English: unexplained. Compare MALICOAT.
+
+It is an uncommon name. The numbers given (250 and 240) are the
 frequency of the surname in the "sample of 88.7 million listings in the
 [Dictionary of American Family Names] database." For comparison, the
-frequency of *Newman*, a relatively common name, is 39,339.
+frequency of *Newman* is 39,339.
 
 Oldtimers in my family have done some genealogical work, concluding
-(per my father) that *Mallicoat* is the "habitational name from a place
+(per my father) that *Mallicoat* is a "habitational name from a place
 so named in Devon county, England." The supposed place is the village
 of Mullacott_, near Ilfracombe. The village appears in the `Domesday
 Book`_ of 1086 as *Molecote*.
 
-All of the American Mallicoats are apprently descended from one John
-Mallicote, born ca. 1616–1660 in England, died ca. 1657–1740 in the
-Colony of Virginia.
+All of the American Mallicoats are apprently descended from one John Mallicote,
+who was born ca. 1616–1660 in England and died ca. 1657–1740 in the Colony of
+Virginia.
 
-A Jamaican cable man, when installing a modem at my apartment,
+A Jamaican cable man, when installing a modem at my apartment long ago,
 told me that there are Mallicoats in Jamaica, too.
 
-Some famous Mallicoats
-----------------------
+Some notable Mallicoats
+-----------------------
 
 *   `Helen Mallicoat`_ (1913–2004): author of *Listen for the Lord* (Hallmark Cards, 1977) and the poem `I AM`_
 *   `Rob Mallicoat`_ (1964–): left-handed former pitcher of the Houston Astros
-*   `Tom Mallicoat`_ (1965–): singer of the heavy metal band Lethal_
+*   `Tom Mallicoat`_ (1965–): lead singer of the heavy metal band Lethal_
 
 .. [#DAFM] Ed. by Patrick Hanks. Oxford University Press, 2003.
 .. _`Domesday Book`: https://opendomesday.org/place/SS5145/mullacott/

@@ -11,7 +11,7 @@ a cool minimalist website, I've often kept a link to it.
 Show Me the Sites
 -----------------
 
-Shared hosting sites like `crime.team <https://crime.team/>`__ and
+Shared hosting sites `crime.team <https://crime.team/>`__ and
 `tilde.club <http://tilde.club/>`__ are styled like a terminal window.
 (Here's a `list <http://tilde.club/%7Epfhawkins/othertildes.html>`__ of
 some more.)

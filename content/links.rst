@@ -18,6 +18,7 @@ Arts and Letters
 - `Gillespie, Patrick <https://poemshape.wordpress.com/>`__: poet
 - `Gillig, Cassandra <https://cassandragillig.com/>`__: poet
 - `Kennedy, Erik <http://erikkennedy.com/>`__: poet
+- `Kraker, Mauriah <https://mapsformaking.com/>`__: dancer
 - `Kwak, Stephanie <https://www.stephaniekwak.com/>`__: computery poet
 - `Tao Lin <http://www.taolin.info/>`__: novelist and poet
 - `Mortensen, Audun <http://www.audunmortensen.com/>`__: artist and poet
@@ -28,6 +29,7 @@ Arts and Letters
 - `Stinson, Erik <http://erikstinson.com/>`__: "writer and commercial creative"
 - `Wagenknecht, Addie <http://www.placesiveneverbeen.com/>`__: artist and designer
 - `Welsch, J.T. <https://jtwelsch.com/>`__: "writer and academic"
+- `Wilks, Leah <https://www.leahwilks.com/>`__: dancer
 
 Computing
 ---------
@@ -45,7 +47,6 @@ Computing
 - `Rutkowska, Joanna <https://blog.invisiblethings.org/about/>`__: computer engineer
 - `Smith, Nathaniel <https://tilde.town/~vilmibm/>`__: founder of shared hosting site `tilde.town <https://tilde.town>`__
 - `Stephens, Andrew <https://sheep.horse/>`__: programmer
-
 
 Gopher Sites [#Gopher]_
 -----------------------

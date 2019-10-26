@@ -38,6 +38,6 @@ Webster's.
 *   victoria
 
 .. [#Websters] *Webster's New Collegiate Dictionary* (G. & C. Merriam Company, 1979)
-    and *Webster's New International Dictionary* (2nd ed., G. & C. Merriam Company, 1941)
+   and *Webster's New International Dictionary* (2nd ed., G. & C. Merriam Company, 1941)
 .. [#Stephenson] Neil Stephenson's *Quicksilver* (William Morrow and Company, 2003)
-.. [#Gibbon] Edward Gibbon's *The Autobiography of Edward Gibbon* (Ed. by Dero A. Saunders, Meridian Books, 1961)
+.. [#Gibbon] Edward Gibbon's *The Autobiography of Edward Gibbon* (ed. by Dero A. Saunders, Meridian Books, 1961)
