@@ -1,12 +1,11 @@
 :title: Minimalist Websites
 :date: 2019-08-02
+:modified: 2019-11-04
 :category: Notes
 :slug: minimalist-sites
 
 I like hand-made personal websites, especially those with a minimalist
-bent, so I've collected some here. This list has some overlap with my
-`Links to People <./links.html>`__, since when I've found someone with
-a cool minimalist website, I've often kept a link to it.
+bent, so I've collected some here.
 
 Show Me the Sites
 -----------------

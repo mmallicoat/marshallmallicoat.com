@@ -1,6 +1,6 @@
 :title: Links to People
-:date: 2018-09-12
-:modified: 2019-08-02
+:date: 2018-08-02
+:modified: 2019-11-04
 :category: Notes
 :slug: links
 
@@ -20,7 +20,6 @@ Arts and Letters
 - `Kennedy, Erik <http://erikkennedy.com/>`__: poet
 - `Kraker, Mauriah <https://mapsformaking.com/>`__: dancer
 - `Kwak, Stephanie <https://www.stephaniekwak.com/>`__: computery poet
-- `Tao Lin <http://www.taolin.info/>`__: novelist and poet
 - `Mortensen, Audun <http://www.audunmortensen.com/>`__: artist and poet
 - `Nieuwland, Jackson <http://www.jacksonnieuwland.com>`__: poet
 - `Pageant Boys <http://www.pageantboys.com/>`__: my friend Alexander Sheppard's band
@@ -29,37 +28,28 @@ Arts and Letters
 - `Stinson, Erik <http://erikstinson.com/>`__: "writer and commercial creative"
 - `Vandy, Michelle <http://www.looknohands.me/>`__: designer
 - `Wagenknecht, Addie <http://www.placesiveneverbeen.com/>`__: artist and designer
-- `Welsch, J.T. <https://jtwelsch.com/>`__: "writer and academic"
 - `Wilks, Leah <https://www.leahwilks.com/>`__: dancer
 
 Computing
 ---------
 
-- `Bevand, Marc <http://zorinaq.com/>`__
-- `Elkins, Trevor <https://trevore.com/>`__: programmer
-- `Ellis, Alex <https://blog.alexellis.io/>`__: programmer
 - `Gaxun <http://gaxun.net/>`__: a raft drifting on the open sea
-- `Hamburg, Erlend <https://hamberg.no/erlend/>`__
 - `Hsu, Aaron <http://www.sacrideo.us/>`__: programmer and handwriting enthusiast
-- `Landau, Hugo <https://www.devever.net/~hl/>`__
-- `Luu, Dan <https://danluu.com/>`__: programmer
 - `Mandeville, Zach <https://coolguy.website/>`__: solarpunk
-- `Nelson, Joe <https://begriffs.com/>`__: programmer
+- `Maz, Alice <https://www.alicemaz.com/>`__: programmer and writer
 - `Rutkowska, Joanna <https://blog.invisiblethings.org/about/>`__: computer engineer
 - `Smith, Nathaniel <https://tilde.town/~vilmibm/>`__: founder of shared hosting site `tilde.town <https://tilde.town>`__
-- `Stephens, Andrew <https://sheep.horse/>`__: programmer
 
 Gopher Sites [#Gopher]_
 -----------------------
 
-- `Bucklin, Dave <gopher://sdf.org:70/1/users/dbucklin/>`__
-- `C-Keen <gopher://vernunftzentrum.de/1/index.gph>`__
-- `Cat <gopher://baud.baby>`__
+- `C-Keen <gopher://vernunftzentrum.de/1/ckeen/index.gph>`__
+- `Cat <gopher://baud.baby>`__: cool cat
 - `celadevra <gopher://sdf.org/1/users/celadevra>`__: editor
-- `jandal <gopher://grex.org/1/%7ejandal>`__
-- `jynx <gopher://sdf.org/1/users/jynx/>`__
-- `solderpunk <gopher://circumlunar.space/1/%7esolderpunk/>`__
-- `Tomasino, James <gopher://gopher.black>`__
+- `jandal <gopher://grex.org/1/~jandal>`__
+- `jynx <gopher://sdf.org/1/users/jynx>`__
+- `solderpunk <gopher://circumlunar.space/1/~solderpunk>`__
+- `spring <gopher://republic.circumlunar.space/1/~spring>`__
 
 .. [#Gopher] `Gopher <https://en.wikipedia.org/wiki/Gopher_(protocol)>`__
     is a communication protocol introduced in 1991, the same year as HTTP.
