@@ -30,12 +30,11 @@ Header and Footer
 Date and Time
 -------------
 
-.. |date| date::
-.. |time| date:: %H:%M
-    
-Today's date is |date|. This document generated at |time|.
+.. Commented out
+.. .. |date| date::
+.. .. |time| date:: %H:%M
+.. Today's date is |date|. This document generated at |time|.
 
-.. Today's date is |date|. This document generated at |time|.  (Doesn't work.)
 
 Raw HTML
 --------
