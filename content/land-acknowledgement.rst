@@ -9,7 +9,7 @@
 Introduction
 ------------
 
-Sometime in 2018, I came across the website of game designer Avery Alder.
+Sometime in 2018, I came across the website of game designer `Avery Alder`_.
 I noticed that she described where she lived as "in the Slocan Valley, in
 Sinixt and Ktunaxa Territory," and not as "British Columbia, Canada."
 
@@ -35,6 +35,87 @@ which I now realize I know woefully little about.
 As I learn more about this complex relationship between land and people, I want
 to collect some of the resources I find and share them on this page.
 
+.. _`Avery Alder`: https://averyalder.com/
+
+Unceded Territory
+-----------------
+
+In North America, colonial powers entered into numerous treaties with native
+peoples to acquire land in exchange for goods and currency. In this way huge
+portions of North America, via convoluted "chains of title," came to be claimed
+by what are now Canada and the United States. [#na]_ For much of the land in
+these two states, the government can point to a particular legal document which
+enacted the transfer in ownership.  But for large expanses of the land, Canada
+and the US do not possess even the most tenuous legal claim. This land is
+considered "unceded."
+
+In the United States, the most obvious tract of unceded territory is the land
+around the original 13 British colonies on the Eastern seaboard. Another
+notable piece is eastern Texas, which was "[s]eized by force of arms by the
+Republic of Texas and the United States in the nineteenth century." [#us_map]_
+
+.. figure:: ./media/us-cessions.jpg
+   :alt: Map of land cessions in the United States ca. 2014
+   :align: center
+
+In Canada up until 1975, most of British Columbia, Québec, Yukon, and Nunavut
+were unceded territory.  Since then, there have been some new treaties seeking
+to fill in these gaps, such as the 1975 `James Bay and Northern Quebec
+Agreement
+<https://en.wikipedia.org/wiki/James_Bay_and_Northern_Quebec_Agreement>`__ and
+the 1993 `Nunavut Land Claims Agreement
+<https://en.wikipedia.org/wiki/Nunavut_Land_Claims_Agreement>`__. Below is
+where things stood before 1975. The white areas of the map were those not
+covered by any treaty. [#ca_map]_
+
+.. figure:: ./media/canada-cessions.png
+   :alt: Map of land cessions in Canada pre-1975
+   :align: center
+
+As of 2019, I live in Chicago, Illinois. As best I can tell, the land underneath the
+city center was ceded to the United States in the Treaty of Greenville in 1795.
+The counterparty to the treaty was the `Western Confederacy
+<https://en.wikipedia.org/wiki/Western_Confederacy>`__, a confederacy of Native
+American nations in the Great Lakes region. Among other terms, this treaty
+ceded six square miles around the mouth of the Chicago River at Lake Michigan,
+an important portage between the Great Lakes and the Mississippi River.
+
+The shoreline with Lake Michigan has been pushed back since the Treaty of
+Greenville, the lake filled in with debris from the Great Chicago Fire of 1871
+and by later efforts in order to create more land. As a result, much of the
+coastal land in this area is not part of any treaty. Here is a diagram from
+*Mapping Chicagou/Chicago* illustrating this. The red areas show the original
+waterways. [#mapping]_
+
+.. figure:: ./media/shoreline-unceded-land.png
+   :alt: Chicago shoreline with Lake Michigan over time
+   :align: center
+
+Because this "new" land was never covered by any treaty, the authors
+characterize it as unceded. Below is a photo of an installation piece at the
+Chicago Cultural Center's 2019 Architecture Biennial (also taken from *Mapping
+Chicagou/Chicago*). These windows face east over Michigan Avenue, a street
+which originally ran along the lake shore.
+
+.. figure:: ./media/window-unceded-land.png
+   :alt: Eastern view from Chicago Cultural Center
+   :align: center
+
+.. [#mapping] *Mapping Chicagou/Chicago: A Living Atlas.* Settler Colonial City Project, 2019.
+    Available `online here <https://settlercolonialcityproject.org/Mapping-Chicagou-Chicago>`__.
+    ISBN 978-0-578-56262-9
+
+.. [#na] I have focused on Canada and the United States here. In the future I
+    may try to learn more about the colonial history of Meso/Central America and
+    the Carribean, as well as South America.
+
+.. [#us_map] This image is from the map accompanying Claudio Saunt's book *West of
+    the Revolution*. See `United States`_ section for more information.
+
+.. [#ca_map] This map is from the `RCAANC / CIRNAC
+    <https://www.rcaanc-cirnac.gc.ca/eng/1100100032297/1544716489360>`__. See Canada_ section
+    for more information.
+
 Land Acknowledgement
 --------------------
 
@@ -54,37 +135,11 @@ colonies like Australia and New Zealand) and not in my native United States.
 But since I've become aware of the idea, I have stumbled on a couple land
 acknowledgements here.
 
-Canadian Association of University Teachers
-```````````````````````````````````````````
-
-The `Canadian Association of University Teachers <https://www.caut.ca/>`__
-(CAUT) has a published a `guide
-<https://www.caut.ca/content/guide-acknowledging-first-peoples-traditional-territory>`__
-on land acknowledgements for Canadian universities along with recommended text.
-
-The acknowledgement for the University of Toronto (provided by the University
-itself) reads:
-
-    1/ We [I] would like to begin by acknowledging that the land on which we gather
-    is the traditional territory of the Wendat, the Anishnaabeg, Haudenosaunee,
-    Métis, and the Mississaugas of the New Credit First Nation.
-    
-    2/ I (we) wish to acknowledge this land on which the University of Toronto
-    operates. For thousands of years it has been the traditional land of the
-    Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit
-    River. Today, this meeting place is still the home to many Indigenous people
-    from across Turtle Island [#turtle]_ and we are grateful to have the
-    opportunity to work on this land.
-    
-
-.. [#turtle] *Turtle Island* is a name for the North American continent originally drawn
-    from Lenape folklore, per `Wikipedia <https://en.wikipedia.org/wiki/Turtle_Island_(North_America)>`__.
-
 Chicago Cultural Center
 ```````````````````````
 
-The Settler Colonial City Project (SCCP) [#SCCP]_, in partnership with the
-American Indian Center of Chicago (AIC) [#AIC]_, were contributors to the 2019
+The Settler Colonial City Project (SCCP), [#SCCP]_ in partnership with the
+American Indian Center of Chicago (AIC), [#AIC]_ were contributors to the 2019
 Chicago Architecture Biennial held at the Chicago Cultural Center. The SCCP was
 commissioned to attempt the insurmountable task of "decolonizing the Chicago
 Cultural Center." As part of this project the AIC drafted a land
@@ -163,84 +218,31 @@ Chancellor <https://chancellor.illinois.edu/land_acknowledgement.html>`__.
 .. [#krannert] Krannert Center is located on the campus of the University of
     Illinois at Urbana–Champaign. It is owned and administered by the University.
 
+Canadian Association of University Teachers
+```````````````````````````````````````````
 
-Unceded Territory
------------------
+The `Canadian Association of University Teachers <https://www.caut.ca/>`__
+(CAUT) has a published a `guide
+<https://www.caut.ca/content/guide-acknowledging-first-peoples-traditional-territory>`__
+on land acknowledgements for Canadian universities along with recommended text.
 
-In North America, representatives of colonial powers entered into numerous
-treaties with native peoples to acquire land in exchange for goods and
-currency. In this way huge portions of North America, via convoluted "chains of
-title," came to be claimed by what are now Canada and the United States. [#na]_
-For much of the land in these two states, the government can point to a
-particular legal document which enacted the transfer in ownership.  But for
-large expanses of the land, Canada and the US do not possess even the most
-tenuous legal claim. This land is considered "unceded."
+The acknowledgement for the University of Toronto (provided by the University
+itself) reads:
 
-In the United States, the most obvious tract of unceded territory is the land
-around the original 13 British colonies on the Eastern seaboard. Another
-notable piece is eastern Texas, which was "[s]eized by force of arms by the
-Republic of Texas and the United States in the nineteenth century." [#us_map]_
+    1/ We [I] would like to begin by acknowledging that the land on which we gather
+    is the traditional territory of the Wendat, the Anishnaabeg, Haudenosaunee,
+    Métis, and the Mississaugas of the New Credit First Nation.
+    
+    2/ I (we) wish to acknowledge this land on which the University of Toronto
+    operates. For thousands of years it has been the traditional land of the
+    Huron-Wendat, the Seneca, and most recently, the Mississaugas of the Credit
+    River. Today, this meeting place is still the home to many Indigenous people
+    from across Turtle Island [#turtle]_ and we are grateful to have the
+    opportunity to work on this land.
+    
 
-.. figure:: ./media/us-cessions.jpg
-   :alt: Map of land cessions in the United States ca. 2014
-   :align: center
-
-In Canada up until 1975, most of British Columbia, Québec, Yukon, and Nunavut
-were unceded territory.  Since then, there have been some new treaties seeking
-to fill in these gaps, such as the 1975 `James Bay and Northern Quebec
-Agreement
-<https://en.wikipedia.org/wiki/James_Bay_and_Northern_Quebec_Agreement>`__ and
-the 1993 `Nunavut Land Claims Agreement
-<https://en.wikipedia.org/wiki/Nunavut_Land_Claims_Agreement>`__. Below is
-where things stood before 1975. [#ca_map]_
-
-.. figure:: ./media/canada-cessions.png
-   :alt: Map of land cessions in Canada pre-1975
-   :align: center
-
-.. Rewrite rest of this section?
-
-As of 2019, I live in Chicago, Illinois. I believe that the land underneath the
-city center was ceded to the United States in the Treaty of Greenville in 1795.
-The counterparty to the treaty was the `Western Confederacy
-<https://en.wikipedia.org/wiki/Western_Confederacy>`__, a confederacy of Native
-American nations in the Great Lakes region. Among other terms, this treaty
-ceded six square miles around the mouth of the Chicago River at Lake Michigan,
-an important portage between the Great Lakes and the Mississippi River.
-
-The shoreline with Lake Michigan has been pushed back since this 1795,
-filled in with debris from the Great Chicago Fire of 1871 and by later efforts.
-As a result, much of the coastal land in this area is not part of any treaty. Here is a
-digram from *Mapping Chicagou/Chicago* (a companion book to *Decolonizing the
-Chicago Cultural Center*) illustrating this. [#mapping]_
-
-.. figure:: ./media/shoreline-unceded-land.png
-   :alt: Chicago shoreline with Lake Michigan over time
-   :align: center
-
-Because this land was never covered by any treaty, the SCCP characterizes this
-as unceded. Below is a photo of an installation piece at the Chicago Cultural
-Center (also taken from *Mapping Chicagou/Chicago*). These windows face east
-over Michigan Avenue, a street which originally ran along the lake shore.
-
-.. figure:: ./media/window-unceded-land.png
-   :alt: Eastern view from Chicago Cultural Center
-   :align: center
-
-.. [#mapping] *Mapping Chicagou/Chicago: A Living Atlas.* Settler Colonial City Project, 2019.
-    Available `online here <https://settlercolonialcityproject.org/Mapping-Chicagou-Chicago>`__.
-    ISBN 978-0-578-56262-9
-
-.. [#na] I have focused on Canada and the United States here. In the future I
-    may try to learn more about the colonial history of Meso/Central America and
-    the Carribean, as well as South America.
-
-.. [#us_map] This image is from the map accompanying Claudio Saunt's book *West of
-    the Revolution*. See `United States`_ section for more information.
-
-.. [#ca_map] This map is from the `RCAANC / CIRNAC
-    <https://www.rcaanc-cirnac.gc.ca/eng/1100100032297/1544716489360>`__. See Canada_ section
-    for more information.
+.. [#turtle] *Turtle Island* is a name for the North American continent originally drawn
+    from Lenape folklore, per `Wikipedia <https://en.wikipedia.org/wiki/Turtle_Island_(North_America)>`__.
 
 Maps and Treaties
 -----------------
@@ -252,8 +254,7 @@ The Relations Couronne-Autochtones et Affaires du Nord Canada (RCAANC) /
 Crown-Indigenous Relations and Northern Affairs Canada (CIRNAC) department of
 the Canadian government has published a `series of maps
 <https://www.rcaanc-cirnac.gc.ca/eng/1100100032297/1544716489360>`__ of
-Canadian territory from 1871 up until 1975. The white areas of the map are
-those not covered by any treaty.
+Canadian territory from 1871 up until 1975.
 
 Native Land Digital, a Canadian non-profit group, has published an `interactive
 map <Native Land Digital>`__ showing the lands of indigenous peoples as well
@@ -275,7 +276,7 @@ America, not Canada alone.
 United States
 `````````````
 
-To accompany Claudio Saunt's book *West of the Revolution* [#wotr]_, an
+To accompany Claudio Saunt's book *West of the Revolution*, [#wotr]_ an
 interactive map of land cessions to the United States was produced, hosted
 online `here <http://invasionofamerica.ehistory.org/>`__. [#ioa]_ The map shows
 the parcel of land covered in each of the cessions along with links to text of
@@ -311,7 +312,7 @@ in 1978. The map contains a note that says:
 .. Broken map from Bureau of Indian Affairs: https://biamaps.doi.gov/indianlands/
 
 .. [#wotr] Saunt, Claudio. *West of the Revolution: An Uncommon History of 1776.* W. W. Norton & Company, 2014.
-.. [#ioa] The map URL, http://invasionofamerica.ehistory.org, redirects to a URL at the arcgis.com domain, 
+.. [#ioa] The map URL, ``invasionofamerica.ehistory.org``, redirects to a page at the ``arcgis.com`` domain, 
     `<http://usg.maps.arcgis.com/apps/webappviewer/index.html?id=eb6ca76e008543a89349ff2517db47e6>`__.
     I suspect that one of these links will break someday and this painstakingly detailed ArcGIS map will become inacessible.
 .. [#ar] *Annual Report of the Bureau of American Ethnology to the Secretary of the Smithsonian Institution*.
