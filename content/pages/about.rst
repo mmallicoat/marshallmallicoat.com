@@ -13,6 +13,7 @@ earned a bachelor's degree in mathematics from the University of Kansas in
 2010. I live in Chicago, Illinois. I write and fiddle with computers.
 
 *   Email: mm [at] marshallmallicoat.com
+*   Gophersite: ``gopher://clod.us:70``
 *   Twitter: `@marshallmallico`_
 *   GitHub: `github.com/mmallicoat`_
 
