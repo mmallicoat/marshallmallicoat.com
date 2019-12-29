@@ -339,3 +339,8 @@ in 1978. The map contains a note that says:
 
 .. Australian "acknowledgement of country": https://www.michaelamcdonnell.org/acknowledgement-of-country
 .. https://magazine.nursing.jhu.edu/2019/10/acknowledging-the-land-on-which-we-build/: "Indigenous Land Acknowledgment, by non-Native institutions, is new in the US and follows well-established protocols in Australia, Canada and New Zealand."
+
+.. More canada maps
+.. https://www.nrcan.gc.ca/earth-sciences/geomatics/canada-lands-surveys/11090
+.. Treaties and Comprehensive Land Claims in Canada Map
+.. https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/earthsciences/pdf/treaties_and_comprehensive_land_claims_in_canada_WCAG.pdf

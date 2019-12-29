@@ -21,6 +21,7 @@ Arts and Letters
 *   `Henrot, Camille <https://camillehenrot.fr/en/work>`__: artist
 *   `Kennedy, Erik <http://erikkennedy.com/>`__: poet
 *   `Kenyon, Matt <http://www.swamp.nu/>`__: artist
+*   `Kondabolu, Ashok <http://www.dapwell.com/>`__: personality
 *   `Kraker, Mauriah <https://mapsformaking.com/>`__: dancer
 *   `Kwak, Stephanie <https://www.stephaniekwak.com/>`__: computery poet
 *   `Mortensen, Audun <http://www.audunmortensen.com/>`__: artist and poet

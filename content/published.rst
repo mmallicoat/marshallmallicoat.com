@@ -1,9 +1,11 @@
 :title: Writing Published Elsewhere
 :date: 2018-01-31
-:modified: 2019-06-20
+:modified: 2019-12-29
 :category: Writing
 :slug: writing-published
 
+* `4 poems <https://queenmobs.com/2019/12/poems-marshall-mallicoat/>`__
+  in :t:`Queen Mob's Tea House` (27 Dec. 2019)
 * `Poems <http://magazine.nytyrant.com/poems-marshall-mallicoat/>`__
   in :t:`New York Tyrant` (17 June 2019).
 * `3 poems <https://electricliterature.com/i-remember-you-were-made-of-dark-warm-wood/>`__
