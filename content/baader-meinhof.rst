@@ -2,82 +2,107 @@
 :date: 2020-02-24
 :slug: baader-meinhof
 :category: Notes
-:status: draft
 
-Stills from Der Baader Meinhof Komplex (2008)
-=============================================
+Here are some stills from the 2008 film *Der Baader Meinhof Komplex*,
+directed by Uli Edel.
+It is a historical drama about the `Red Army Faction
+<https://en.wikipedia.org/wiki/Red_Army_Faction>`__ (RAF).
 
-.. figure:: ./media/Ho Chi Min.png
+.. figure:: ./media/bm/Ho\ Chi\ Min.png
+   :align: center 
+
+   Rudi Dutschke leads a crowd in chanting "Ho Chi Min"
+
+.. figure:: ./media/bm/I\ am\ dead,\ let\ me\ live.png
    :align: center
 
-.. figure:: ./media/I am dead, let me live.png
+   Rudi Dutschke after being shot by a would-be assassin
+
+.. figure:: ./media/bm/Father,\ mother.png
    :align: center
 
-.. figure:: ./media/Father, mother.png
+.. figure:: ./media/bm/Soldier,\ soldier.png
    :align: center
 
-.. figure:: ./media/Soldier, soldier.png
+.. figure:: ./media/bm/Dresden.png
    :align: center
 
-.. figure:: ./media/Dresden.png
+   Protest at the offices of Der Spiegel
+
+.. figure:: ./media/bm/Hiroshima.png
    :align: center
 
-.. figure:: ./media/Hiroshima.png
+.. figure:: ./media/bm/Vietnam.png
    :align: center
 
-.. figure:: ./media/Vietnam.png
+.. figure:: ./media/bm/I\ will\ never\ resign\ myself\ to\ nothing.png
    :align: center
 
-.. figure:: ./media/I will never resign myself to nothing.png
+   Gudrun Ensslin interviewed in prison by Ulrike Meinhof
+
+.. figure:: ./media/bm/that\ is\ only\ consistent.png
    :align: center
 
-.. figure:: ./media/that is only consistent.png
+.. figure:: ./media/bm/Cures\ the\ rigidity\ 1.png
    :align: center
 
-.. figure:: ./media/Cures the rigidity 1.png
+   Andreas Baader on a joyride
+
+.. figure:: ./media/bm/Cures\ the\ rigidity\ 2.png
    :align: center
 
-.. figure:: ./media/Cures the rigidity 2.png
+.. figure:: ./media/bm/New\ morality.png
    :align: center
 
-.. figure:: ./media/New morality.png
+.. figure:: ./media/bm/Draw\ a\ line\ between\ us\ and\ our\ enemies.png
    :align: center
 
-.. figure:: ./media/Draw a line between us and our enemies.png
+.. figure:: ./media/bm/The\ gun\ makes\ its\ statement.png
    :align: center
 
-.. figure:: ./media/The gun makes its statement.png
+   Klaus Rainer Röhl reads a communiqué written by the RAF
+
+.. figure:: ./media/bm/Urban\ guerillas.png
    :align: center
 
-.. figure:: ./media/Urban guerillas.png
+   The RAF trains with the PLO
+
+.. figure:: ./media/bm/Revolution\ made\ 2.png
    :align: center
 
-.. figure:: ./media/Revolution made 2.png
+.. figure:: ./media/bm/I\ shit\ on\ the\ policy.png
    :align: center
 
-.. figure:: ./media/I shit on the policy.png
+.. figure:: ./media/bm/Emancipation\ pt\ 1.png
    :align: center
 
-.. figure:: ./media/Emancipation pt 1.png
+   Gudrun Ensslin rebukes Andreas Baader
+
+.. figure:: ./media/bm/Emancipation\ pt\ 2.png
    :align: center
 
-.. figure:: ./media/Emancipation pt 2.png
+.. figure:: ./media/bm/Slander\ pt\ 1.png
    :align: center
 
-.. figure:: ./media/Slander pt 1.png
+   Gudrun Ensslin quotes Mao Tse-tung
+
+.. figure:: ./media/bm/Slander\ pt\ 2.png
    :align: center
 
-.. figure:: ./media/Slander pt 2.png
+.. figure:: ./media/bm/Slander\ pt\ 3.png
    :align: center
 
-.. figure:: ./media/Slander pt 3.png
+.. figure:: ./media/bm/Ulrike.png
    :align: center
 
-.. figure:: ./media/Ulrike.png
+   Arrest of Ulrike Meinhof
+
+.. figure:: ./media/bm/It's\ murder.png
    :align: center
 
-.. figure:: ./media/It's murder.png
+   Holger Meins on hunger strike
+
+.. figure:: ./media/bm/What\ a\ shitty\ action.png
    :align: center
 
-.. figure:: ./media/What a shitty action.png
-   :align: center
+   Andreas Baader decries the RAF siege of the West German Embassy in Stockholm
