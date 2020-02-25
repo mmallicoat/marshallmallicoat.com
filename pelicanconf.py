@@ -26,8 +26,8 @@ EXTRA_PATH_METADATA = {
 ARTICLE_EXCLUDES = ['html']
 
 # Set to 'mm.com' before uploading; use '' when testing.
-#SITEURL = 'https://marshallmallicoat.com'
-SITEURL = ''
+SITEURL = 'https://marshallmallicoat.com'
+# SITEURL = ''
 
 # Change location of pages to root directory, along with articles
 PAGE_SAVE_AS = '{slug}.html'
