@@ -1,6 +1,6 @@
 :title: Links to People
 :date: 2018-08-02
-:modified: 2019-11-04
+:modified: 2020-01-26
 :category: Notes
 :slug: links
 
@@ -15,6 +15,7 @@ Arts and Letters
 *   `Bess, Gabby <http://gabbybess.com/>`__: writer
 *   `Best, Crispin <http://www.crispinbest.com/>`__: writer
 *   `Branwen, Gwern <http://www.gwern.net/>`__: commentator on many topics
+*   `Finston, Lya <https://www.lyafinston.com/>`__: artist and printmaker
 *   `Fishkind, David <http://www.davidfishkind.com/>`__: writer
 *   `Gillespie, Patrick <https://poemshape.wordpress.com/>`__: poet
 *   `Gillig, Cassandra <https://cassandragillig.com/>`__: poet
