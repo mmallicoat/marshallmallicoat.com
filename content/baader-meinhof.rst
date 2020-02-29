@@ -76,10 +76,10 @@ It is a historical drama about the `Red Army Faction
 .. figure:: ./media/bm/Emancipation\ pt\ 1.png
    :align: center
 
-   Gudrun Ensslin rebukes Andreas Baader
-
 .. figure:: ./media/bm/Emancipation\ pt\ 2.png
    :align: center
+
+   Gudrun Ensslin rebukes Andreas Baader
 
 .. figure:: ./media/bm/Slander\ pt\ 1.png
    :align: center

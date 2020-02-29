@@ -8,9 +8,9 @@
 About Me
 ========
 
-My name is Marshall Mallicoat. I was born in Fairfax, Virginia, in 1988. I
-earned a bachelor's degree in mathematics from the University of Kansas in
-2010. I live in Chicago, Illinois. I write and fiddle with computers.
+My name is Marshall Mallicoat. I was born in Fairfax, Virginia. I
+earned a bachelor's degree in mathematics from the University of Kansas.
+I live in Chicago, Illinois. I write and fiddle with computers.
 
 *   Email: mm [at] marshallmallicoat.com
 *   Gophersite: ``gopher://clod.us``

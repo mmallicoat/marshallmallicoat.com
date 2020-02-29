@@ -19,6 +19,7 @@ Webster's.
 *   chaise
 *   coach-and-four [#Stephenson]_
 *   dearborn
+*   dogcart
 *   droshkey
 *   four-in-hand
 *   gig
