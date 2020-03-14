@@ -24,34 +24,18 @@ see when reading the Web without JavaScript.
     notification.
     Donald Trump Boris Johnson Donald Trump Boris Johnson [5e0f163885]
     Donald Trump and Boris Johnson. Getty
-    
-      • The UK on Friday warned US President Donald Trump against outright war
-        with Iran.
-      • The foreign secretary, Dominic Raab, said that further conflict "is in
-        none of our interests."
-      • Iran and the US are on the brink of war after Trump ordered an airstrike
-        that killed Iranian Maj. Gen. Qassem Soleimani late Thursday.
-      • An adviser to Iranian President Hassan Rouhani said the US had crossed a
-        "red line," and the country&apos;s supreme leader, Ayatollah Ali Khamenei,
-        warned of "harsh retaliation."
-    
-    The UK government on Friday urged President Donald Trump to step back from
-    outright war with Iran after a US airstrike killed Iran&apos;s elite Quds
-    Force commander, Maj. Gen. Qassem Soleimani, warning that further conflict in
-    the region "is in none of our interests."
 
 The parts that stuck out to me were:
 
 *   The letter F.
 *   An envelope. It indicates the ability to send an email.
 *   An image of a chain link. It symobilizes a website link url.
-*   A stylized bird with an open mouth, tweeting.
 
 And so on. What are these things anyway? Looking at the source of the page,
 I saw it has a bunch of icons which are also hyperlinks. The icon class
 contains a non-standard HTML tag ``<desc>`` which contains a description
 of the icon (perhaps in a gesture of accessibility toward people with vision
-impairment). The icon element looks something like this:
+impairment). The icon block looks something like this:
 
 .. code:: html
 
@@ -77,10 +61,10 @@ browser. I wrote a little Python script to extract these descriptions.
     with open('snippets.txt', 'w') as f:
         f.write('\n'.join(snippets))
 
-Finally, here are these little snippets standing alone, with the article and
-other junk stripped out. Read together, they have some majesty.
+Finally, here are all these little snippets standing alone, with the article
+and other junk stripped out. Read together, they have some majesty.
 
-::
+.. line-block::
 
     A vertical stack of three evenly spaced horizontal lines.
     A magnifying glass. It indicates, "Click to perform a search".
@@ -114,6 +98,8 @@ other junk stripped out. Read together, they have some majesty.
     Three evenly spaced dots forming an ellipsis: "...".
     Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification.
     A check mark. It indicates a confirmation of your intended interaction.
+
+----
 
 .. _w3m: https://en.wikipedia.org/wiki/W3m
 
