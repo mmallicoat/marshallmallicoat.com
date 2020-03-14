@@ -46,7 +46,7 @@ impairment). The icon block looks something like this:
         </svg>
     </a>
  
-The body of the ``<desc>`` elements get dumped into the visible text in the w3m
+The body of the ``<desc>`` element get dumped into the visible text in the w3m
 browser. I wrote a little Python script to extract these descriptions.
 
 .. code:: python
