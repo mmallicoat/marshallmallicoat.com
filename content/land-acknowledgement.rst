@@ -267,6 +267,8 @@ America, not Canada alone.
 
 .. The `Ontario.ca <https://www.ontario.ca/>`__ website contains a `map <https://www.ontario.ca/page/map-ontario-treaties-and-reserves>`__ of land cessions in the province of Ontario with links to the text of the treaties.
 
+.. Library of Congress tract cession maps: https://memory.loc.gov/ammem/llssquery.html
+
 .. More Canada maps/treaties:
 .. Treaties in the province of Saskatchewan: http://www.otc.ca/pages/about_the_treaties.html
 .. Manitoba: http://www.trcm.ca/treaties/treaties-in-manitoba/view-pdf-interactive-map-of-numbered-treaties-trcm-july-20-entry/

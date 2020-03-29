@@ -1,5 +1,5 @@
 :date: 2015-01-01
-:modified: 2019-10-26
+:modified: 2020-03-29
 :slug: about
 :title: About
 :category: Meta
@@ -8,9 +8,10 @@
 About Me
 ========
 
-My name is Marshall Mallicoat. I was born in Fairfax, Virginia. I
-earned a bachelor's degree in mathematics from the University of Kansas.
-I live in Chicago, Illinois. I write and fiddle with computers.
+My name is Marshall Mallicoat.
+I grew up in the lower Kansas River basin
+and studied mathematics at the University of Kansas.
+I live in Chicago, where I write and fiddle with computers.
 
 *   Email: mm [at] marshallmallicoat.com
 *   Gophersite: ``gopher://clod.us``
