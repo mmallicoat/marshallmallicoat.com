@@ -32,6 +32,7 @@ Arts and Letters
 *   `Shaw, Lucy K. <https://lkshow.biz/>`__: writer
 *   `Stinson, Erik <http://erikstinson.com/>`__: "writer and commercial creative"
 *   `Tamirisa, Asha <https://ashatamirisa.net/>`__: musician and artist
+*   `Teague, Stacey <https://staceyteague.com/>`__: poet
 *   `Thwaites, Thomas <http://www.thomasthwaites.com/>`__: designer
 *   `Troemel, Brad <http://main.bradtroemel.com/>`__: artist
 *   `Vandy, Michelle <http://www.looknohands.me/>`__: designer
