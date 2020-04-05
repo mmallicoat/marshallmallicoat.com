@@ -1,13 +1,13 @@
 :title: Writing Published Elsewhere
 :date: 2018-01-31
-:modified: 2020-03-07
+:modified: 2020-04-05
 :category: Writing
 :slug: writing-published
 
 * `1 poem <https://www.funnylookingdogquarterly.com/issues>`__
   in :t:`Funny Looking Dog Quarterly`, issue 4, Winter 2020 (1 Mar. 2020)
 * `4 poems <https://queenmobs.com/2019/12/poems-marshall-mallicoat/>`__
-  in :t:`Queen Mob's Tea House` (27 Dec. 2019)
+  in :t:`Queen Mob's Teahouse` (27 Dec. 2019)
 * `Poems <http://magazine.nytyrant.com/poems-marshall-mallicoat/>`__
   in :t:`New York Tyrant` (17 June 2019).
 * `3 poems <https://electricliterature.com/i-remember-you-were-made-of-dark-warm-wood/>`__
