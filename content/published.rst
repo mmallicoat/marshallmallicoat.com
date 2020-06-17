@@ -17,7 +17,7 @@
 * `3 poems <http://magazine.nytyrant.com/poems-marshall-mallicoat/>`__
   in :t:`New York Tyrant` (17 June 2019)
 * `3 poems <https://electricliterature.com/i-remember-you-were-made-of-dark-warm-wood/>`__
-  in Electric Literature's :t:`Commuter`, issue 57 (25 March 2019)
+  in Electric Literature's :t:`Commuter`, issue 57 (25 Mar. 2019)
 * "Siste Viator" featured in Susan Dunne's article `"Syllable: A Monthly Night Of Words
   And Music At Little River Restoratives"`_ in the :t:`Hartford Courant` (28 Nov. 2017)
 * Songs "Cellophane" and "Fountain," co-written with Alexander Sheppard,
