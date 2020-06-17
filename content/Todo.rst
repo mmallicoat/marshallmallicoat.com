@@ -8,6 +8,7 @@
 Todo
 ----
 
+* Add alt text to images for accessibility
 * Upgrade to latest Python 3 version of Pelican.
   Figure out how to get static directory ``content/html``
   to build correctly.

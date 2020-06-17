@@ -1,7 +1,33 @@
 :title:  Found Poetry
 :date:   2020-03-13
+:modified: 2020-06-17
 :slug: found-poetry
 :category: Notes
+
+.. contents:: Index
+
+Fiberoptic Haiku
+----------------
+
+The admonition on the tag of this fiberoptic cord is broken into three little
+lines like a haiku. 
+
+.. figure:: ./media/cord-haiku.jpg
+   :align: center
+   :alt: a fiberoptic cord with a tag attached
+
+The text reads:
+
+.. line-block::
+
+   Insert securely lest
+   should be detached
+   in set
+
+The suspension after *lest* in the first line is quite good, as well as the
+anticlimax of the last line.
+
+
 
 A stylized bird with an open mouth, tweeting.
 ---------------------------------------------
