@@ -4,7 +4,7 @@
 :slug: found-poetry
 :category: Notes
 
-.. contents:: Index
+.. contents:: **Contents**
 
 Fiberoptic Haiku
 ----------------
@@ -29,8 +29,8 @@ anticlimax of the last line.
 
 
 
-A stylized bird with an open mouth, tweeting.
----------------------------------------------
+A stylized bird with an open mouth, tweeting
+--------------------------------------------
 
 While reading a news article [#article]_ with the w3m_ text-based Web browser,
 I noticed some strange sentences interspersed in the markup gore you typically
@@ -72,7 +72,7 @@ impairment). The icon block looks something like this:
         </svg>
     </a>
  
-The body of the ``<desc>`` element get dumped into the visible text in the w3m
+The body of the ``<desc>`` element gets dumped into the visible text in the w3m
 browser. I wrote a little Python script to extract these descriptions.
 
 .. code:: python
@@ -87,7 +87,7 @@ browser. I wrote a little Python script to extract these descriptions.
     with open('snippets.txt', 'w') as f:
         f.write('\n'.join(snippets))
 
-Finally, here are all these little snippets standing alone, with the article
+Finally, here are all these snippets standing alone, with the article
 and other junk stripped out. Read together, they have some majesty.
 
 .. line-block::
