@@ -1,6 +1,6 @@
 :title: Links to People
 :date: 2018-08-02
-:modified: 2020-01-26
+:modified: 2020-07-03
 :category: Notes
 :slug: links
 
@@ -35,6 +35,7 @@ Arts and Letters
 *   `Teague, Stacey <https://staceyteague.com/>`__: poet
 *   `Thwaites, Thomas <http://www.thomasthwaites.com/>`__: designer
 *   `Troemel, Brad <http://main.bradtroemel.com/>`__: artist
+*   `Van Arsdale, Hannah <https://hannahvanarsdale.info/>`__: videographer
 *   `Vandy, Michelle <http://www.looknohands.me/>`__: designer
 *   `Wagenknecht, Addie <http://www.placesiveneverbeen.com/>`__: artist and designer
 *   `Weaver, Deke <https://www.unreliablebestiary.org/>`__: storyteller
