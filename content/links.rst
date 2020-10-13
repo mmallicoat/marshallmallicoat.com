@@ -69,6 +69,12 @@ Gopher Sites [#Gopher]_
 *   `solderpunk <gopher://circumlunar.space/1/~solderpunk>`__
 *   `spring <gopher://republic.circumlunar.space/1/~spring>`__
 
+Other
+-----
+
+*   `Michael Bluejay <https://michaelbluejay.com>`__: back-of-envelope stuff
+*   `Vitamin B12 <http://veganhealth.org/articles/vitaminb12>`__: not a person, but a great article on B12 for plant-based people
+
 .. [#Gopher] `Gopher <https://en.wikipedia.org/wiki/Gopher_(protocol)>`__
     is a communication protocol introduced in 1991, the same year as HTTP.
     Although far less popular than the Web today,
