@@ -30,6 +30,7 @@ Arts and Letters
 *   `Kraker, Mauriah <https://mapsformaking.com/>`__: dancer
 *   `Kwak, Stephanie <https://www.stephaniekwak.com/>`__: computery poet
 *   `Mortensen, Audun <http://www.audunmortensen.com/>`__: artist and poet
+*   `Monir, Carta <https://www.cartamonir.com/>`__: cartoonist and writer
 *   `Nieuwland, Jackson <http://www.jacksonnieuwland.com>`__: poet
 *   `Pageant Boys <http://www.pageantboys.com/>`__: my friend Alexander Sheppard's band
 *   `Predko, Hillary <http://hillarypredko.com/>`__: writer and designer
