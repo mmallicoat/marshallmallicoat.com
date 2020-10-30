@@ -17,6 +17,7 @@ Arts and Letters
 *   `Branwen, Gwern <http://www.gwern.net/>`__: commentator on many topics
 *   `Carrete, Ana <https://anacarrete.bigcartel.com/>`__: poet
 *   `Espinoza, J. Jennifer <https://joshuajenniferespinoza.com/>`__: poet
+*   `F, Leah <http://www.trickymothernature.com/>`__: writer
 *   `Finston, Lya <https://www.lyafinston.com/>`__: artist and printmaker
 *   `Fishkind, David <http://www.davidfishkind.com/>`__: writer
 *   `Gillespie, Patrick <https://poemshape.wordpress.com/>`__: poet
