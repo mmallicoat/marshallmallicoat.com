@@ -1,5 +1,5 @@
 :date: 2015-01-01
-:modified: 2020-03-29
+:modified: 2020-11-17
 :slug: about
 :title: About
 :category: Meta
@@ -14,7 +14,6 @@ and studied mathematics at the University of Kansas.
 I live in Chicago, where I write and fiddle with computers.
 
 *   Email: mm [at] marshallmallicoat.com
-*   Gophersite: ``gopher://clod.us``
 *   Twitter: `@marshallmallico`_
 *   GitHub: `github.com/mmallicoat`_
 
