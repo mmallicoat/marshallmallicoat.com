@@ -15,10 +15,8 @@ I live in Chicago, where I write and fiddle with computers.
 
 *   Email: mm [at] marshallmallicoat.com
 *   Twitter: `@marshallmallico`_
-*   GitHub: `github.com/mmallicoat`_
 
 .. _`@marshallmallico`: https://twitter.com/marshallmallico
-.. _`github.com/mmallicoat`: https://github.com/mmallicoat
 
 About Site
 ==========
