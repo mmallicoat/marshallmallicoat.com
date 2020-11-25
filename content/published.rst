@@ -1,15 +1,15 @@
 :title: Writing Published Elsewhere
 :date: 2018-01-31
-:modified: 2020-06-17
+:modified: 2020-11-25
 :category: Writing
 :slug: writing-published
 
-.. Note: newhive.com page with 3 Pop Serial poems is broken
-
+* `2 poems <https://anotherchicagomagazine.net/2020/11/17/poems-by-marshall-mallicoat/>`__
+  in :t:`Another Chicago Magazine` (17 Nov. 2020)
 * `2 poems <https://kgbbarlit.com/content/two-poems-0>`__
   in :t:`KGB Bar Lit`, issue 10 (16 May 2020)
 * `"Moon/stone" <http://www.scum-mag.com/moon-stone/>`__
-  in :t:`Scum` magazine (14 May 2020)
+  in :t:`Scum` (14 May 2020)
 * `"Winter at Rat House" <https://www.funnylookingdogquarterly.com/issues>`__
   in :t:`Funny Looking Dog Quarterly`, issue 4, Winter 2020 (1 Mar. 2020)
 * `4 poems <https://queenmobs.com/2019/12/poems-marshall-mallicoat/>`__
@@ -23,8 +23,7 @@
 * Songs "Cellophane" and "Fountain," co-written with Alexander Sheppard,
   on the Pageant Boys' album `Shadowboxing`_, released by The Record Machine (19 May 2017)
 * `6 poems <http://westernbeefs.com/mallicoat>`__ in :t:`Western Beefs of North America` (mid 2014)
-* `3 poems <http://newhive.com/popserial/marshall-mallicoat-3-poems>`__ in :t:`Pop Serial`,
-  issue 5 (early 2014)
+* 3 poems in :t:`Pop Serial`, issue 5 (early 2014)
 * Essay_ in the "detailed accounts of february 15, 2013" issue of :t:`horse ghost` (late 2013)
 * Spoken poem "where my baby at in seattle" in `Ho Hum Vol. 1`_
   released by :t:`Keep This Bag Away From Children` (3 Apr. 2013)
