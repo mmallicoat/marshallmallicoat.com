@@ -29,8 +29,6 @@
   released by :t:`Keep This Bag Away From Children` (3 Apr. 2013)
 * `"Poem" <http://www.everyday-genius.com/2013/02/marshall-mallicoat.html>`__ in
   :t:`Everyday Genius` (15 Feb. 2013)
-* Song "Kill Cops, Kill Yourself" in Adam Humphrey's documentary `Shitty Youth`_
-  [at the 6:38 minute mark] (Nov. 2012)
 * `3 poems <https://web.archive.org/web/20150310015452/http://issue3.popserial.net:80/marshall-mallicoat/>`__
   in :t:`Pop Serial`, issue 3 (early 2012)
 * `"The radiators come on at night and wake me up"
@@ -42,5 +40,8 @@
 .. _`"Syllable: A Monthly Night Of Words And Music At Little River Restoratives"`: https://web.archive.org/web/20171129005528/https://www.courant.com/entertainment/arts-theater/hc-syllable-poetry-series-little-river-restorative-20171119-story.html
 .. _`Shadowboxing`: https://therecordmachine.bandcamp.com/album/shadowboxing
 .. _`Ho Hum Vol. 1`: https://keepthisbagawayfromchildren.bandcamp.com
-.. _`Shitty Youth`: https://www.youtube.com/watch?v=Ppm8__FxZ4o
 .. _Essay: https://web.archive.org/web/20160530031314/http://www.horseghost.info/p/marshall-mallicoat_8.html
+
+..
+    * Song "Kill Cops, Kill Yourself" in Adam Humphrey's documentary `Shitty Youth`_ [at the 6:38 minute mark] (Nov. 2012)
+    .. _`Shitty Youth`: https://www.youtube.com/watch?v=Ppm8__FxZ4o
