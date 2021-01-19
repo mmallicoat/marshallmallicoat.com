@@ -1,5 +1,5 @@
 :date: 2015-01-01
-:modified: 2020-11-17
+:modified: 2021-01-19
 :slug: about
 :title: About
 :category: Meta
@@ -9,8 +9,7 @@ About Me
 ========
 
 My name is Marshall Mallicoat.
-I grew up in the lower Kansas River basin
-and studied mathematics at the University of Kansas.
+I grew up in eastern Kansas.
 I live in Chicago, where I write and fiddle with computers.
 
 *   Email: mm [at] marshallmallicoat.com
