@@ -1,6 +1,6 @@
 :title: Links to People
 :date: 2018-08-02
-:modified: 2020-07-03
+:modified: 2021-01-19
 :category: Notes
 :slug: links
 
@@ -15,6 +15,7 @@ Arts and Letters
 *   `Bess, Gabby <http://gabbybess.com/>`__: writer
 *   `Best, Crispin <http://www.crispinbest.com/>`__: writer
 *   `Branwen, Gwern <http://www.gwern.net/>`__: commentator on many topics
+*   `Brathwaite-Shirley, Danielle <https://www.daniellebrathwaiteshirley.com/>`__: artist
 *   `Carrete, Ana <https://anacarrete.bigcartel.com/>`__: poet
 *   `Espinoza, J. Jennifer <https://joshuajenniferespinoza.com/>`__: poet
 *   `F, Leah <http://www.trickymothernature.com/>`__: writer
