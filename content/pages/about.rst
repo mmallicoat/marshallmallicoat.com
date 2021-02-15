@@ -1,5 +1,5 @@
 :date: 2015-01-01
-:modified: 2021-01-19
+:modified: 2021-02-15
 :slug: about
 :title: About
 :category: Meta
@@ -13,9 +13,9 @@ I grew up in eastern Kansas.
 I live in Chicago, where I write and fiddle with computers.
 
 *   Email: mm [at] marshallmallicoat.com
-*   Twitter: `@marshallmallico`_
+*   Twitter: `@marshmallicoat`_
 
-.. _`@marshallmallico`: https://twitter.com/marshallmallico
+.. _`@marshmallicoat`: https://twitter.com/marshmallicoat
 
 About Site
 ==========
