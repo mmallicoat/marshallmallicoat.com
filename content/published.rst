@@ -1,16 +1,20 @@
 :title: Writing Published Elsewhere
 :date: 2018-01-31
-:modified: 2020-11-25
+:modified: 2021-03-06
 :category: Writing
 :slug: writing-published
 
+* `"Wilder vs. Fury" <https://delicatefriend.com/delicate-friend-spring-2021/>`__
+  in :t:`Delicate Friend`, issue 2 (1 March 2021)
+* `"Queer Cinema" <https://www.funnylookingdogquarterly.com/issue-5>`__
+  in :t:`Funny Looking Dog Quarterly`, issue 5, Winter 2021 (18 Feb. 2021)
 * `2 poems <https://anotherchicagomagazine.net/2020/11/17/poems-by-marshall-mallicoat/>`__
   in :t:`Another Chicago Magazine` (17 Nov. 2020)
 * `2 poems <https://kgbbarlit.com/content/two-poems-0>`__
   in :t:`KGB Bar Lit`, issue 10 (16 May 2020)
 * `"Moon/stone" <http://www.scum-mag.com/moon-stone/>`__
   in :t:`Scum` (14 May 2020)
-* `"Winter at Rat House" <https://www.funnylookingdogquarterly.com/issues>`__
+* `"Winter at Rat House" <https://www.funnylookingdogquarterly.com/new-page-1>`__
   in :t:`Funny Looking Dog Quarterly`, issue 4, Winter 2020 (1 Mar. 2020)
 * `4 poems <https://queenmobs.com/2019/12/poems-marshall-mallicoat/>`__
   in :t:`Queen Mob's Teahouse` (27 Dec. 2019)
